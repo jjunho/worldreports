@@ -345,7 +345,7 @@ def test_the_sitemap_lists_every_published_page(site, countries):
 
 
 def test_the_site_is_served_at_its_own_domain(site):
-    assert (site / "CNAME").read_text().strip() == "worldreports.io"
+    assert (site / "CNAME").read_text().strip() == "estatisticas.jjunho.org"
     assert (site / ".nojekyll").exists(), \
         "GitHub Pages would run Jekyll and drop files beginning with _"
 

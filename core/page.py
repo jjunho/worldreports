@@ -41,7 +41,7 @@ from core import sitebuild
 from core.country import COUNTRIES_DIR, ROOT, Country
 
 SITE = ROOT / "site"
-ORIGIN = "https://worldreports.io"
+ORIGIN = "https://estatisticas.jjunho.org"
 REPO = "https://github.com/jjunho/worldreports"
 GOOGLE_ANALYTICS_ID = "G-7LKE9YHT74"
 SITE_NAME = "Estatísticas Recentes"
@@ -1049,7 +1049,7 @@ def build(out_dir: Path, only: list[str] | None = None) -> list[str]:
     if not only:
         (out_dir / "index.html").write_text(home(countries, shared, built),
                                             encoding="utf-8")
-        (out_dir / "CNAME").write_text("worldreports.io\n", encoding="utf-8")
+        (out_dir / "CNAME").write_text("estatisticas.jjunho.org\n", encoding="utf-8")
         (out_dir / "sitemap.xml").write_text(_sitemap(countries, built),
                                              encoding="utf-8")
         (out_dir / "robots.txt").write_text(

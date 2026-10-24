@@ -8,7 +8,9 @@ editions, 172 committed datasets, 2006 to 2026. Each country is published in
 Portuguese, Korean, Simplified Chinese and English.
 
 This is a fork of **[worldreports.io](https://worldreports.io)**, renamed
-**Estatísticas Recentes**, containing only Brazil, China and South Korea.
+**Estatísticas Recentes** and published at
+**[estatisticas.jjunho.org](https://estatisticas.jjunho.org)**, containing only
+Brazil, China and South Korea.
 
 Every chart is regenerated from CSVs committed in this repository. Nothing
 reads an API at draw time, so a figure on a page and the file behind it
