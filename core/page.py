@@ -829,10 +829,13 @@ def negotiator(country: Country, shared: dict, local: dict,
     """`/france/` — a choice of language, not a guess at one.
 
     It redirects to the language the browser asks for when that is one we
-    publish, and otherwise shows the list. Either way the languages are
-    real links, so the page works with the script off and a crawler
-    following it lands on a real document. It is noindex because the
-    document it stands for is the locale page, which carries the canonical.
+    publish and is not English, and otherwise to the country's own default.
+    English is the fallback for a missing translation, not the front door:
+    an English browser lands in the country's native edition and can switch
+    from the header. The languages remain real links, so the page works with
+    the script off and a crawler following it lands on a real document. It
+    is noindex because the document it stands for is the locale page, which
+    carries the canonical.
     """
     ch = Chrome(country, country.default_locale, shared, local, n)
     codes = list(country.locale_codes)
@@ -863,15 +866,19 @@ def negotiator(country: Country, shared: dict, local: dict,
   <p class="home__foot"><a href="/">{e(ch.t("country.all"))}</a></p>
   <script>
     /* The list above is the page; this only saves a click for a reader
-       whose browser already said which language they read. */
+       whose browser already said which language they read. English is
+       deliberately not honoured here: it is the fallback, not the default,
+       and a country opens in its own language unless the browser asks for
+       another one we publish. */
     (() => {{
       const have = {json.dumps(codes)};
-      for (const tag of navigator.languages || [navigator.language || ""]) {{
-        const base = String(tag).toLowerCase().split("-")[0];
-        const hit = have.find((c) => c === base);
-        if (hit) {{ location.replace(hit + "/" + location.hash); return; }}
-      }}
-      location.replace({json.dumps(country.default_locale)} + "/" + location.hash);
+      const base = (tag) => String(tag).toLowerCase().split("-")[0];
+      const hit = (navigator.languages || [navigator.language || ""])
+        .map(base)
+        .filter((b) => b && b !== "en")
+        .map((b) => have.find((c) => c === b || c.startsWith(b + "-")))
+        .find(Boolean);
+      location.replace((hit || {json.dumps(country.default_locale)}) + "/" + location.hash);
     }})();
   </script>
 </body>
@@ -882,10 +889,10 @@ def negotiator(country: Country, shared: dict, local: dict,
 def home(countries: list[Country], shared: dict, built: str) -> str:
     """The front page: three flags and nothing to read before them.
 
-    It is in English with each country named in its own language too, since
-    there is no country yet to pick a language from, and every card links
-    to that country's negotiator so the reader's own language is honoured
-    one click later.
+    It is in Portuguese, the language of this fork's first reader, with
+    each country named in its own language too; every card links to that
+    country's negotiator so the browser's own preference is honoured one
+    click later.
     """
     cards = []
     for c in countries:
@@ -899,11 +906,12 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
         # the default locale either, which is English everywhere because
         # English is the fallback rather than anyone's first language.
         native = c.name.get(c.locales[0].code)
-        also = f" · {e(native)}" if native and native != c.name.get("en") else ""
+        shown = c.name.get("pt") or c.name.get("en") or c.wordmark
+        also = f" · {e(native)}" if native and native != shown else ""
         cards.append(f"""<li><a class="home__card" href="/{c.slug}/">
       <span class="home__flag" aria-hidden="true">{e(c.flag_emoji)}</span>
       <span class="home__bands" aria-hidden="true">{strip}</span>
-      <span class="home__name">{e(c.name.get("en") or c.wordmark)}{also}</span>
+      <span class="home__name">{e(shown)}{also}</span>
       <span class="home__meta">{c.years[0]}–{c.years[-1]} · {e(endonyms)}</span>
     </a></li>""")
 
@@ -914,24 +922,24 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
         "@type": "WebSite",
         "name": "worldreports.io",
         "url": ORIGIN + "/",
-        "description": "Plates of official statistics, one country at a time, "
-                       "built only from committed CSVs.",
+        "description": "Pranchas de estatísticas oficiais, um país de cada vez, "
+                       "construídas apenas a partir de CSVs versionados.",
         "hasPart": [{"@type": "Dataset",
-                     "name": c.name.get("en") or c.wordmark,
+                     "name": c.name.get("pt") or c.wordmark,
                      "url": f"{ORIGIN}/{c.slug}/"} for c in countries],
     }
     return f"""<!doctype html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {_analytics()}
-  <title>worldreports.io — official statistics, country by country</title>
-  <meta name="description" content="Data plates on {len(countries)} countries, {years[0]}–{years[1]}, built only from the statistics their own institutions publish and regenerated from committed CSVs.">
+  <title>worldreports.io — estatísticas oficiais, país por país</title>
+  <meta name="description" content="Pranchas de dados sobre {len(countries)} países, {years[0]}–{years[1]}, construídas apenas com as estatísticas que suas próprias instituições publicam e regeneradas a partir de CSVs versionados.">
   <link rel="canonical" href="{ORIGIN}/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="worldreports.io">
-  <meta property="og:description" content="Official statistics, country by country.">
+  <meta property="og:description" content="Estatísticas oficiais, país por país.">
   <meta property="og:url" content="{ORIGIN}/">
   <link rel="icon" href="data:image/svg+xml,{e('<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1 1\"><text y=\".85\" font-size=\"1\">🌍</text></svg>')}">
   <link rel="stylesheet" href="assets/app.css">
@@ -942,16 +950,16 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
 <body class="home">
   <header class="home__head">
     <h1 class="home__mark">worldreports.io</h1>
-    <p class="home__dek">Plates of official statistics, one country at a
-      time. Every figure comes from the institution that publishes it, and
-      every chart is regenerated from CSVs committed in the open — so a
-      number on a page and the file behind it cannot drift apart.</p>
+    <p class="home__dek">Pranchas de estatísticas oficiais, um país de cada
+      vez. Cada número vem da instituição que o publica, e cada gráfico é
+      regenerado a partir de CSVs versionados — assim, um número na página e
+      o arquivo por trás dele não podem divergir.</p>
   </header>
   <ul class="home__grid">
     {chr(10).join(cards)}
   </ul>
   <footer class="home__foot">
-    <a href="{REPO}">Data, charts and source on GitHub</a> ·
+    <a href="{REPO}">Dados, gráficos e código no GitHub</a> ·
     built {built}
   </footer>
 </body>

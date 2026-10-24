@@ -36,7 +36,7 @@ locales:
   - {code: en,      html_lang: en,    og_locale: en_US, endonym: English}
   - {code: pt,      html_lang: pt-BR, og_locale: pt_BR, endonym: Português}
   - {code: ko,      html_lang: ko,    og_locale: ko_KR, endonym: 한국어}
-default_locale: en
+default_locale: zh-Hans
 
 # On the plate spine (PLATE_SPINE.md): every plate declares its topic and
 # claims its panels by slot, on the shared frame and reference scales.
