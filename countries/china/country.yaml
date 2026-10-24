@@ -31,11 +31,14 @@ name:
 # south-korea's ko shows the pattern for a non-Latin script (language code,
 # not country code; html_lang + og_locale carry the region). zh-Hans needs
 # the zh-CN region forms. Official-first, English default per precedent.
+# Publication order: the country's own language first and English last.
+# English is the fallback for a missing translation, not the second
+# language of every reader.
 locales:
   - {code: zh-Hans, html_lang: zh-CN, og_locale: zh_CN, endonym: 简体中文}
-  - {code: en,      html_lang: en,    og_locale: en_US, endonym: English}
   - {code: pt,      html_lang: pt-BR, og_locale: pt_BR, endonym: Português}
   - {code: ko,      html_lang: ko,    og_locale: ko_KR, endonym: 한국어}
+  - {code: en,      html_lang: en,    og_locale: en_US, endonym: English}
 default_locale: zh-Hans
 
 # On the plate spine (PLATE_SPINE.md): every plate declares its topic and
