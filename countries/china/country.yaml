@@ -35,6 +35,7 @@ locales:
   - {code: zh-Hans, html_lang: zh-CN, og_locale: zh_CN, endonym: 简体中文}
   - {code: en,      html_lang: en,    og_locale: en_US, endonym: English}
   - {code: pt,      html_lang: pt-BR, og_locale: pt_BR, endonym: Português}
+  - {code: ko,      html_lang: ko,    og_locale: ko_KR, endonym: 한국어}
 default_locale: en
 
 # On the plate spine (PLATE_SPINE.md): every plate declares its topic and
@@ -125,10 +126,12 @@ seo:
     zh-Hans: "中国 — 注明来源的数据图版，2006–2026"
     en: "China — sourced data plates, 2006–2026"
     pt: "China — pranchas de dados com fontes identificadas, 2006–2026"
+    ko: "중국 — 출처를 밝힌 데이터 플레이트, 2006–2026"
   description:
     zh-Hans: "中国经济、财政、贸易、市场、就业、人口、移民、死亡率与信贷数据图版；世界银行、IMF、BIS、联合国系统及其他明确标注的可比来源分开呈现，受阻的国家序列不以代理值填补。"
     en: "Data plates on China's economy, public finances, trade, markets, work, demography, migration, mortality and credit, using separately labelled comparable series from the World Bank, IMF, BIS, UN system and other documented sources. Blocked national series are disclosed rather than replaced with proxies."
     pt: "Pranchas sobre economia, contas públicas, comércio, mercados, trabalho, demografia, imigração, mortalidade e crédito da China, com séries comparáveis identificadas separadamente do Banco Mundial, FMI, BIS, sistema ONU e outras fontes documentadas. Séries nacionais bloqueadas são declaradas, não substituídas por aproximações."
+    ko: "중국의 경제, 공공재정, 무역, 시장, 노동, 인구, 이주, 사망률과 신용에 관한 데이터 플레이트. 세계은행, IMF, BIS, 유엔 시스템 등 명시된 비교 가능 출처를 별도로 표기하며, 차단된 국가 시리즈를 대체값으로 채우지 않습니다."
   keywords:
     - China
     - National Bureau of Statistics
@@ -143,3 +146,4 @@ sources:
   zh-Hans: "国家统计局、中国人民银行、国家外汇管理局、海关总署、财政部，以及世界银行与国际货币基金组织"
   en: "the National Bureau of Statistics, the People's Bank of China, the State Administration of Foreign Exchange, the General Administration of Customs and the Ministry of Finance, with the World Bank and IMF"
   pt: "o Escritório Nacional de Estatísticas, o Banco Popular da China, a Administração Estatal de Câmbio, a Administração Geral de Alfândega e o Ministério das Finanças, com o Banco Mundial e o FMI"
+  ko: "중국 국가통계국, 중국인민은행, 국가외환관리국, 해관총서, 재정부, 그리고 세계은행과 IMF"

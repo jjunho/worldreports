@@ -22,6 +22,7 @@ locales:
   - {code: ko, html_lang: ko,    og_locale: ko_KR, endonym: 한국어}
   - {code: en, html_lang: en,    og_locale: en_US, endonym: English}
   - {code: pt, html_lang: pt-BR, og_locale: pt_BR, endonym: Português}
+  - {code: zh-Hans, html_lang: zh-CN, og_locale: zh_CN, endonym: 简体中文}
 default_locale: en
 
 # The x-axis span every plate shares, and the last year whose annual
@@ -83,10 +84,12 @@ seo:
     en: "South Korea — an infographic atlas, 2006–2026"
     ko: "대한민국 — 인포그래픽 아틀라스, 2006–2026"
     pt: "Coreia do Sul — um atlas infográfico, 2006–2026"
+    zh-Hans: "韩国 — 信息图集，2006–2026"
   description:
     en: "Infographic plates on South Korea built only from official sources: the Bank of Korea, Statistics Korea, e-National Indicators, the World Bank and the UNDP. Every figure is generated from CSVs committed to the repository."
     ko: "한국은행, 통계청, e-나라지표, 세계은행, UNDP 등 공식 자료만으로 만든 대한민국 인포그래픽. 모든 수치는 저장소에 커밋된 CSV에서 생성됩니다."
     pt: "Pranchas infográficas sobre a Coreia do Sul construídas apenas a partir de fontes oficiais: Banco da Coreia, Statistics Korea, e-National Indicators, Banco Mundial e PNUD."
+    zh-Hans: "仅依据官方来源制作的韩国信息图版：韩国银行、统计厅、e-国家指标、世界银行和联合国开发计划署。每个数字均由已提交的CSV生成。"
   keywords: [South Korea, Bank of Korea, Statistics Korea, KOSPI, demography, official statistics]
   spatial: "Republic of Korea"
 
@@ -94,3 +97,4 @@ sources:
   en: "the Bank of Korea, Statistics Korea, e-National Indicators, the World Bank and the UNDP"
   ko: "한국은행, 통계청, e-나라지표, 세계은행, UNDP"
   pt: "Banco da Coreia, Statistics Korea, e-National Indicators, Banco Mundial e PNUD"
+  zh-Hans: "韩国银行、统计厅、e-国家指标、世界银行和联合国开发计划署"

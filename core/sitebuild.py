@@ -101,14 +101,21 @@ CURRENCY_AFFIX = {
                          "pt": ("C$ ", "")}},
     "EUR": {"money_bn": {"en": ("€", "bn"), "fr": ("", f"{NBSP}Md€"),
                          "es": ("€ ", " mm"),
-                         "pt": ("€ ", " bi")},
+                         "pt": ("€ ", " bi"),
+                         "ko": ("", "십억 유로"),
+                         "zh-Hans": ("", "{mag}欧元")},
             "money":    {"en": ("€", ""), "fr": ("", f"{NBSP}€"),
                          "es": ("€", ""),
-                         "pt": ("€ ", "")}},
-    "BRL": {"money_bn": {"en": ("R$ ", "bn"), "pt": ("R$ ", " bi")},
-            "money_tn1": {"en": ("R$ ", "tn"), "pt": ("R$ ", " tri")},
-            "money2":   {"en": ("R$ ", ""), "pt": ("R$ ", "")},
-            "money":    {"en": ("R$ ", ""), "pt": ("R$ ", "")}},
+                         "pt": ("€ ", ""),
+                         "ko": ("", "유로"), "zh-Hans": ("", "欧元")}},
+    "BRL": {"money_bn": {"en": ("R$ ", "bn"), "pt": ("R$ ", " bi"),
+                         "ko": ("", "십억 헤알"), "zh-Hans": ("", "{mag}雷亚尔")},
+            "money_tn1": {"en": ("R$ ", "tn"), "pt": ("R$ ", " tri"),
+                          "ko": ("", "조 헤알"), "zh-Hans": ("", "万亿雷亚尔")},
+            "money2":   {"en": ("R$ ", ""), "pt": ("R$ ", ""),
+                         "ko": ("", "헤알"), "zh-Hans": ("", "雷亚尔")},
+            "money":    {"en": ("R$ ", ""), "pt": ("R$ ", ""),
+                         "ko": ("", "헤알"), "zh-Hans": ("", "雷亚尔")}},
     "USD": {"money_bn": {"en": ("US$ ", "bn"), "pt": ("US$ ", " bi")},
             "money":    {"en": ("US$ ", ""), "pt": ("US$ ", "")}},
     "ARS": {"money_bn": {"en": ("$", "bn"), "es": ("$ ", " mm"),
@@ -116,9 +123,9 @@ CURRENCY_AFFIX = {
             "money":    {"en": ("$", ""), "es": ("$ ", ""),
                          "pt": ("$ ", "")}},
     "KRW": {"money_tn": {"en": ("₩", "tn"), "ko": ("", "조 원"),
-                         "pt": ("₩ ", " tri")},
+                         "pt": ("₩ ", " tri"), "zh-Hans": ("", "{mag}韩元")},
             "money":    {"en": ("₩", ""), "ko": ("", " 원"),
-                         "pt": ("₩ ", "")}},
+                         "pt": ("₩ ", ""), "zh-Hans": ("", "韩元")}},
 }
 
 # The styles added for Phase B, one block per style so each reads as the
@@ -274,13 +281,13 @@ _STYLE_CURRENCY = {
     },
     "CNY": {
         "money_bn": {"en": ("CN¥", "bn"), "pt": ("CN¥ ", " bi"),
-                     "zh-Hans": ("", "{mag}元")},
+                     "zh-Hans": ("", "{mag}元"), "ko": ("", "십억 위안")},
         "money_tn": {"en": ("CN¥", "tn"), "pt": ("CN¥ ", " tri"),
-                     "zh-Hans": ("", "{mag}元")},
+                     "zh-Hans": ("", "{mag}元"), "ko": ("", "조 위안")},
         "money":    {"en": ("CN¥", ""), "pt": ("CN¥ ", ""),
-                     "zh-Hans": ("", "元")},
+                     "zh-Hans": ("", "元"), "ko": ("", "위안")},
         "money2":   {"en": ("CN¥", ""), "pt": ("CN¥ ", ""),
-                     "zh-Hans": ("", "元")},
+                     "zh-Hans": ("", "元"), "ko": ("", "위안")},
     },
     "TWD": {
         "money_bn": {"en": ("NT$", "bn"), "pt": ("NT$ ", " bi"),
@@ -564,26 +571,35 @@ PHRASES = {
            "high": "최고 {yh}년 {high}", "low": "최저 {yl}년 {low}",
            "table": "기초 수치는 아래 표에 있습니다.",
            "sep": "; "},
+    "zh-Hans": {"intro": "{n} 个面板：{panels}。",
+                "range": "{label}从 {y0} 年的 {first} 变为 {y1} 年的 {last}",
+                "high": "最高为 {yh} 年的 {high}",
+                "low": "最低为 {yl} 年的 {low}",
+                "table": "基础数字见下表。",
+                "sep": "；"},
 }
 
 
 # How an alt text assembled from a chapter's headline figures reads.
 STAT_PHRASES = {
-    "en": {"joiner": "; ", "in": "{label} {value} in {year}",
+    "en": {"joiner": "; ", "sent": ". ", "in": "{label} {value} in {year}",
            "noyear": "{label} {value}",
            "tail": "Every figure is read from this country's committed CSVs."},
-    "pt": {"joiner": "; ", "in": "{label} {value} em {year}",
+    "pt": {"joiner": "; ", "sent": ". ", "in": "{label} {value} em {year}",
            "noyear": "{label} {value}",
            "tail": "Cada número é lido dos CSVs versionados deste país."},
-    "fr": {"joiner": " ; ", "in": "{label} {value} en {year}",
+    "fr": {"joiner": " ; ", "sent": ". ", "in": "{label} {value} en {year}",
            "noyear": "{label} {value}",
            "tail": "Chaque chiffre est lu dans les CSV versionnés de ce pays."},
-    "es": {"joiner": "; ", "in": "{label} {value} en {year}",
+    "es": {"joiner": "; ", "sent": ". ", "in": "{label} {value} en {year}",
            "noyear": "{label} {value}",
            "tail": "Cada cifra se lee de los CSV versionados de este país."},
-    "ko": {"joiner": "; ", "in": "{label} {year}년 {value}",
+    "ko": {"joiner": "; ", "sent": ". ", "in": "{label} {year}년 {value}",
            "noyear": "{label} {value}",
            "tail": "모든 수치는 이 나라의 커밋된 CSV에서 읽습니다."},
+    "zh-Hans": {"joiner": "；", "sent": "。", "in": "{year}年{label} {value}",
+                "noyear": "{label} {value}",
+                "tail": "每个数字均读取自该国已提交的 CSV。"},
 }
 
 
@@ -611,8 +627,9 @@ def describe_from_stats(chapter: dict, locale: str) -> str | None:
         year = s.get("year")
         template = ph["in"] if year else ph["noyear"]
         parts.append(template.format(label=label, value=value, year=year))
-    head = ". ".join(x.rstrip(".") for x in (title, blurb) if x)
-    return f"{head}. " + ph["joiner"].join(parts) + ". " + ph["tail"]
+    head = ph["sent"].join(x.rstrip(".。") for x in (title, blurb) if x)
+    head = f"{head}{ph['sent']}" if head else ""
+    return head + ph["joiner"].join(parts) + ph["sent"] + ph["tail"]
 
 
 def describe(ctx, chapter: dict, locale: str) -> str | None:

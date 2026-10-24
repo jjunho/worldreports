@@ -291,13 +291,8 @@ def _declared():
 
 # COUNTRIES.md's queue: the countries whose lane has not started, and the
 # style a lane's locale is meant to end up in (Portugal's pt is pt-PT).
-QUEUED = [
-    ("china", "CNY", {"zh-Hans", "en", "pt"}),
-    ("taiwan", "TWD", {"zh-Hant", "en", "pt"}),
-    ("israel", "ILS", {"he", "en", "pt"}),
-    ("portugal", "EUR", {"pt-PT", "en"}),
-    ("switzerland", "CHF", {"de", "en", "pt"}),
-]
+# This fork publishes every country it contains, so the queue is empty.
+QUEUED = []
 
 DECLARED = _declared()
 ALL_STYLES = sorted(set().union(*(s for _, s in DECLARED.values())))
@@ -372,8 +367,13 @@ def test_number_style_selects_european_portuguese(tmp_path):
     assert c.number_style("en") == "en"
     ctx = SiteContext(c)
     got = ctx.render(291.153, "money_bn")
-    assert got == {"pt": f"291{N}mil milhões de euros", "en": "€291bn"}
-    assert ctx.render(12.5, "pct") == {"pt": f"12,5{N}%", "en": "12.5%"}
+    assert got["pt"] == f"291{N}mil milhões de euros"
+    assert got["en"] == "€291bn"
+    assert set(got) == set(c.locale_codes)
+    pct = ctx.render(12.5, "pct")
+    assert pct["pt"] == f"12,5{N}%"
+    assert pct["en"] == "12.5%"
+    assert set(pct) == set(c.locale_codes)
 
     i18n.bind(c)
     try:

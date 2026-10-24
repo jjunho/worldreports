@@ -189,6 +189,7 @@ def plate_markets(ctx, ig):
     ax = ig.slot("markets.bond_10y", "10-year government bond yield (%, annual average)")
     _pending(ctx, ig, ax, "No official yield series is staged")
     ax = ig.slot("markets.currency", "Renminbi against the US$ (index 2006 = 100, up = stronger)")
+    ax.set_ylabel("index 2006 = 100, up = stronger")
     y, fx = _yr(ctx, "markets/fx_cny_per_usd.csv", "cny_per_usd_avg")
     iy, iv = ctx.index_2006({a: 1/b for a, b in zip(y, fx)})
     ctx.line(ax, iy, iv, p.RED)

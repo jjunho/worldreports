@@ -196,7 +196,11 @@ def test_every_plate_thumbnail_describes_its_plate(site, country):
             if "card__thumb" not in img.get("class", ""):
                 continue
             alt = img.get("alt", "")
-            assert len(alt.split()) >= 5, f"{path}: thin alt {alt!r}"
+            # Chinese has no inter-word spaces, so a word count is not a
+            # length test for it; count CJK characters instead.
+            words = len(alt.split())
+            cjk = len(re.findall(r"[\u3400-\u9fff]", alt))
+            assert words >= 5 or cjk >= 20, f"{path}: thin alt {alt!r}"
 
 
 def test_every_plate_image_reserves_its_space(site, country):

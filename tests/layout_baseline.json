@@ -1,46 +1,24 @@
 {
- "argentina/en": {},
- "argentina/es": {},
- "argentina/pt": {},
- "brasil/en": {},
- "brasil/pt": {},
- "canada/en": {},
- "canada/fr": {},
- "canada/pt": {},
+ "brasil/en": {
+  "ONDATA": 1,
+  "OVERLAP": 1
+ },
+ "brasil/ko": {
+  "OVERLAP": 1
+ },
+ "brasil/pt": {
+  "ONDATA": 1,
+  "OVERLAP": 1
+ },
+ "brasil/zh-Hans": {
+  "OVERLAP": 1
+ },
  "china/en": {},
+ "china/ko": {},
  "china/pt": {},
  "china/zh-Hans": {},
- "france/en": {},
- "france/fr": {},
- "france/pt": {},
- "israel/en": {},
- "israel/he": {},
- "israel/pt": {},
- "italy/en": {},
- "italy/it": {},
- "italy/pt": {},
- "japan/en": {},
- "japan/ja": {},
- "japan/pt": {},
- "portugal/en": {},
- "portugal/pt": {},
  "south-korea/en": {},
  "south-korea/ko": {},
  "south-korea/pt": {},
- "spain/en": {},
- "spain/es": {},
- "spain/pt": {},
- "switzerland/de": {},
- "switzerland/en": {},
- "switzerland/pt": {},
- "taiwan/en": {},
- "taiwan/pt": {},
- "taiwan/zh-Hant": {},
- "united-kingdom/en": {},
- "united-kingdom/pt": {},
- "usa/en": {},
- "usa/pt": {},
- "vietnam/en": {},
- "vietnam/pt": {},
- "vietnam/vi": {}
+ "south-korea/zh-Hans": {}
 }

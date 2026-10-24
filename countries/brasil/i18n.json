@@ -1,823 +1,1427 @@
 {
  "%": {
-  "pt": "%"
+  "pt": "%",
+  "ko": "%",
+  "zh-Hans": "%"
  },
  "% above 2015–2019 average": {
-  "pt": "% acima da média de 2015–2019"
+  "pt": "% acima da média de 2015–2019",
+  "ko": "2015–2019년 평균 대비 증감(%)",
+  "zh-Hans": "较 2015–2019 年平均高出(%)"
  },
  "% of GDP": {
-  "pt": "% do PIB"
+  "pt": "% do PIB",
+  "ko": "GDP 대비 %",
+  "zh-Hans": "占GDP的%"
  },
  "% of goods exports": {
-  "pt": "% das exportações de bens"
+  "pt": "% das exportações de bens",
+  "ko": "상품 수출 대비 %",
+  "zh-Hans": "占商品出口的%"
  },
  "% of household income": {
-  "pt": "% da renda das famílias"
+  "pt": "% da renda das famílias",
+  "ko": "가계소득 대비 %",
+  "zh-Hans": "占家庭收入的%"
  },
  "% of labour force": {
-  "pt": "% da força de trabalho"
+  "pt": "% da força de trabalho",
+  "ko": "경제활동인구 대비 %",
+  "zh-Hans": "占劳动力人口的%"
  },
  "% of loans": {
-  "pt": "% da carteira de crédito"
+  "pt": "% da carteira de crédito",
+  "ko": "대출 대비 %",
+  "zh-Hans": "占贷款的%"
  },
  "% of people": {
-  "pt": "% da população"
+  "pt": "% da população",
+  "ko": "인구 대비 %",
+  "zh-Hans": "占人口的%"
  },
  "% of population": {
-  "pt": "% da população"
+  "pt": "% da população",
+  "ko": "인구 대비 %",
+  "zh-Hans": "占总人口的%"
  },
  "% per year": {
-  "pt": "% ao ano"
+  "pt": "% ao ano",
+  "ko": "연간 %",
+  "zh-Hans": "每年%"
  },
  "%, annual average": {
-  "pt": "%, média anual"
+  "pt": "%, média anual",
+  "ko": "%, 연평균",
+  "zh-Hans": "%,年平均"
  },
  "+{}% in real terms, {}–{}": {
-  "pt": "+{}% em termos reais, {}–{}"
+  "pt": "+{}% em termos reais, {}–{}",
+  "ko": "실질 +{}%, {}–{}",
+  "zh-Hans": "实际增长+{}%，{}–{}"
  },
  "0.800 = very high human development": {
-  "pt": "0,800 = desenvolvimento humano muito alto"
+  "pt": "0,800 = desenvolvimento humano muito alto",
+  "ko": "0.800 = 매우 높은 인간개발",
+  "zh-Hans": "0.800 = 极高人类发展水平"
  },
  "10-year government bond yield": {
-  "pt": "Rendimento do título público de 10 anos"
+  "pt": "Rendimento do título público de 10 anos",
+  "ko": "10년 만기 국고채 금리",
+  "zh-Hans": "10年期国债收益率"
  },
  "2006–11 on the old 0–10 scale, ×10": {
-  "pt": "2006–11 na escala antiga de 0–10, ×10"
+  "pt": "2006–11 na escala antiga de 0–10, ×10",
+  "ko": "2006–11년은 기존 0–10 척도에 ×10",
+  "zh-Hans": "2006–11年按原0–10分制乘以10"
  },
  "2008: BCB sold reserves": {
-  "pt": "2008: o BCB vendeu reservas"
+  "pt": "2008: o BCB vendeu reservas",
+  "ko": "2008: BCB 외환보유액 매각",
+  "zh-Hans": "2008：BCB出售外汇储备"
  },
  "2014–16 recession": {
-  "pt": "recessão de 2014–16"
+  "pt": "recessão de 2014–16",
+  "ko": "2014–16 경기침체",
+  "zh-Hans": "2014–16年经济衰退"
  },
  "2019: deaths reclassified": {
-  "pt": "2019: óbitos reclassificados"
+  "pt": "2019: óbitos reclassificados",
+  "ko": "2019: 사망 분류 변경",
+  "zh-Hans": "2019：死亡重新分类"
  },
  "Aircraft": {
-  "pt": "Aeronaves"
+  "pt": "Aeronaves",
+  "ko": "항공기",
+  "zh-Hans": "飞机"
  },
  "All borrowers, 90+ days overdue": {
-  "pt": "Todos os tomadores, atraso acima de 90 dias"
+  "pt": "Todos os tomadores, atraso acima de 90 dias",
+  "ko": "전체 차주, 90일 이상 연체",
+  "zh-Hans": "全部借款人，逾期90天以上"
  },
  "All homicides of women, per 100k women": {
-  "pt": "Todos os homicídios de mulheres, por 100 mil mulheres"
+  "pt": "Todos os homicídios de mulheres, por 100 mil mulheres",
+  "ko": "여성 인구 10만 명당 전체 여성 피살자",
+  "zh-Hans": "每10万名女性中的全部女性被杀人数"
  },
  "Argentina": {
-  "pt": "Argentina"
+  "pt": "Argentina",
+  "ko": "아르헨티나",
+  "zh-Hans": "阿根廷"
  },
  "Automobiles": {
-  "pt": "Automóveis"
+  "pt": "Automóveis",
+  "ko": "자동차",
+  "zh-Hans": "汽车"
  },
  "BCB rebuilt these statistics on SCR microdata in {}": {
-  "pt": "o BCB refez estas estatísticas com microdados do SCR em {}"
+  "pt": "o BCB refez estas estatísticas com microdados do SCR em {}",
+  "ko": "BCB는 {}년에 SCR 미시자료로 이 통계를 재구축",
+  "zh-Hans": "BCB于{}年以SCR微观数据重建本统计"
  },
  "BRL, annual average PTAX (BCB)": {
-  "pt": "Real, PTAX média anual (BCB)"
+  "pt": "Real, PTAX média anual (BCB)",
+  "ko": "BRL, 연평균 PTAX (BCB)",
+  "zh-Hans": "BRL，全年平均PTAX（BCB）"
  },
  "Below US$3.00 a day (PPP 2021)": {
-  "pt": "Abaixo de US$ 3,00 por dia (PPC 2021)"
+  "pt": "Abaixo de US$ 3,00 por dia (PPC 2021)",
+  "ko": "하루 US$3.00 미만 (2021 PPP)",
+  "zh-Hans": "每日低于3.00美元（2021年PPP）"
  },
  "Below US$8.30 a day (PPP 2021)": {
-  "pt": "Abaixo de US$ 8,30 por dia (PPC 2021)"
+  "pt": "Abaixo de US$ 8,30 por dia (PPC 2021)",
+  "ko": "하루 US$8.30 미만 (2021 PPP)",
+  "zh-Hans": "每日低于8.30美元（2021年PPP）"
  },
  "Births per 1,000": {
-  "pt": "Nascimentos por mil"
+  "pt": "Nascimentos por mil",
+  "ko": "인구 1천 명당 출생",
+  "zh-Hans": "每千人出生数"
  },
  "Brazil in the World — Size, Development, Corruption, Reserves": {
-  "pt": "O Brasil no Mundo — Tamanho, Desenvolvimento, Corrupção, Reservas"
+  "pt": "O Brasil no Mundo — Tamanho, Desenvolvimento, Corrupção, Reservas",
+  "ko": "세계 속 브라질 — 규모, 발전, 부패, 외환보유액",
+  "zh-Hans": "世界中的巴西——规模、发展、腐败与储备"
  },
  "Brazil sets no official poverty line; IBGE reports the World Bank's · {}: {}% and {}%": {
-  "pt": "o Brasil não tem linha oficial de pobreza; o IBGE usa as do Banco Mundial · {}: {}% e {}%"
+  "pt": "o Brasil não tem linha oficial de pobreza; o IBGE usa as do Banco Mundial · {}: {}% e {}%",
+  "ko": "브라질은 공식 빈곤선이 없으며 IBGE는 세계은행 기준을 발표 · {}: {}% 및 {}%",
+  "zh-Hans": "巴西没有官方贫困线；IBGE采用世界银行标准 · {}：{}%和{}%"
  },
  "Brazil's Demographic Transition — the Peak Is in Sight": {
-  "pt": "A Transição Demográfica — o Pico Está à Vista"
+  "pt": "A Transição Demográfica — o Pico Está à Vista",
+  "ko": "브라질의 인구 전환 — 정점이 다가온다",
+  "zh-Hans": "巴西的人口转型——峰值已在望"
  },
  "COVID-19": {
-  "pt": "COVID-19"
+  "pt": "COVID-19",
+  "ko": "코로나19",
+  "zh-Hans": "新冠疫情"
  },
  "COVID-19 deaths, underlying cause": {
-  "pt": "Óbitos por COVID-19, causa básica"
+  "pt": "Óbitos por COVID-19, causa básica",
+  "ko": "코로나19 사망(원사인 기준)",
+  "zh-Hans": "以COVID-19为根本死因的死亡"
  },
  "Central-government spending by COFOG function, the social-protection share, and how little of the economy is invested, publicly or at all.": {
-  "pt": "O gasto do governo central por função (COFOG), o peso da proteção social e quão pouco a economia investe, no setor público ou em geral."
+  "pt": "O gasto do governo central por função (COFOG), o peso da proteção social e quão pouco a economia investe, no setor público ou em geral.",
+  "ko": "COFOG 기능별 중앙정부 지출, 사회보호 비중, 공공부문과 전체 경제의 낮은 투자 수준.",
+  "zh-Hans": "按COFOG职能划分的中央政府支出、社会保护占比，以及公共部门和整体经济的低投资水平。"
  },
  "China": {
-  "pt": "China"
+  "pt": "China",
+  "ko": "중국",
+  "zh-Hans": "中国"
  },
  "Coffee": {
-  "pt": "Café"
+  "pt": "Café",
+  "ko": "커피",
+  "zh-Hans": "咖啡"
  },
  "Consumer prices — IPCA vs the target": {
-  "pt": "Preços ao consumidor — IPCA contra a meta"
+  "pt": "Preços ao consumidor — IPCA contra a meta",
+  "ko": "소비자물가 — IPCA와 목표",
+  "zh-Hans": "消费价格——IPCA与目标"
  },
  "Corn": {
-  "pt": "Milho"
+  "pt": "Milho",
+  "ko": "옥수수",
+  "zh-Hans": "玉米"
  },
  "Corruption Perceptions Index (higher = cleaner)": {
-  "pt": "Índice de Percepção da Corrupção (maior = mais limpo)"
+  "pt": "Índice de Percepção da Corrupção (maior = mais limpo)",
+  "ko": "부패인식지수 (높을수록 청렴)",
+  "zh-Hans": "腐败感知指数（越高越清廉）"
  },
  "Credit & Household Debt — Supply, Price and Burden": {
-  "pt": "Crédito e Endividamento — Oferta, Preço e Peso"
+  "pt": "Crédito e Endividamento — Oferta, Preço e Peso",
+  "ko": "신용과 가계부채 — 공급, 가격과 부담",
+  "zh-Hans": "信贷与家庭债务——供给、价格与负担"
  },
  "Crude birth and death rates": {
-  "pt": "Taxas brutas de natalidade e mortalidade"
+  "pt": "Taxas brutas de natalidade e mortalidade",
+  "ko": "조출생률과 조사망률",
+  "zh-Hans": "粗出生率与粗死亡率"
  },
  "Crude death rate": {
-  "pt": "Taxa bruta de mortalidade"
+  "pt": "Taxa bruta de mortalidade",
+  "ko": "조사망률",
+  "zh-Hans": "粗死亡率"
  },
  "Deaths per 1,000": {
-  "pt": "Óbitos por mil"
+  "pt": "Óbitos por mil",
+  "ko": "인구 1천 명당 사망",
+  "zh-Hans": "每千人死亡数"
  },
  "Debt excluding housing": {
-  "pt": "Dívida sem o crédito habitacional"
+  "pt": "Dívida sem o crédito habitacional",
+  "ko": "주택대출 제외 부채",
+  "zh-Hans": "不含住房贷款的债务"
  },
  "Debt, % of 12-month income": {
-  "pt": "Dívida, % da renda de 12 meses"
+  "pt": "Dívida, % da renda de 12 meses",
+  "ko": "부채, 12개월 소득 대비 %",
+  "zh-Hans": "债务，占12个月收入的%"
  },
  "Defence and public order": {
-  "pt": "Defesa e ordem pública"
+  "pt": "Defesa e ordem pública",
+  "ko": "국방·공공질서",
+  "zh-Hans": "国防与公共秩序"
  },
  "Dengue, A90/A91 + A97": {
-  "pt": "Dengue, A90/A91 + A97"
+  "pt": "Dengue, A90/A91 + A97",
+  "ko": "뎅기열, A90/A91 + A97",
+  "zh-Hans": "登革热，A90/A91 + A97"
  },
  "Economic affairs": {
-  "pt": "Assuntos econômicos"
+  "pt": "Assuntos econômicos",
+  "ko": "경제업무",
+  "zh-Hans": "经济事务"
  },
  "Education": {
-  "pt": "Educação"
+  "pt": "Educação",
+  "ko": "교육",
+  "zh-Hans": "教育"
  },
  "European Union": {
-  "pt": "União Europeia"
+  "pt": "União Europeia",
+  "ko": "유럽연합",
+  "zh-Hans": "欧盟"
  },
  "Everything else": {
-  "pt": "Todo o resto"
+  "pt": "Todo o resto",
+  "ko": "그 외 전체",
+  "zh-Hans": "其余全部"
  },
  "Excess deaths": {
-  "pt": "Excesso de óbitos"
+  "pt": "Excesso de óbitos",
+  "ko": "초과사망",
+  "zh-Hans": "超额死亡"
  },
  "Expenditure (IMF)": {
-  "pt": "Despesa (FMI)"
+  "pt": "Despesa (FMI)",
+  "ko": "지출 (IMF)",
+  "zh-Hans": "支出（IMF）"
  },
  "Exports (World Bank)": {
-  "pt": "Exportações (Banco Mundial)"
+  "pt": "Exportações (Banco Mundial)",
+  "ko": "수출 (세계은행)",
+  "zh-Hans": "出口（世界银行）"
  },
  "Exports and imports of goods and services": {
-  "pt": "Exportações e importações de bens e serviços"
+  "pt": "Exportações e importações de bens e serviços",
+  "ko": "재화와 서비스 수출입",
+  "zh-Hans": "货物与服务进出口"
  },
  "FBSP violent deaths, MVI (occurrence)": {
-  "pt": "FBSP, mortes violentas intencionais (ocorrência)"
+  "pt": "FBSP, mortes violentas intencionais (ocorrência)",
+  "ko": "FBSP 폭력 사망, MVI (발생지 기준)",
+  "zh-Hans": "FBSP暴力死亡，MVI（按发生地）"
  },
  "Federal investment paid, GND 4+5 (Tesouro RTN)": {
-  "pt": "Investimento federal pago, GND 4+5 (Tesouro, RTN)"
+  "pt": "Investimento federal pago, GND 4+5 (Tesouro, RTN)",
+  "ko": "연방정부 투자 지급액, GND 4+5 (Tesouro RTN)",
+  "zh-Hans": "联邦投资实付额，GND 4+5（Tesouro RTN）"
  },
  "Foreign Trade — Openness, the Surplus and China": {
-  "pt": "Comércio Exterior — Abertura, Superávit e China"
+  "pt": "Comércio Exterior — Abertura, Superávit e China",
+  "ko": "대외무역 — 개방도, 흑자와 중국",
+  "zh-Hans": "对外贸易——开放度、顺差与中国"
  },
  "GDP at current prices": {
-  "pt": "PIB a preços correntes"
+  "pt": "PIB a preços correntes",
+  "ko": "명목 GDP",
+  "zh-Hans": "现价GDP"
  },
  "GDP per person (US$, current)": {
-  "pt": "PIB por pessoa (US$ correntes)"
+  "pt": "PIB por pessoa (US$ correntes)",
+  "ko": "1인당 GDP (당해 US$)",
+  "zh-Hans": "人均GDP（现价美元）"
  },
  "General government GFCF (OECD)": {
-  "pt": "FBCF do governo geral (OCDE)"
+  "pt": "FBCF do governo geral (OCDE)",
+  "ko": "일반정부 총고정자본형성 (OECD)",
+  "zh-Hans": "一般政府固定资本形成总额（OECD）"
  },
  "General government on the IMF's basis, with the Brazilian measures beside it: the central-government primary result, DBGG, DLSP and the NFSP interest bill.": {
-  "pt": "O governo geral pelo critério do FMI, com as medidas brasileiras ao lado: o resultado primário do governo central, a DBGG, a DLSP e os juros das NFSP."
+  "pt": "O governo geral pelo critério do FMI, com as medidas brasileiras ao lado: o resultado primário do governo central, a DBGG, a DLSP e os juros das NFSP.",
+  "ko": "IMF 기준 일반정부 지표와 브라질 지표를 병기: 중앙정부 기초재정수지, DBGG, DLSP 및 NFSP 이자비용.",
+  "zh-Hans": "并列展示IMF口径的一般政府数据与巴西指标：中央政府基本财政收支、DBGG、DLSP及NFSP利息支出。"
  },
  "General government on the IMF's basis, with the Brazilian measures beside it: the central-government primary result, DBGG gross debt and the NFSP interest bill.": {
-  "pt": "O governo geral pelo critério do FMI, com as medidas brasileiras ao lado: o resultado primário do governo central, a dívida bruta DBGG e os juros das NFSP."
+  "pt": "O governo geral pelo critério do FMI, com as medidas brasileiras ao lado: o resultado primário do governo central, a dívida bruta DBGG e os juros das NFSP.",
+  "ko": "IMF 기준 일반정부 지표와 브라질 지표를 병기: 중앙정부 기초재정수지, DBGG 총부채 및 NFSP 이자비용.",
+  "zh-Hans": "并列展示IMF口径的一般政府数据与巴西指标：中央政府基本财政收支、DBGG总债务及NFSP利息支出。"
  },
  "General public services (incl. interest)": {
-  "pt": "Serviços públicos gerais (incl. juros)"
+  "pt": "Serviços públicos gerais (incl. juros)",
+  "ko": "일반 공공서비스 (이자 포함)",
+  "zh-Hans": "一般公共服务（含利息）"
  },
  "General-government spending by COFOG function — federal, state and municipal — the social-protection share, and how little of the economy is invested, publicly or at all.": {
-  "pt": "O gasto do governo geral por função (COFOG) — União, estados e municípios —, o peso da proteção social e quão pouco a economia investe, no setor público ou em geral."
+  "pt": "O gasto do governo geral por função (COFOG) — União, estados e municípios —, o peso da proteção social e quão pouco a economia investe, no setor público ou em geral.",
+  "ko": "COFOG 기능별 일반정부 지출 — 연방·주·지방정부 — 사회보호 비중과 공공부문 및 전체 경제의 낮은 투자 수준.",
+  "zh-Hans": "按COFOG职能划分的一般政府支出——联邦、州和市政府——社会保护占比，以及公共部门和整体经济的低投资水平。"
  },
  "Gini, 0–100": {
-  "pt": "Gini, 0–100"
+  "pt": "Gini, 0–100",
+  "ko": "지니계수, 0–100",
+  "zh-Hans": "基尼系数,0–100"
  },
  "Goods and services as a share of GDP, on the national-accounts basis every country shares, then the commodity-heavy goods trade behind it.": {
-  "pt": "Bens e serviços em proporção do PIB, pela base das contas nacionais comum a todos os países, e por trás disso o comércio de bens puxado por commodities."
+  "pt": "Bens e serviços em proporção do PIB, pela base das contas nacionais comum a todos os países, e por trás disso o comércio de bens puxado por commodities.",
+  "ko": "공통 국민계정 기준의 GDP 대비 재화·서비스 비중, 그리고 그 배경인 원자재 중심 상품무역.",
+  "zh-Hans": "按各国通用国民账户口径衡量货物与服务占GDP比重，再看其背后以大宗商品为主的货物贸易。"
  },
  "Gross debt — two Brazilian definitions": {
-  "pt": "Dívida bruta — duas definições brasileiras"
+  "pt": "Dívida bruta — duas definições brasileiras",
+  "ko": "총부채 — 브라질의 두 가지 정의",
+  "zh-Hans": "总债务——巴西的两种定义"
  },
  "Four panels on Brazilian public finances: general-government revenue and expenditure with the tax burden; the overall balance as bars with the general-government and central-government primary balances; gross debt on two definitions; and interest paid, IMF and BCB.": {
-  "pt": "Quatro painéis sobre as finanças públicas brasileiras: receitas e despesas do governo geral com a carga tributária; o resultado global em barras com os resultados primários do governo geral e do governo central; dívida bruta em duas definições; e juros pagos, FMI e BCB."
+  "pt": "Quatro painéis sobre as finanças públicas brasileiras: receitas e despesas do governo geral com a carga tributária; o resultado global em barras com os resultados primários do governo geral e do governo central; dívida bruta em duas definições; e juros pagos, FMI e BCB.",
+  "ko": "브라질 공공재정의 네 패널: 조세부담과 일반정부 수입·지출, 막대로 표시한 종합재정수지와 일반정부·중앙정부 기초재정수지, 두 정의의 총부채, IMF·BCB 기준 이자지급액.",
+  "zh-Hans": "巴西公共财政的四个面板：一般政府收入、支出与税负；以柱形显示的总体收支及一般政府和中央政府基本财政收支；两种定义的总债务；以及IMF和BCB口径的利息支出。"
  },
  "Gross, DBGG (BCB concept)": {
-  "pt": "Bruta, DBGG (conceito BCB)"
+  "pt": "Bruta, DBGG (conceito BCB)",
+  "ko": "총부채, DBGG (BCB 개념)",
+  "zh-Hans": "总债务，DBGG（BCB口径）"
  },
  "Gross, general government (IMF)": {
-  "pt": "Bruta, governo geral (FMI)"
+  "pt": "Bruta, governo geral (FMI)",
+  "ko": "총부채, 일반정부 (IMF)",
+  "zh-Hans": "总债务，一般政府（IMF）"
  },
  "Growth, income per person, inflation against its target and unemployment — on the scales every country shares.": {
-  "pt": "Crescimento, renda por pessoa, inflação contra a meta e desemprego — nas escalas que todos os países compartilham."
+  "pt": "Crescimento, renda por pessoa, inflação contra a meta e desemprego — nas escalas que todos os países compartilham.",
+  "ko": "성장, 1인당 소득, 목표 대비 물가상승률과 실업률 — 각국 공통 척도.",
+  "zh-Hans": "增长、人均收入、通胀与目标之比较及失业率——采用各国通用尺度。"
  },
  "H1N1": {
-  "pt": "H1N1"
+  "pt": "H1N1",
+  "ko": "H1N1",
+  "zh-Hans": "H1N1"
  },
  "HDI, 0–1": {
-  "pt": "IDH, 0–1"
+  "pt": "IDH, 0–1",
+  "ko": "인간개발지수, 0–1",
+  "zh-Hans": "人类发展指数,0–1"
  },
  "Health": {
-  "pt": "Saúde"
+  "pt": "Saúde",
+  "ko": "보건",
+  "zh-Hans": "卫生"
  },
  "Homicide rate — two systems, not spliced": {
-  "pt": "Taxa de homicídios — dois sistemas, sem emenda"
+  "pt": "Taxa de homicídios — dois sistemas, sem emenda",
+  "ko": "살인율 — 연결하지 않은 두 체계",
+  "zh-Hans": "凶杀率——两套体系，不作拼接"
  },
  "Household credit, average rate, Dec (BCB)": {
-  "pt": "Crédito às famílias, taxa média, dez. (BCB)"
+  "pt": "Crédito às famílias, taxa média, dez. (BCB)",
+  "ko": "가계신용 평균금리, 12월 (BCB)",
+  "zh-Hans": "家庭信贷平均利率，12月（BCB）"
  },
  "Household debt": {
-  "pt": "Dívida das famílias"
+  "pt": "Dívida das famílias",
+  "ko": "가계부채",
+  "zh-Hans": "家庭债务"
  },
  "Household debt and debt service, % of income": {
-  "pt": "Endividamento e serviço da dívida das famílias, % da renda"
+  "pt": "Endividamento e serviço da dívida das famílias, % da renda",
+  "ko": "가계부채와 원리금 상환액, 소득 대비 %",
+  "zh-Hans": "家庭债务与偿债支出，占收入的%"
  },
  "Household debt is modest against GDP and heavy against income, because Brazilian credit is so expensive.": {
-  "pt": "A dívida das famílias é modesta em relação ao PIB e pesada em relação à renda, porque o crédito no Brasil é muito caro."
+  "pt": "A dívida das famílias é modesta em relação ao PIB e pesada em relação à renda, porque o crédito no Brasil é muito caro.",
+  "ko": "브라질의 높은 신용비용 때문에 가계부채는 GDP 대비로는 적지만 소득 대비로는 무겁다.",
+  "zh-Hans": "由于巴西信贷成本高昂，家庭债务相对GDP不高，相对收入却负担沉重。"
  },
  "Household lending rate vs policy rate": {
-  "pt": "Juros do crédito às famílias contra a taxa básica"
+  "pt": "Juros do crédito às famílias contra a taxa básica",
+  "ko": "가계 대출금리와 기준금리",
+  "zh-Hans": "家庭贷款利率与政策利率"
  },
  "Households, 90+ days overdue (BCB)": {
-  "pt": "Famílias, atraso acima de 90 dias (BCB)"
+  "pt": "Famílias, atraso acima de 90 dias (BCB)",
+  "ko": "가계, 90일 이상 연체 (BCB)",
+  "zh-Hans": "家庭，逾期90天以上（BCB）"
  },
  "Households, all lenders, Q4 (BIS)": {
-  "pt": "Famílias, todos os credores, 4º tri. (BIS)"
+  "pt": "Famílias, todos os credores, 4º tri. (BIS)",
+  "ko": "가계, 전체 대출기관, 4분기 (BIS)",
+  "zh-Hans": "家庭，全部贷款机构，第4季度（BIS）"
  },
  "How big the economy is in dollars, how the UNDP and Transparency International score it, and the reserves behind the real.": {
-  "pt": "O tamanho da economia em dólares, como o PNUD e a Transparência Internacional a avaliam, e as reservas por trás do real."
+  "pt": "O tamanho da economia em dólares, como o PNUD e a Transparência Internacional a avaliam, e as reservas por trás do real.",
+  "ko": "달러 기준 경제 규모, UNDP와 Transparency International의 평가, 헤알화를 뒷받침하는 외환보유액.",
+  "zh-Hans": "美元计价的经济规模、UNDP与Transparency International的评价，以及支撑雷亚尔的储备。"
  },
  "Human Development Index": {
-  "pt": "Índice de Desenvolvimento Humano"
+  "pt": "Índice de Desenvolvimento Humano",
+  "ko": "인간개발지수",
+  "zh-Hans": "人类发展指数"
  },
  "IBGE": {
-  "pt": "IBGE"
+  "pt": "IBGE",
+  "ko": "IBGE",
+  "zh-Hans": "IBGE"
  },
  "IBGE PNAD Contínua (official, 2012+)": {
-  "pt": "IBGE, PNAD Contínua (oficial, 2012+)"
+  "pt": "IBGE, PNAD Contínua (oficial, 2012+)",
+  "ko": "IBGE PNAD Contínua (공식, 2012년 이후)",
+  "zh-Hans": "IBGE PNAD Contínua（官方，2012年起）"
  },
  "IBGE projection model (corrects under-registration)": {
-  "pt": "Modelo de projeção do IBGE (corrige o sub-registro)"
+  "pt": "Modelo de projeção do IBGE (corrige o sub-registro)",
+  "ko": "IBGE 추계모형 (미등록 보정)",
+  "zh-Hans": "IBGE预测模型（校正漏报）"
  },
  "IBGE projection model; registered deaths are on the mortality plate": {
-  "pt": "modelo de projeção do IBGE; os óbitos registrados estão na prancha de mortalidade"
+  "pt": "modelo de projeção do IBGE; os óbitos registrados estão na prancha de mortalidade",
+  "ko": "IBGE 추계모형; 등록 사망은 사망률 도판에 표시",
+  "zh-Hans": "IBGE预测模型；登记死亡见死亡率图版"
  },
  "IBGE, 1 July (projection rev. 2024)": {
-  "pt": "IBGE, 1º de julho (projeção rev. 2024)"
+  "pt": "IBGE, 1º de julho (projeção rev. 2024)",
+  "ko": "IBGE, 7월 1일 (2024년 개정 추계)",
+  "zh-Hans": "IBGE，7月1日（2024年修订预测）"
  },
  "ILO modelled estimate (World Bank)": {
-  "pt": "Estimativa modelada da OIT (Banco Mundial)"
+  "pt": "Estimativa modelada da OIT (Banco Mundial)",
+  "ko": "ILO 모형 추정치 (세계은행)",
+  "zh-Hans": "ILO模型估计（世界银行）"
  },
  "IPCA {}%": {
-  "pt": "IPCA {}%"
+  "pt": "IPCA {}%",
+  "ko": "IPCA {}%",
+  "zh-Hans": "IPCA {}%"
  },
  "IPCA, Dec/Dec (IBGE)": {
-  "pt": "IPCA, dez./dez. (IBGE)"
+  "pt": "IPCA, dez./dez. (IBGE)",
+  "ko": "IPCA, 12월 전년동월비 (IBGE)",
+  "zh-Hans": "IPCA，12月同比（IBGE）"
  },
  "IPEA/SIM estimated, incl. hidden homicides": {
-  "pt": "IPEA/SIM estimados, incl. homicídios ocultos"
+  "pt": "IPEA/SIM estimados, incl. homicídios ocultos",
+  "ko": "IPEA/SIM 추정, 숨은 살인 포함",
+  "zh-Hans": "IPEA/SIM估计，含隐性凶杀"
  },
  "IPEA/SIM registered (residence)": {
-  "pt": "IPEA/SIM registrados (residência)"
+  "pt": "IPEA/SIM registrados (residência)",
+  "ko": "IPEA/SIM 등록 (거주지 기준)",
+  "zh-Hans": "IPEA/SIM登记（按居住地）"
  },
  "Ibovespa in US$, year-end": {
-  "pt": "Ibovespa em US$, fim de ano"
+  "pt": "Ibovespa em US$, fim de ano",
+  "ko": "US$ 기준 Ibovespa, 연말",
+  "zh-Hans": "美元计价Ibovespa，年末"
  },
  "Imports (World Bank)": {
-  "pt": "Importações (Banco Mundial)"
+  "pt": "Importações (Banco Mundial)",
+  "ko": "수입 (세계은행)",
+  "zh-Hans": "进口（世界银行）"
  },
  "In 2025 reais (IPCA)": {
-  "pt": "Em reais de 2025 (IPCA)"
+  "pt": "Em reais de 2025 (IPCA)",
+  "ko": "2025년 헤알화 가치 (IPCA)",
+  "zh-Hans": "按2025年雷亚尔币值（IPCA）"
  },
  "Income going to debt service": {
-  "pt": "Renda comprometida com o serviço da dívida"
+  "pt": "Renda comprometida com o serviço da dívida",
+  "ko": "원리금 상환에 쓰이는 소득",
+  "zh-Hans": "用于偿债的收入"
  },
  "Income inequality — Gini (higher = more unequal)": {
-  "pt": "Desigualdade de renda — Gini (maior = mais desigual)"
+  "pt": "Desigualdade de renda — Gini (maior = mais desigual)",
+  "ko": "소득불평등 — 지니계수 (높을수록 불평등)",
+  "zh-Hans": "收入不平等——基尼系数（越高越不平等）"
  },
  "Inequality and poverty fell, with a lurch in 2020–21; the minimum wage gained in reais far more than in dollars.": {
-  "pt": "A desigualdade e a pobreza caíram, com um solavanco em 2020–21; o salário mínimo ganhou muito mais em reais do que em dólares."
+  "pt": "A desigualdade e a pobreza caíram, com um solavanco em 2020–21; o salário mínimo ganhou muito mais em reais do que em dólares.",
+  "ko": "불평등과 빈곤은 감소했으나 2020–21년 급변했고, 최저임금은 달러보다 헤알 기준으로 훨씬 크게 상승했다.",
+  "zh-Hans": "不平等与贫困下降，但2020–21年出现剧烈波动；最低工资以雷亚尔计的增幅远高于美元计。"
  },
  "Influenza and dengue deaths": {
-  "pt": "Óbitos por influenza e dengue"
+  "pt": "Óbitos por influenza e dengue",
+  "ko": "인플루엔자와 뎅기열 사망",
+  "zh-Hans": "流感与登革热死亡"
  },
  "Influenza, J09–J11": {
-  "pt": "Influenza, J09–J11"
+  "pt": "Influenza, J09–J11",
+  "ko": "인플루엔자, J09–J11",
+  "zh-Hans": "流感，J09–J11"
  },
  "Interest paid": {
-  "pt": "Juros pagos"
+  "pt": "Juros pagos",
+  "ko": "이자 지급",
+  "zh-Hans": "利息支出"
  },
  "Investment rate — gross fixed capital formation": {
-  "pt": "Taxa de investimento — formação bruta de capital fixo"
+  "pt": "Taxa de investimento — formação bruta de capital fixo",
+  "ko": "투자율 — 총고정자본형성",
+  "zh-Hans": "投资率——固定资本形成总额"
  },
  "Iron ore": {
-  "pt": "Minério de ferro"
+  "pt": "Minério de ferro",
+  "ko": "철광석",
+  "zh-Hans": "铁矿石"
  },
  "Deaths following police intervention, per 100k people": {
-  "pt": "Mortes decorrentes de intervenção policial, por 100 mil habitantes"
+  "pt": "Mortes decorrentes de intervenção policial, por 100 mil habitantes",
+  "ko": "인구 10만 명당 경찰 개입에 따른 사망",
+  "zh-Hans": "每10万人中因警方干预死亡人数"
  },
  "Main equity index in US$": {
-  "pt": "Principal índice de ações em US$"
+  "pt": "Principal índice de ações em US$",
+  "ko": "대표 주가지수, 달러 기준",
+  "zh-Hans": "美元计价主要股指"
  },
  "Meats": {
-  "pt": "Carnes"
+  "pt": "Carnes",
+  "ko": "육류",
+  "zh-Hans": "肉类"
  },
  "Minimum wage": {
-  "pt": "Salário mínimo"
+  "pt": "Salário mínimo",
+  "ko": "최저임금",
+  "zh-Hans": "最低工资"
  },
  "Minimum wage in reais — nominal and real": {
-  "pt": "Salário mínimo em reais — nominal e real"
+  "pt": "Salário mínimo em reais — nominal e real",
+  "ko": "헤알 기준 최저임금 — 명목과 실질",
+  "zh-Hans": "雷亚尔计价最低工资——名义与实际"
  },
  "Money & Markets — the Selic, the Real and the Ibovespa": {
-  "pt": "Moeda e Mercados — a Selic, o Real e o Ibovespa"
+  "pt": "Moeda e Mercados — a Selic, o Real e o Ibovespa",
+  "ko": "통화와 시장 — Selic, 헤알화와 Ibovespa",
+  "zh-Hans": "货币与市场——Selic、雷亚尔与Ibovespa"
  },
  "Monthly, at the year's average PTAX": {
-  "pt": "Mensal, pela PTAX média do ano"
+  "pt": "Mensal, pela PTAX média do ano",
+  "ko": "월액, 해당 연도 평균 PTAX 적용",
+  "zh-Hans": "月额，按当年平均PTAX折算"
  },
  "Mortality and Epidemics — COVID-19, Influenza and Dengue": {
-  "pt": "Mortalidade e Epidemias — COVID-19, Influenza e Dengue"
+  "pt": "Mortalidade e Epidemias — COVID-19, Influenza e Dengue",
+  "ko": "사망과 유행병 — COVID-19, 인플루엔자와 뎅기열",
+  "zh-Hans": "死亡与疫情——COVID-19、流感与登革热"
  },
  "NTN-F nearest {} years, Tesouro Direto": {
-  "pt": "NTN-F mais próxima de {} anos, Tesouro Direto"
+  "pt": "NTN-F mais próxima de {} anos, Tesouro Direto",
+  "ko": "{}년 만기에 가장 가까운 NTN-F, Tesouro Direto",
+  "zh-Hans": "最接近{}年期限的NTN-F，Tesouro Direto"
  },
  "Natural increase (IBGE)": {
-  "pt": "Crescimento vegetativo (IBGE)"
+  "pt": "Crescimento vegetativo (IBGE)",
+  "ko": "자연증가 (IBGE)",
+  "zh-Hans": "自然增长（IBGE）"
  },
  "Natural increase and net migration": {
-  "pt": "Crescimento vegetativo e migração líquida"
+  "pt": "Crescimento vegetativo e migração líquida",
+  "ko": "자연증가와 순이동",
+  "zh-Hans": "自然增长与净迁移"
  },
  "Net interest, general government (IMF: primary − overall)": {
-  "pt": "Juros líquidos, governo geral (FMI: primário − nominal)"
+  "pt": "Juros líquidos, governo geral (FMI: primário − nominal)",
+  "ko": "순이자, 일반정부 (IMF: 기초수지 − 종합수지)",
+  "zh-Hans": "净利息，一般政府（IMF：基本收支−总体收支）"
  },
  "Net migration (UN WPP via World Bank)": {
-  "pt": "Migração líquida (ONU, WPP, via Banco Mundial)"
+  "pt": "Migração líquida (ONU, WPP, via Banco Mundial)",
+  "ko": "순이동 (UN WPP, 세계은행 경유)",
+  "zh-Hans": "净迁移（UN WPP，经世界银行）"
  },
  "Net, public sector — DLSP (BCB)": {
-  "pt": "Líquida, setor público — DLSP (BCB)"
+  "pt": "Líquida, setor público — DLSP (BCB)",
+  "ko": "순부채, 공공부문 — DLSP (BCB)",
+  "zh-Hans": "净债务，公共部门——DLSP（BCB）"
  },
  "Nominal R$ a month": {
-  "pt": "R$ nominais por mês"
+  "pt": "R$ nominais por mês",
+  "ko": "명목 월액 R$",
+  "zh-Hans": "名义月额，雷亚尔"
  },
  "Nominal interest, public sector — NFSP (BCB)": {
-  "pt": "Juros nominais, setor público — NFSP (BCB)"
+  "pt": "Juros nominais, setor público — NFSP (BCB)",
+  "ko": "명목이자, 공공부문 — NFSP (BCB)",
+  "zh-Hans": "名义利息，公共部门——NFSP（BCB）"
  },
  "Non-performing loans": {
-  "pt": "Inadimplência"
+  "pt": "Inadimplência",
+  "ko": "부실·연체 대출",
+  "zh-Hans": "不良贷款"
  },
  "Official reserves": {
-  "pt": "Reservas internacionais"
+  "pt": "Reservas internacionais",
+  "ko": "외환보유액",
+  "zh-Hans": "官方储备"
  },
  "Oil & refined": {
-  "pt": "Petróleo e derivados"
+  "pt": "Petróleo e derivados",
+  "ko": "석유 및 정제제품",
+  "zh-Hans": "石油及成品油"
  },
  "Other": {
-  "pt": "Outros"
+  "pt": "Outros",
+  "ko": "기타",
+  "zh-Hans": "其他"
  },
  "Overall balance (bars) and primary balance": {
-  "pt": "Resultado nominal (barras) e resultado primário"
+  "pt": "Resultado nominal (barras) e resultado primário",
+  "ko": "종합재정수지 (막대)와 기초재정수지",
+  "zh-Hans": "总体财政收支（柱形）与基本财政收支"
  },
  "Overall balance, general government (IMF)": {
-  "pt": "Resultado nominal, governo geral (FMI)"
+  "pt": "Resultado nominal, governo geral (FMI)",
+  "ko": "종합재정수지, 일반정부 (IMF)",
+  "zh-Hans": "总体财政收支，一般政府（IMF）"
  },
  "PME — six metro areas, old survey": {
-  "pt": "PME — seis regiões metropolitanas, pesquisa antiga"
+  "pt": "PME — seis regiões metropolitanas, pesquisa antiga",
+  "ko": "PME — 6개 대도시권, 구 조사",
+  "zh-Hans": "PME——六个都市区，旧调查"
  },
  "PNAD Contínua — national": {
-  "pt": "PNAD Contínua — nacional"
+  "pt": "PNAD Contínua — nacional",
+  "ko": "PNAD Contínua — 전국",
+  "zh-Hans": "PNAD Contínua——全国"
  },
  "PNAD-C: {}% in {} to {}% in {}, the series low · not spliced to PME": {
-  "pt": "PNAD-C: {}% em {} para {}% em {}, o menor da série · sem emenda com a PME"
+  "pt": "PNAD-C: {}% em {} para {}% em {}, o menor da série · sem emenda com a PME",
+  "ko": "PNAD-C: {}% ({}년)에서 {}% ({}년)로, 시계열 최저 · PME와 연결하지 않음",
+  "zh-Hans": "PNAD-C：{}%（{}年）降至{}%（{}年），为序列最低值 · 不与PME拼接"
  },
  "People — Inequality, Poverty and the Minimum Wage": {
-  "pt": "Pessoas — Desigualdade, Pobreza e Salário Mínimo"
+  "pt": "Pessoas — Desigualdade, Pobreza e Salário Mínimo",
+  "ko": "사람들 — 불평등, 빈곤과 최저임금",
+  "zh-Hans": "民生——不平等、贫困与最低工资"
  },
  "Deaths following police intervention and homicides of women, per 100,000": {
-  "pt": "Mortes decorrentes de intervenção policial e homicídios de mulheres, por 100 mil"
+  "pt": "Mortes decorrentes de intervenção policial e homicídios de mulheres, por 100 mil",
+  "ko": "인구 100,000명당 경찰 개입 사망과 여성 피살",
+  "zh-Hans": "每100,000人中因警方干预死亡与女性被杀人数"
  },
  "Policy rate vs inflation": {
-  "pt": "Taxa básica contra a inflação"
+  "pt": "Taxa básica contra a inflação",
+  "ko": "기준금리와 물가",
+  "zh-Hans": "政策利率与通胀"
  },
  "Population": {
-  "pt": "População"
+  "pt": "População",
+  "ko": "인구",
+  "zh-Hans": "人口"
  },
  "Population growth slowing toward a peak IBGE projects for the 2040s, fertility well below replacement, and deaths closing on births.": {
-  "pt": "O crescimento da população desacelera rumo a um pico que o IBGE projeta para os anos 2040, a fecundidade bem abaixo da reposição e os óbitos se aproximando dos nascimentos."
+  "pt": "O crescimento da população desacelera rumo a um pico que o IBGE projeta para os anos 2040, a fecundidade bem abaixo da reposição e os óbitos se aproximando dos nascimentos.",
+  "ko": "IBGE가 2040년대에 정점을 전망하는 인구의 성장 둔화, 대체수준보다 훨씬 낮은 출산율, 출생에 근접하는 사망.",
+  "zh-Hans": "人口增长放缓，IBGE预测2040年代达峰；生育率远低于更替水平，死亡数逐步接近出生数。"
  },
  "Poverty rate — World Bank lines": {
-  "pt": "Taxa de pobreza — linhas do Banco Mundial"
+  "pt": "Taxa de pobreza — linhas do Banco Mundial",
+  "ko": "빈곤율 — 세계은행 기준선",
+  "zh-Hans": "贫困率——世界银行贫困线"
  },
  "Primary balance, general government (IMF)": {
-  "pt": "Resultado primário, governo geral (FMI)"
+  "pt": "Resultado primário, governo geral (FMI)",
+  "ko": "기초재정수지, 일반정부 (IMF)",
+  "zh-Hans": "基本财政收支，一般政府（IMF）"
  },
  "Primary result, central government (Tesouro)": {
-  "pt": "Resultado primário, governo central (Tesouro)"
+  "pt": "Resultado primário, governo central (Tesouro)",
+  "ko": "기초재정수지, 중앙정부 (Tesouro)",
+  "zh-Hans": "基本财政收支，中央政府（Tesouro）"
  },
  "Public Finances — Balance, Debt and Interest, 2006–2025": {
-  "pt": "Finanças Públicas — Resultado, Dívida e Juros, 2006–2025"
+  "pt": "Finanças Públicas — Resultado, Dívida e Juros, 2006–2025",
+  "ko": "공공재정 — 수지, 부채와 이자, 2006–2025",
+  "zh-Hans": "公共财政——收支、债务与利息，2006–2025"
  },
  "Public investment": {
-  "pt": "Investimento público"
+  "pt": "Investimento público",
+  "ko": "정부 투자",
+  "zh-Hans": "公共投资"
  },
  "Pulp": {
-  "pt": "Celulose"
+  "pt": "Celulose",
+  "ko": "펄프",
+  "zh-Hans": "纸浆"
  },
  "R$ per month": {
-  "pt": "R$ por mês"
+  "pt": "R$ por mês",
+  "ko": "월 R$",
+  "zh-Hans": "每月雷亚尔"
  },
  "R${} per US$ in {} to R${} in {}": {
-  "pt": "R$ {} por dólar em {} para R$ {} em {}"
+  "pt": "R$ {} por dólar em {} para R$ {} em {}",
+  "ko": "US$당 R${} ({}년)에서 R${} ({}년)로",
+  "zh-Hans": "每美元R${}（{}年）变为R${}（{}年）"
  },
  "Real GDP growth (% per year)": {
-  "pt": "Crescimento real do PIB (% ao ano)"
+  "pt": "Crescimento real do PIB (% ao ano)",
+  "ko": "실질 GDP 성장률 (연 %)",
+  "zh-Hans": "实际GDP增长率（每年%）"
  },
  "Registered deaths per 1,000, the excess over 2015–19, and the epidemics per 100,000 — SIM death certificates by underlying cause, counted by residence.": {
-  "pt": "Óbitos registrados por mil habitantes, o excesso sobre 2015–19 e as epidemias por 100 mil — declarações de óbito do SIM por causa básica, contadas por residência."
+  "pt": "Óbitos registrados por mil habitantes, o excesso sobre 2015–19 e as epidemias por 100 mil — declarações de óbito do SIM por causa básica, contadas por residência.",
+  "ko": "인구 1,000명당 등록 사망, 2015–19년 대비 초과 사망, 인구 100,000명당 유행병 사망 — 거주지 기준으로 집계한 기저사인별 SIM 사망진단서.",
+  "zh-Hans": "每千人登记死亡、相对2015–19年的超额死亡及每100,000人疫情死亡——按居住地统计、以根本死因分类的SIM死亡证明。"
  },
  "Registered deaths, SIM (residence)": {
-  "pt": "Óbitos registrados, SIM (residência)"
+  "pt": "Óbitos registrados, SIM (residência)",
+  "ko": "등록 사망, SIM (거주지 기준)",
+  "zh-Hans": "登记死亡，SIM（按居住地）"
  },
  "Revenue (IMF)": {
-  "pt": "Receita (FMI)"
+  "pt": "Receita (FMI)",
+  "ko": "수입 (IMF)",
+  "zh-Hans": "收入（IMF）"
  },
  "Revenue and expenditure — general government": {
-  "pt": "Receita e despesa — governo geral"
+  "pt": "Receita e despesa — governo geral",
+  "ko": "수입과 지출 — 일반정부",
+  "zh-Hans": "收入与支出——一般政府"
  },
  "Road traffic deaths": {
-  "pt": "Mortes no trânsito"
+  "pt": "Mortes no trânsito",
+  "ko": "도로교통사고 사망",
+  "zh-Hans": "道路交通死亡"
  },
  "S&P 500": {
-  "pt": "S&P 500"
+  "pt": "S&P 500",
+  "ko": "S&P 500",
+  "zh-Hans": "标普500"
  },
  "SECEX snapshot years, joined · China {}% in {} to {}% in {}": {
-  "pt": "anos de referência da SECEX, ligados · China: {}% em {} para {}% em {}"
+  "pt": "anos de referência da SECEX, ligados · China: {}% em {} para {}% em {}",
+  "ko": "SECEX 기준연도 연결 · 중국 {}% ({}년)에서 {}% ({}년)로",
+  "zh-Hans": "SECEX截面年份连线 · 中国{}%（{}年）变为{}%（{}年）"
  },
  "SIM, ICD-{} B{} from {} · {}: {} deaths": {
-  "pt": "SIM, CID-{} B{} a partir de {} · {}: {} óbitos"
+  "pt": "SIM, CID-{} B{} a partir de {} · {}: {} óbitos",
+  "ko": "SIM, ICD-{} B{}, {}년부터 · {}: 사망 {}명",
+  "zh-Hans": "SIM，ICD-{} B{}，自{}年起 · {}：死亡{}人"
  },
  "SIM, X60–X84, crude": {
-  "pt": "SIM, X60–X84, taxa bruta"
+  "pt": "SIM, X60–X84, taxa bruta",
+  "ko": "SIM, X60–X84, 조율",
+  "zh-Hans": "SIM，X60–X84，粗率"
  },
  "SIM, land transport V01–V89": {
-  "pt": "SIM, transporte terrestre V01–V89"
+  "pt": "SIM, transporte terrestre V01–V89",
+  "ko": "SIM, 육상교통 V01–V89",
+  "zh-Hans": "SIM，陆路交通V01–V89"
  },
  "Score, 2012+ method (TI)": {
-  "pt": "Pontuação, método de 2012+ (TI)"
+  "pt": "Pontuação, método de 2012+ (TI)",
+  "ko": "점수, 2012년 이후 방식 (TI)",
+  "zh-Hans": "得分，2012年起方法（TI）"
  },
  "Selic target, year-end": {
-  "pt": "Meta Selic, fim de ano"
+  "pt": "Meta Selic, fim de ano",
+  "ko": "Selic 목표금리, 연말",
+  "zh-Hans": "Selic目标利率，年末"
  },
  "Selic target, year-end (BCB)": {
-  "pt": "Meta Selic, fim de ano (BCB)"
+  "pt": "Meta Selic, fim de ano (BCB)",
+  "ko": "Selic 목표금리, 연말 (BCB)",
+  "zh-Hans": "Selic目标利率，年末（BCB）"
  },
  "Social protection": {
-  "pt": "Proteção social"
+  "pt": "Proteção social",
+  "ko": "사회보호",
+  "zh-Hans": "社会保护"
  },
  "Social protection (pensions, BPC, Bolsa Família)": {
-  "pt": "Proteção social (Previdência, BPC, Bolsa Família)"
+  "pt": "Proteção social (Previdência, BPC, Bolsa Família)",
+  "ko": "사회보호 (연금, BPC, Bolsa Família)",
+  "zh-Hans": "社会保护（养老金、BPC、Bolsa Família）"
  },
  "Social protection vs everything else": {
-  "pt": "Proteção social contra todo o resto"
+  "pt": "Proteção social contra todo o resto",
+  "ko": "사회보호 대 나머지 전부",
+  "zh-Hans": "社会保护与其余全部"
  },
  "Sources: BIS total credit statistics · Banco Central SGS (rates, arrears, household indebtedness)": {
-  "pt": "Fontes: BIS, estatísticas de crédito total · Banco Central, SGS (juros, inadimplência, endividamento das famílias)"
+  "pt": "Fontes: BIS, estatísticas de crédito total · Banco Central, SGS (juros, inadimplência, endividamento das famílias)",
+  "ko": "출처: BIS 총신용 통계 · Banco Central SGS (금리, 연체, 가계부채)",
+  "zh-Hans": "来源：BIS信贷总量统计 · Banco Central SGS（利率、逾期、家庭负债）"
  },
  "Sources: Banco Central (Selic, PTAX) · IBGE (IPCA) · B3 (Ibovespa) · S&P 500 via Yahoo Finance": {
-  "pt": "Fontes: Banco Central (Selic, PTAX) · IBGE (IPCA) · B3 (Ibovespa) · S&P 500 via Yahoo Finance"
+  "pt": "Fontes: Banco Central (Selic, PTAX) · IBGE (IPCA) · B3 (Ibovespa) · S&P 500 via Yahoo Finance",
+  "ko": "출처: Banco Central (Selic, PTAX) · IBGE (IPCA) · B3 (Ibovespa) · Yahoo Finance 경유 S&P 500",
+  "zh-Hans": "来源：Banco Central（Selic、PTAX）· IBGE（IPCA）· B3（Ibovespa）· S&P 500，经Yahoo Finance"
  },
  "Sources: IBGE (national accounts, IPCA, PNAD-C/PME) · World Bank WDI (GDP per person, ILO unemployment) · CMN (inflation target)": {
-  "pt": "Fontes: IBGE (contas nacionais, IPCA, PNAD-C/PME) · Banco Mundial, WDI (PIB por pessoa, desemprego da OIT) · CMN (meta de inflação)"
+  "pt": "Fontes: IBGE (contas nacionais, IPCA, PNAD-C/PME) · Banco Mundial, WDI (PIB por pessoa, desemprego da OIT) · CMN (meta de inflação)",
+  "ko": "출처: IBGE (국민계정, IPCA, PNAD-C/PME) · 세계은행 WDI (1인당 GDP, ILO 실업률) · CMN (물가목표)",
+  "zh-Hans": "来源：IBGE（国民账户、IPCA、PNAD-C/PME）· 世界银行 WDI（人均GDP、ILO失业率）· CMN（通胀目标）"
  },
  "Sources: IBGE PNAD Contínua / World Bank PIP (Gini, poverty) · planalto.gov.br (minimum wage) · Banco Central (PTAX) · IBGE (IPCA)": {
-  "pt": "Fontes: IBGE, PNAD Contínua / Banco Mundial, PIP (Gini, pobreza) · planalto.gov.br (salário mínimo) · Banco Central (PTAX) · IBGE (IPCA)"
+  "pt": "Fontes: IBGE, PNAD Contínua / Banco Mundial, PIP (Gini, pobreza) · planalto.gov.br (salário mínimo) · Banco Central (PTAX) · IBGE (IPCA)",
+  "ko": "출처: IBGE PNAD Contínua / 세계은행 PIP (지니계수, 빈곤) · planalto.gov.br (최저임금) · Banco Central (PTAX) · IBGE (IPCA)",
+  "zh-Hans": "来源：IBGE PNAD Contínua / 世界银行 PIP（基尼系数、贫困）· planalto.gov.br（最低工资）· Banco Central（PTAX）· IBGE（IPCA）"
  },
  "Sources: IBGE — Projeções da População, revisão 2024 · UN WPP via World Bank (net migration)": {
-  "pt": "Fontes: IBGE — Projeções da População, revisão 2024 · ONU, WPP, via Banco Mundial (migração líquida)"
+  "pt": "Fontes: IBGE — Projeções da População, revisão 2024 · ONU, WPP, via Banco Mundial (migração líquida)",
+  "ko": "출처: IBGE — Projeções da População, 2024년 개정 · UN WPP, 세계은행 경유 (순이동)",
+  "zh-Hans": "来源：IBGE — Projeções da População，2024年修订 · UN WPP，经世界银行（净迁移）"
  },
  "Sources: IMF WEO / Fiscal Monitor (general government) · Tesouro Nacional (central-government primary result, carga tributária) · Banco Central (DBGG, DLSP, NFSP)": {
-  "pt": "Fontes: FMI, WEO / Fiscal Monitor (governo geral) · Tesouro Nacional (resultado primário do governo central, carga tributária) · Banco Central (DBGG, DLSP, NFSP)"
+  "pt": "Fontes: FMI, WEO / Fiscal Monitor (governo geral) · Tesouro Nacional (resultado primário do governo central, carga tributária) · Banco Central (DBGG, DLSP, NFSP)",
+  "ko": "출처: IMF WEO / Fiscal Monitor (일반정부) · Tesouro Nacional (중앙정부 기초재정수지, 조세부담) · Banco Central (DBGG, DLSP, NFSP)",
+  "zh-Hans": "来源：IMF WEO / Fiscal Monitor（一般政府）· Tesouro Nacional（中央政府基本财政收支、税负）· Banco Central（DBGG、DLSP、NFSP）"
  },
  "Sources: IMF WEO / Fiscal Monitor (general government) · Tesouro Nacional (central-government primary result, carga tributária) · Banco Central (DBGG, NFSP)": {
-  "pt": "Fontes: FMI, WEO / Fiscal Monitor (governo geral) · Tesouro Nacional (resultado primário do governo central, carga tributária) · Banco Central (DBGG, NFSP)"
+  "pt": "Fontes: FMI, WEO / Fiscal Monitor (governo geral) · Tesouro Nacional (resultado primário do governo central, carga tributária) · Banco Central (DBGG, NFSP)",
+  "ko": "출처: IMF WEO / Fiscal Monitor (일반정부) · Tesouro Nacional (중앙정부 기초재정수지, 조세부담) · Banco Central (DBGG, NFSP)",
+  "zh-Hans": "来源：IMF WEO / Fiscal Monitor（一般政府）· Tesouro Nacional（中央政府基本财政收支、税负）· Banco Central（DBGG、NFSP）"
  },
  "Sources: IPEA Atlas da Violência (SIM) · FBSP Anuário 2026 · SIM/DATASUS · WHO via World Bank · IBGE and World Bank populations": {
-  "pt": "Fontes: IPEA, Atlas da Violência (SIM) · FBSP, Anuário 2026 · SIM/DATASUS · OMS via Banco Mundial · populações do IBGE e do Banco Mundial"
+  "pt": "Fontes: IPEA, Atlas da Violência (SIM) · FBSP, Anuário 2026 · SIM/DATASUS · OMS via Banco Mundial · populações do IBGE e do Banco Mundial",
+  "ko": "출처: IPEA Atlas da Violência (SIM) · FBSP Anuário 2026 · SIM/DATASUS · WHO, 세계은행 경유 · IBGE 및 세계은행 인구",
+  "zh-Hans": "来源：IPEA Atlas da Violência（SIM）· FBSP Anuário 2026 · SIM/DATASUS · WHO，经世界银行 · IBGE与世界银行人口数据"
  },
  "Sources: Ministério da Saúde — SIM/DATASUS (TabNet, ICD-10) · IBGE (population, projection model)": {
-  "pt": "Fontes: Ministério da Saúde — SIM/DATASUS (TabNet, CID-10) · IBGE (população, modelo de projeção)"
+  "pt": "Fontes: Ministério da Saúde — SIM/DATASUS (TabNet, CID-10) · IBGE (população, modelo de projeção)",
+  "ko": "출처: Ministério da Saúde — SIM/DATASUS (TabNet, ICD-10) · IBGE (인구, 추계모형)",
+  "zh-Hans": "来源：Ministério da Saúde — SIM/DATASUS（TabNet、ICD-10）· IBGE（人口、预测模型）"
  },
  "Sources: Tesouro Nacional (COFOG, central government; RTN) · IBGE (FBCF) · OECD National Accounts at a Glance (government GFCF)": {
-  "pt": "Fontes: Tesouro Nacional (COFOG, governo central; RTN) · IBGE (FBCF) · OCDE, National Accounts at a Glance (FBCF do governo)"
+  "pt": "Fontes: Tesouro Nacional (COFOG, governo central; RTN) · IBGE (FBCF) · OCDE, National Accounts at a Glance (FBCF do governo)",
+  "ko": "출처: Tesouro Nacional (COFOG, 중앙정부; RTN) · IBGE (FBCF) · OECD National Accounts at a Glance (정부 총고정자본형성)",
+  "zh-Hans": "来源：Tesouro Nacional（COFOG，中央政府；RTN）· IBGE（FBCF）· OECD National Accounts at a Glance（政府固定资本形成总额）"
  },
  "Sources: Tesouro Nacional (COFOG, general government; RTN) · IBGE (FBCF) · OECD National Accounts at a Glance (government GFCF)": {
-  "pt": "Fontes: Tesouro Nacional (COFOG, governo geral; RTN) · IBGE (FBCF) · OCDE, National Accounts at a Glance (FBCF do governo)"
+  "pt": "Fontes: Tesouro Nacional (COFOG, governo geral; RTN) · IBGE (FBCF) · OCDE, National Accounts at a Glance (FBCF do governo)",
+  "ko": "출처: Tesouro Nacional (COFOG, 일반정부; RTN) · IBGE (FBCF) · OECD National Accounts at a Glance (정부 총고정자본형성)",
+  "zh-Hans": "来源：Tesouro Nacional（COFOG，一般政府；RTN）· IBGE（FBCF）· OECD National Accounts at a Glance（政府固定资本形成总额）"
  },
  "Sources: World Bank WDI (GDP) · UNDP HDR 2025 · Transparency International · Banco Central (reserves) · IBGE": {
-  "pt": "Fontes: Banco Mundial, WDI (PIB) · PNUD, RDH 2025 · Transparência Internacional · Banco Central (reservas) · IBGE"
+  "pt": "Fontes: Banco Mundial, WDI (PIB) · PNUD, RDH 2025 · Transparência Internacional · Banco Central (reservas) · IBGE",
+  "ko": "출처: 세계은행 WDI (GDP) · UNDP HDR 2025 · Transparency International · Banco Central (외환보유액) · IBGE",
+  "zh-Hans": "来源：世界银行 WDI（GDP）· UNDP HDR 2025 · Transparency International · Banco Central（储备）· IBGE"
  },
  "Sources: World Bank WDI (goods and services, % of GDP) · MDIC/SECEX (goods, destinations, products)": {
-  "pt": "Fontes: Banco Mundial, WDI (bens e serviços, % do PIB) · MDIC/SECEX (bens, destinos, produtos)"
+  "pt": "Fontes: Banco Mundial, WDI (bens e serviços, % do PIB) · MDIC/SECEX (bens, destinos, produtos)",
+  "ko": "출처: 세계은행 WDI (재화·서비스, GDP 대비 %) · MDIC/SECEX (상품, 수출대상국, 품목)",
+  "zh-Hans": "来源：世界银行 WDI（货物与服务，占GDP的%）· MDIC/SECEX（货物、目的地、产品）"
  },
  "Soy complex": {
-  "pt": "Complexo soja"
+  "pt": "Complexo soja",
+  "ko": "대두 및 관련 제품",
+  "zh-Hans": "大豆及相关产品"
  },
  "Spending by function, stacked": {
-  "pt": "Gasto por função, empilhado"
+  "pt": "Gasto por função, empilhado",
+  "ko": "기능별 지출(누적)",
+  "zh-Hans": "按职能划分的支出，堆积图"
  },
  "Steel": {
-  "pt": "Aço"
+  "pt": "Aço",
+  "ko": "철강",
+  "zh-Hans": "钢铁"
  },
  "Sugar & ethanol": {
-  "pt": "Açúcar e etanol"
+  "pt": "Açúcar e etanol",
+  "ko": "설탕 및 에탄올",
+  "zh-Hans": "糖与乙醇"
  },
  "Suicide rate": {
-  "pt": "Taxa de suicídio"
+  "pt": "Taxa de suicídio",
+  "ko": "자살률",
+  "zh-Hans": "自杀率"
  },
  "Target (CMN)": {
-  "pt": "Meta (CMN)"
+  "pt": "Meta (CMN)",
+  "ko": "목표 (CMN)",
+  "zh-Hans": "目标（CMN）"
  },
  "Tax burden — carga tributária (STN)": {
-  "pt": "Carga tributária (STN)"
+  "pt": "Carga tributária (STN)",
+  "ko": "조세부담 — carga tributária (STN)",
+  "zh-Hans": "税负——carga tributária（STN）"
  },
  "Tesouro COFOG, general government, from {} · {}: {}% of GDP (preliminary)": {
-  "pt": "COFOG do Tesouro, governo geral, desde {} · {}: {}% do PIB (preliminar)"
+  "pt": "COFOG do Tesouro, governo geral, desde {} · {}: {}% do PIB (preliminar)",
+  "ko": "Tesouro COFOG, 일반정부, {}년부터 · {}: GDP의 {}% (잠정)",
+  "zh-Hans": "Tesouro COFOG，一般政府，自{}年起 · {}：GDP的{}%（初步）"
  },
  "The Brazilian Economy, 2006–2026": {
-  "pt": "A Economia Brasileira, 2006–2026"
+  "pt": "A Economia Brasileira, 2006–2026",
+  "ko": "브라질 경제, 2006–2026",
+  "zh-Hans": "巴西经济，2006–2026"
  },
  "The policy rate against inflation, the real as an index where up means stronger, and Brazilian equities in dollars beside the S&P 500.": {
-  "pt": "A taxa básica contra a inflação, o real como índice em que alta significa moeda mais forte, e a bolsa brasileira em dólares ao lado do S&P 500."
+  "pt": "A taxa básica contra a inflação, o real como índice em que alta significa moeda mais forte, e a bolsa brasileira em dólares ao lado do S&P 500.",
+  "ko": "물가상승률 대비 정책금리, 상승할수록 강세인 헤알화 지수, S&P 500과 비교한 달러 기준 브라질 주식.",
+  "zh-Hans": "政策利率与通胀、数值越高表示越强的雷亚尔指数，以及美元计价巴西股票与S&P 500的比较。"
  },
  "The real against the US$": {
-  "pt": "O real contra o dólar"
+  "pt": "O real contra o dólar",
+  "ko": "US$ 대비 헤알화",
+  "zh-Hans": "雷亚尔兑美元"
  },
  "Tolerance band (CMN)": {
-  "pt": "Intervalo de tolerância (CMN)"
+  "pt": "Intervalo de tolerância (CMN)",
+  "ko": "허용범위 (CMN)",
+  "zh-Hans": "容忍区间（CMN）"
  },
  "Top export destinations": {
-  "pt": "Principais destinos das exportações"
+  "pt": "Principais destinos das exportações",
+  "ko": "주요 수출 상대국",
+  "zh-Hans": "主要出口目的地"
  },
  "Total fertility rate": {
-  "pt": "Taxa de fecundidade total"
+  "pt": "Taxa de fecundidade total",
+  "ko": "합계출산율",
+  "zh-Hans": "总和生育率"
  },
  "Trade balance, goods and services": {
-  "pt": "Saldo comercial, bens e serviços"
+  "pt": "Saldo comercial, bens e serviços",
+  "ko": "재화·서비스 무역수지",
+  "zh-Hans": "货物与服务贸易差额"
  },
  "Two homicide systems drawn side by side, never spliced: IPEA/SIM death certificates by residence and FBSP police records by occurrence. Everything per 100,000.": {
-  "pt": "Dois sistemas de homicídios lado a lado, nunca emendados: as declarações de óbito do IPEA/SIM por residência e os registros policiais do FBSP por ocorrência. Tudo por 100 mil."
+  "pt": "Dois sistemas de homicídios lado a lado, nunca emendados: as declarações de óbito do IPEA/SIM por residência e os registros policiais do FBSP por ocorrência. Tudo por 100 mil.",
+  "ko": "연결하지 않고 병렬로 그린 두 살인 통계체계: 거주지 기준 IPEA/SIM 사망진단서와 발생지 기준 FBSP 경찰기록. 모두 인구 100,000명당.",
+  "zh-Hans": "并列绘制、绝不拼接的两套凶杀统计：按居住地统计的IPEA/SIM死亡证明与按发生地统计的FBSP警方记录。均按每100,000人计算。"
  },
  "US$ bn": {
-  "pt": "US$ bi"
+  "pt": "US$ bi",
+  "ko": "십억 달러",
+  "zh-Hans": "十亿美元"
  },
  "US$ bn, goods (SECEX)": {
-  "pt": "US$ bi, bens (SECEX)"
+  "pt": "US$ bi, bens (SECEX)",
+  "ko": "십억 US$, 상품 (SECEX)",
+  "zh-Hans": "十亿美元，货物（SECEX）"
  },
  "US$ per month": {
-  "pt": "US$ por mês"
+  "pt": "US$ por mês",
+  "ko": "월 달러",
+  "zh-Hans": "每月美元"
  },
  "US$, current": {
-  "pt": "US$ correntes"
+  "pt": "US$ correntes",
+  "ko": "달러, 경상가격",
+  "zh-Hans": "现价美元"
  },
  "US${}bn in {} to US${}bn in {}": {
-  "pt": "US$ {} bi em {} para US$ {} bi em {}"
+  "pt": "US$ {} bi em {} para US$ {} bi em {}",
+  "ko": "US${}십억 ({}년)에서 US${}십억 ({}년)로",
+  "zh-Hans": "{}十亿美元（{}年）变为{}十亿美元（{}年）"
  },
  "Unemployment rate": {
-  "pt": "Taxa de desemprego"
+  "pt": "Taxa de desemprego",
+  "ko": "실업률",
+  "zh-Hans": "失业率"
  },
  "United States": {
-  "pt": "Estados Unidos"
+  "pt": "Estados Unidos",
+  "ko": "미국",
+  "zh-Hans": "美国"
  },
  "Violence — Homicides, Suicide, Roads and Police Intervention": {
-  "pt": "Violência — Homicídios, Suicídio, Trânsito e Intervenção Policial"
+  "pt": "Violência — Homicídios, Suicídio, Trânsito e Intervenção Policial",
+  "ko": "폭력 — 살인, 자살, 도로와 경찰 개입",
+  "zh-Hans": "暴力——凶杀、自杀、道路与警方干预"
  },
  "WHO estimate": {
-  "pt": "Estimativa da OMS"
+  "pt": "Estimativa da OMS",
+  "ko": "WHO 추정",
+  "zh-Hans": "WHO估计"
  },
  "WHO estimate, age-standardised": {
-  "pt": "Estimativa da OMS, padronizada por idade"
+  "pt": "Estimativa da OMS, padronizada por idade",
+  "ko": "WHO 추정치, 연령표준화",
+  "zh-Hans": "WHO估计，年龄标准化"
  },
  "What Brazil exports — top groups (US$ bn)": {
-  "pt": "O que o Brasil exporta — principais grupos (US$ bi)"
+  "pt": "O que o Brasil exporta — principais grupos (US$ bi)",
+  "ko": "브라질 수출 — 주요 품목군 (십억 US$)",
+  "zh-Hans": "巴西出口——主要类别（十亿美元）"
  },
  "Where the Money Goes — Spending and Investment": {
-  "pt": "Para Onde Vai o Dinheiro — Gasto e Investimento"
+  "pt": "Para Onde Vai o Dinheiro — Gasto e Investimento",
+  "ko": "돈은 어디로 가는가 — 지출과 투자",
+  "zh-Hans": "资金流向——支出与投资"
  },
  "Whole economy (IBGE)": {
-  "pt": "Economia como um todo (IBGE)"
+  "pt": "Economia como um todo (IBGE)",
+  "ko": "전체 경제 (IBGE)",
+  "zh-Hans": "整体经济（IBGE）"
  },
  "World Bank PIP (harmonised)": {
-  "pt": "Banco Mundial, PIP (harmonizado)"
+  "pt": "Banco Mundial, PIP (harmonizado)",
+  "ko": "세계은행 PIP (조화된 기준)",
+  "zh-Hans": "世界银行 PIP（协调口径）"
  },
  "above the ceiling in {} of {} years · peak {}% in {}": {
-  "pt": "acima do teto em {} de {} anos · pico de {}% em {}"
+  "pt": "acima do teto em {} de {} anos · pico de {}% em {}",
+  "ko": "상한 초과 {}년 / 전체 {}년 · 최고 {}% ({}년)",
+  "zh-Hans": "超上限{}年／共{}年 · 峰值{}%（{}年）"
  },
  "and took years to apply:": {
-  "pt": "e levou anos para ser aplicada:"
+  "pt": "e levou anos para ser aplicada:",
+  "ko": "적용까지 수년이 소요:",
+  "zh-Hans": "实施耗时多年："
  },
  "as undetermined intent": {
-  "pt": "como intenção indeterminada"
+  "pt": "como intenção indeterminada",
+  "ko": "의도 미상으로",
+  "zh-Hans": "归为意图不明"
  },
  "children per woman": {
-  "pt": "filhos por mulher"
+  "pt": "filhos por mulher",
+  "ko": "여성 1명당 출생아 수",
+  "zh-Hans": "每位女性的生育数"
  },
  "data pending — run fetchers / add CSV": {
-  "pt": "dados pendentes — rodar os fetchers / incluir o CSV"
+  "pt": "dados pendentes — rodar os fetchers / incluir o CSV",
+  "ko": "자료 대기 — 수집기 실행 / CSV 추가",
+  "zh-Hans": "资料待补——执行抓取器 / 加入 CSV"
  },
  "dengue record {}: {} per {} · dengue moved to ICD A{} in {};": {
-  "pt": "recorde da dengue em {}: {} por {} · a dengue passou ao CID A{} em {};"
+  "pt": "recorde da dengue em {}: {} por {} · a dengue passou ao CID A{} em {};",
+  "ko": "뎅기열 최고 {}: {}명/{}명 · ICD A{}로 변경, {}년;",
+  "zh-Hans": "登革热纪录{}：{}人／每{}人 · 转入ICD A{}，于{}年；"
  },
  "emergency aid": {
-  "pt": "auxílio emergencial"
+  "pt": "auxílio emergencial",
+  "ko": "긴급지원금",
+  "zh-Hans": "紧急援助"
  },
  "excludes the 'others' residual (US${}bn in {})": {
-  "pt": "exclui o resíduo 'outros' (US$ {} bi em {})"
+  "pt": "exclui o resíduo 'outros' (US$ {} bi em {})",
+  "ko": "'기타' 잔여항목 제외 (US${}십억, {}년)",
+  "zh-Hans": "不含“其他”残余项（{}十亿美元，{}年）"
  },
  "federal budget functions mapped to COFOG; economic affairs sits inside other · {}: {}% of GDP": {
-  "pt": "funções do orçamento federal mapeadas na COFOG; assuntos econômicos ficam em outros · {}: {}% do PIB"
+  "pt": "funções do orçamento federal mapeadas na COFOG; assuntos econômicos ficam em outros · {}: {}% do PIB",
+  "ko": "연방예산 기능을 COFOG에 대응; 경제업무는 기타에 포함 · {}: GDP의 {}%",
+  "zh-Hans": "联邦预算职能对应COFOG；经济事务计入其他 · {}：GDP的{}%"
  },
  "generated from committed CSVs": {
-  "pt": "gerado a partir de CSVs versionados"
+  "pt": "gerado a partir de CSVs versionados",
+  "ko": "버전 관리되는 CSV에서 생성",
+  "zh-Hans": "由已提交的 CSV 产生"
  },
  "goods alone, {} (SECEX): exports US${}bn, imports US${}bn": {
-  "pt": "só bens, {} (SECEX): exportações de US$ {} bi, importações de US$ {} bi"
+  "pt": "só bens, {} (SECEX): exportações de US$ {} bi, importações de US$ {} bi",
+  "ko": "상품만, {} (SECEX): 수출 US${}십억, 수입 US${}십억",
+  "zh-Hans": "仅货物，{}（SECEX）：出口{}十亿美元，进口{}十亿美元"
  },
  "in dollars, {}× — the currency is half the story": {
-  "pt": "em dólares, {}× — o câmbio é metade da história"
+  "pt": "em dólares, {}× — o câmbio é metade da história",
+  "ko": "달러 기준 {}배 — 환율이 이야기의 절반",
+  "zh-Hans": "美元计价为{}倍——汇率是关键因素之一"
  },
  "in reais the Ibovespa is {}× its {} level by {};": {
-  "pt": "em reais o Ibovespa chega a {}× o nível de {} em {};"
+  "pt": "em reais o Ibovespa chega a {}× o nível de {} em {};",
+  "ko": "헤알 기준 Ibovespa는 {}배, 기준 {}년, 도달 {}년;",
+  "zh-Hans": "雷亚尔计价Ibovespa为{}倍，基期{}年，截至{}年；"
  },
  "index 2006 = 100": {
-  "pt": "índice 2006 = 100"
+  "pt": "índice 2006 = 100",
+  "ko": "지수, 2006 = 100",
+  "zh-Hans": "指数,2006 = 100"
  },
  "index 2006 = 100, in US$": {
-  "pt": "índice 2006 = 100, em US$"
+  "pt": "índice 2006 = 100, em US$",
+  "ko": "지수, 2006 = 100, 달러 기준",
+  "zh-Hans": "指数,2006 = 100,以美元计"
  },
  "index 2006 = 100, up = stronger": {
-  "pt": "índice 2006 = 100, alta = mais forte"
+  "pt": "índice 2006 = 100, alta = mais forte",
+  "ko": "지수, 2006 = 100, 위로 갈수록 원화 강세",
+  "zh-Hans": "指数,2006 = 100,向上代表更强"
  },
  "much of the rise is classification": {
-  "pt": "boa parte da alta é classificação"
+  "pt": "boa parte da alta é classificação",
+  "ko": "증가분의 상당 부분은 분류 변경",
+  "zh-Hans": "增幅很大部分来自分类变化"
  },
  "no age adjustment, so an ageing population drifts upward": {
-  "pt": "sem ajuste por idade, então uma população que envelhece sobe sozinha"
+  "pt": "sem ajuste por idade, então uma população que envelhece sobe sozinha",
+  "ko": "연령보정이 없어 고령화에 따라 상승",
+  "zh-Hans": "未作年龄调整，故随人口老龄化而上升"
  },
  "of these, classified as femicide": {
-  "pt": "destes, classificados como feminicídio"
+  "pt": "destes, classificados como feminicídio",
+  "ko": "이 중 여성살해로 분류",
+  "zh-Hans": "其中归类为杀害女性"
  },
  "on IBGE's projection deaths overtake births in {}": {
-  "pt": "na projeção do IBGE os óbitos superam os nascimentos em {}"
+  "pt": "na projeção do IBGE os óbitos superam os nascimentos em {}",
+  "ko": "IBGE 추계에서 {}년에 사망이 출생을 추월",
+  "zh-Hans": "IBGE预测死亡数于{}年超过出生数"
  },
  "per 1,000 people": {
-  "pt": "por mil habitantes"
+  "pt": "por mil habitantes",
+  "ko": "인구 1천 명당",
+  "zh-Hans": "每一千人"
  },
  "per 100,000": {
-  "pt": "por 100 mil habitantes"
+  "pt": "por 100 mil habitantes",
+  "ko": "인구 10만 명당",
+  "zh-Hans": "每十万人"
  },
  "per 100,000 (FBSP)": {
-  "pt": "por 100 mil (FBSP)"
+  "pt": "por 100 mil (FBSP)",
+  "ko": "인구 100,000명당 (FBSP)",
+  "zh-Hans": "每100,000人（FBSP）"
  },
  "registered deaths against their {}–{} average ({} a year);": {
-  "pt": "óbitos registrados contra a média de {}–{} ({} por ano);"
+  "pt": "óbitos registrados contra a média de {}–{} ({} por ano);",
+  "ko": "등록 사망, {}–{}년 평균 (연 {}명) 대비;",
+  "zh-Hans": "登记死亡相对{}–{}年平均值（每年{}人）；"
  },
  "replacement level 2.1": {
-  "pt": "nível de reposição 2,1"
+  "pt": "nível de reposição 2,1",
+  "ko": "대체수준 2.1",
+  "zh-Hans": "更替水平2.1"
  },
  "replacement level {}": {
-  "pt": "nível de reposição {}"
+  "pt": "nível de reposição {}",
+  "ko": "대체수준 {}",
+  "zh-Hans": "更替水平{}"
  },
  "scale extended": {
-  "pt": "escala ampliada"
+  "pt": "escala ampliada",
+  "ko": "축 범위 확장",
+  "zh-Hans": "刻度已延伸"
  },
  "score, 0–100": {
-  "pt": "pontuação, 0–100"
+  "pt": "pontuação, 0–100",
+  "ko": "점수, 0–100",
+  "zh-Hans": "分数,0–100"
  },
  "the OECD series stops in {} · federal: {}% of GDP in {}": {
-  "pt": "a série da OCDE termina em {} · federal: {}% do PIB em {}"
+  "pt": "a série da OCDE termina em {} · federal: {}% do PIB em {}",
+  "ko": "OECD 시계열은 {}년에 종료 · 연방정부: GDP의 {}%, {}년",
+  "zh-Hans": "OECD序列截至{}年 · 联邦：GDP的{}%，{}年"
  },
  "the Tesouro's retail offer rate, not ANBIMA's curve · {}, {}: no bond near ten years": {
-  "pt": "taxa de varejo ofertada pelo Tesouro, não a curva da ANBIMA · {}, {}: sem título perto de dez anos"
+  "pt": "taxa de varejo ofertada pelo Tesouro, não a curva da ANBIMA · {}, {}: sem título perto de dez anos",
+  "ko": "ANBIMA 곡선이 아닌 Tesouro 소매 판매금리 · {}, {}: 10년 근접 채권 없음",
+  "zh-Hans": "Tesouro零售报价利率，非ANBIMA曲线 · {}、{}：无接近10年期债券"
  },
  "the femicide qualifier dates from {}": {
-  "pt": "a qualificadora de feminicídio é de {}"
+  "pt": "a qualificadora de feminicídio é de {}",
+  "ko": "여성살해 구분은 {}년에 도입",
+  "zh-Hans": "杀害女性的认定类别始于{}年"
  },
  "the goods surplus alone was US$+{}bn in {} (SECEX);": {
-  "pt": "só o superávit de bens foi de US$ +{} bi em {} (SECEX);"
+  "pt": "só o superávit de bens foi de US$ +{} bi em {} (SECEX);",
+  "ko": "상품 흑자만 US$+{}십억, {}년 (SECEX);",
+  "zh-Hans": "仅货物顺差为+{}十亿美元，{}年（SECEX）；"
  },
  "the line sums old and new codes": {
-  "pt": "a linha soma os códigos antigo e novo"
+  "pt": "a linha soma os códigos antigo e novo",
+  "ko": "기존 및 새 코드를 합산한 선",
+  "zh-Hans": "曲线合计新旧代码"
  },
  "the services deficit takes most of it back": {
-  "pt": "o déficit de serviços leva quase tudo de volta"
+  "pt": "o déficit de serviços leva quase tudo de volta",
+  "ko": "서비스 적자로 대부분 상쇄",
+  "zh-Hans": "服务逆差抵消其中大部分"
  },
  "the shaded gap is housing credit — debt that buys an asset": {
-  "pt": "a faixa sombreada é o crédito habitacional — dívida que compra um ativo"
+  "pt": "a faixa sombreada é o crédito habitacional — dívida que compra um ativo",
+  "ko": "음영 차이는 주택대출 — 자산을 구입하는 부채",
+  "zh-Hans": "阴影差额为住房信贷——用于购置资产的债务"
  },
  "then decline": {
-  "pt": "e depois queda"
+  "pt": "e depois queda",
+  "ko": "이후 감소",
+  "zh-Hans": "随后下降"
  },
  "{} peak US${} · {}: US${}, with the real at R${} per US$": {
-  "pt": "pico em {}: US$ {} · {}: US$ {}, com o dólar a R$ {}"
+  "pt": "pico em {}: US$ {} · {}: US$ {}, com o dólar a R$ {}",
+  "ko": "{}년 최고 US${} · {}: US${}, 환율 US$당 R${}",
+  "zh-Hans": "{}年峰值US${} · {}：US${}，汇率每美元R${}"
  },
  "{} peak US${}bn · {}: US${}bn = R${}tn (IBGE)": {
-  "pt": "pico em {}: US$ {} bi · {}: US$ {} bi = R$ {} tri (IBGE)"
+  "pt": "pico em {}: US$ {} bi · {}: US$ {} bi = R$ {} tri (IBGE)",
+  "ko": "{}년 최고 US${}십억 · {}: US${}십억 = R${}조 (IBGE)",
+  "zh-Hans": "{}年峰值{}十亿美元 · {}：{}十亿美元 = R${}万亿（IBGE）"
  },
  "{} per {} in {} to {} in {} — up {}%": {
-  "pt": "{} por {} em {} para {} em {} — alta de {}%"
+  "pt": "{} por {} em {} para {} em {} — alta de {}%",
+  "ko": "{}명/{}명, {}년에서 {}명, {}년으로 — {}% 증가",
+  "zh-Hans": "{}人／每{}人，{}年，变为{}人，{}年——增长{}%"
  },
  "{}% of GDP in {} to {}% in {} · all bank credit, firms included: {}% (BCB)": {
-  "pt": "{}% do PIB em {} para {}% em {} · todo o crédito bancário, com empresas: {}% (BCB)"
+  "pt": "{}% do PIB em {} para {}% em {} · todo o crédito bancário, com empresas: {}% (BCB)",
+  "ko": "GDP의 {}%, {}년에서 {}%, {}년으로 · 기업 포함 전체 은행신용: {}% (BCB)",
+  "zh-Hans": "GDP的{}%，{}年，变为{}%，{}年 · 含企业的全部银行信贷：{}%（BCB）"
  },
  "{}: Aug": {
-  "pt": "{}: ago."
+  "pt": "{}: ago.",
+  "ko": "{}: 8월",
+  "zh-Hans": "{}：8月"
  },
  "{}: Aug (BCB)": {
-  "pt": "{}: ago. (BCB)"
+  "pt": "{}: ago. (BCB)",
+  "ko": "{}: 8월 (BCB)",
+  "zh-Hans": "{}：8月（BCB）"
  },
  "{}: IMF {}% vs DBGG {}% — the IMF counts the Treasury bonds the BCB holds": {
-  "pt": "{}: FMI {}% contra DBGG {}% — o FMI conta os títulos do Tesouro na carteira do BCB"
+  "pt": "{}: FMI {}% contra DBGG {}% — o FMI conta os títulos do Tesouro na carteira do BCB",
+  "ko": "{}: IMF {}%, DBGG {}% — IMF는 BCB 보유 국채를 포함",
+  "zh-Hans": "{}：IMF {}%，DBGG {}%——IMF计入BCB持有的国债"
  },
  "{}: Jan–Aug": {
-  "pt": "{}: jan.–ago."
+  "pt": "{}: jan.–ago.",
+  "ko": "{}: 1–8월",
+  "zh-Hans": "{}：1–8月"
  },
  "{}: Jan–Sep": {
-  "pt": "{}: jan.–set."
+  "pt": "{}: jan.–set.",
+  "ko": "{}: 1–9월",
+  "zh-Hans": "{}：1–9月"
  },
  "{}: Oct": {
-  "pt": "{}: out."
+  "pt": "{}: out.",
+  "ko": "{}: 10월",
+  "zh-Hans": "{}：10月"
  },
  "{}: Oct {}": {
-  "pt": "{}: {} out."
+  "pt": "{}: {} out.",
+  "ko": "{}: 10월 {}",
+  "zh-Hans": "{}：10月{}"
  },
  "{}: R${} a month = US${} · peak in dollars: {}": {
-  "pt": "{}: R$ {} por mês = US$ {} · pico em dólares: {}"
+  "pt": "{}: R$ {} por mês = US$ {} · pico em dólares: {}",
+  "ko": "{}: 월 R${} = US${} · 달러 기준 최고: {}",
+  "zh-Hans": "{}：每月R${} = US${} · 美元计价峰值：{}"
  },
  "{}: Selic {}%,": {
-  "pt": "{}: Selic {}%,"
+  "pt": "{}: Selic {}%,",
+  "ko": "{}: 기준금리 {}%,",
+  "zh-Hans": "{}：Selic {}%，"
  },
  "{}: latest month": {
-  "pt": "{}: último mês"
+  "pt": "{}: último mês",
+  "ko": "{}: 최근 월",
+  "zh-Hans": "{}：最新月份"
  },
  "{}: no survey (census year) · {}: {} on the World Bank line — emergency aid": {
-  "pt": "{}: sem pesquisa (ano de censo) · {}: {} na linha do Banco Mundial — auxílio emergencial"
+  "pt": "{}: sem pesquisa (ano de censo) · {}: {} na linha do Banco Mundial — auxílio emergencial",
+  "ko": "{}: 조사 없음 (인구총조사 연도) · {}: 세계은행 기준 {} — 긴급지원금",
+  "zh-Hans": "{}：无调查（人口普查年）· {}：世界银行贫困线下为{}——紧急援助"
  },
  "{}: overall deficit {}% of GDP": {
-  "pt": "{}: déficit nominal de {}% do PIB"
+  "pt": "{}: déficit nominal de {}% do PIB",
+  "ko": "{}: 종합재정적자 GDP의 {}%",
+  "zh-Hans": "{}：总体财政赤字占GDP的{}%"
  },
  "{}: spending {} points of GDP above revenue · tax burden: method break at {}, not drawn across": {
-  "pt": "{}: despesa {} pontos do PIB acima da receita · carga tributária: quebra de método em {}, sem linha atravessando"
+  "pt": "{}: despesa {} pontos do PIB acima da receita · carga tributária: quebra de método em {}, sem linha atravessando",
+  "ko": "{}: 지출이 수입보다 GDP의 {}%p 높음 · 조세부담: {}년 방법론 단절, 선으로 연결하지 않음",
+  "zh-Hans": "{}：支出高于收入GDP的{}个百分点 · 税负：{}年方法变更，不跨断点连线"
  },
  "{}: the window's fastest year · {}: -{}%": {
-  "pt": "{}: o ano mais rápido do período · {}: -{}%"
+  "pt": "{}: o ano mais rápido do período · {}: -{}%",
+  "ko": "{}: 기간 내 최고 성장 · {}: -{}%",
+  "zh-Hans": "{}：观察期内增长最快年份 · {}：-{}%"
  },
  "{}: {} per {} to {} in {}": {
-  "pt": "{}: {} por {} para {} em {}"
+  "pt": "{}: {} por {} para {} em {}",
+  "ko": "{}: {}명/{}명에서 {}명, {}년으로",
+  "zh-Hans": "{}：{}人／每{}人，变为{}人，{}年"
  },
  "{}: {} per {} · {} is preliminary": {
-  "pt": "{}: {} por {} · {} é preliminar"
+  "pt": "{}: {} por {} · {} é preliminar",
+  "ko": "{}: {}명/{}명 · {}년은 잠정",
+  "zh-Hans": "{}：{}人／每{}人 · {}为初步值"
  },
  "{}: {} to {}: {}": {
-  "pt": "{}: {} para {}: {}"
+  "pt": "{}: {} para {}: {}",
+  "ko": "{}년 {} → {}년 {}",
+  "zh-Hans": "{}：{}至{}：{}"
  },
  "{}: {} · pandemic dip to {} in {}": {
-  "pt": "{}: {} · queda na pandemia para {} em {}"
+  "pt": "{}: {} · queda na pandemia para {} em {}",
+  "ko": "{}: {} · 팬데믹 때 {}로 하락, {}년",
+  "zh-Hans": "{}：{} · 疫情期间降至{}，{}年"
  },
  "{}: {}% a year": {
-  "pt": "{}: {}% ao ano"
+  "pt": "{}: {}% ao ano",
+  "ko": "{}: 연 {}%",
+  "zh-Hans": "{}：每年{}%"
  },
  "{}: {}% of GDP on the BCB measure · {}: {}%": {
-  "pt": "{}: {}% do PIB pela medida do BCB · {}: {}%"
+  "pt": "{}: {}% do PIB pela medida do BCB · {}: {}%",
+  "ko": "{}: BCB 기준 GDP의 {}% · {}: {}%",
+  "zh-Hans": "{}：BCB口径GDP的{}% · {}：{}%"
  },
  "{}: {}% of GDP — emergency aid": {
-  "pt": "{}: {}% do PIB — auxílio emergencial"
+  "pt": "{}: {}% do PIB — auxílio emergencial",
+  "ko": "{}: GDP의 {}% — 긴급지원금",
+  "zh-Hans": "{}：GDP的{}%——紧急援助"
  },
  "{}: {}% of household loans · {}: {}% (Aug)": {
-  "pt": "{}: {}% do crédito às famílias · {}: {}% (ago.)"
+  "pt": "{}: {}% do crédito às famílias · {}: {}% (ago.)",
+  "ko": "{}: 가계대출의 {}% · {}: {}% (8월)",
+  "zh-Hans": "{}：家庭贷款的{}% · {}：{}%（8月）"
  },
  "{}: {}% · {}: {}% · {}: {}%": {
-  "pt": "{}: {}% · {}: {}% · {}: {}%"
+  "pt": "{}: {}% · {}: {}% · {}: {}%",
+  "ko": "{}: {}% · {}: {}% · {}: {}%",
+  "zh-Hans": "{}：{}% · {}：{}% · {}：{}%"
  },
  "{}: {}M · IBGE projects a peak of {}M in {},": {
-  "pt": "{}: {} mi · o IBGE projeta um pico de {} mi em {},"
+  "pt": "{}: {} mi · o IBGE projeta um pico de {} mi em {},",
+  "ko": "{}: {}백만 명 · IBGE 전망 정점 {}백만 명, {}년,",
+  "zh-Hans": "{}：{}百万人 · IBGE预测峰值为{}百万人，{}年，"
  },
- "Censo 2022, same-census denominator. Birthplace and": {"pt": "Censo 2022, denominador do mesmo censo. Nascimento e"},
- "Foreign-born and foreign-citizen share": {"pt": "Proporção nascida no exterior e de cidadãos estrangeiros"},
- "IBGE estimates imply impossible negative emigration in 2020;": {"pt": "As estimativas do IBGE implicam emigração negativa impossível em 2020;"},
- "Immigration and emigration — incompatible components": {"pt": "Imigração e emigração — componentes incompatíveis"},
- "Lens: residents born in Latin America": {"pt": "Lente: residentes nascidos na América Latina"},
- "Migration — what can be compared safely": {"pt": "Migração — o que pode ser comparado com segurança"},
- "Modelled net movement and census stocks; the gross pair remains unresolved": {"pt": "Movimento líquido modelado e estoques censitários; o par bruto segue sem solução"},
- "Net migration — UN WPP estimate": {"pt": "Migração líquida — estimativa WPP da ONU"},
- "Sources: IBGE, Censos Demográficos 2010 e 2022 · UN World Population Prospects via World Bank WDI": {"pt": "Fontes: IBGE, Censos Demográficos 2010 e 2022 · Perspectivas da População Mundial da ONU via WDI do Banco Mundial"},
- "UN WPP, modelled": {"pt": "WPP da ONU, modelado"},
- "born abroad": {"pt": "nascidos no exterior"},
- "citizenship are different stocks.": {"pt": "cidadania são estoques diferentes."},
- "foreign citizens": {"pt": "cidadãos estrangeiros"},
- "the gross pair stays pending until the method is reconciled.": {"pt": "o par bruto fica pendente até a conciliação do método."},
- "thousand residents": {"pt": "mil residentes"},
- "Brazilian migration, on compatible definitions": {"pt": "Migração brasileira, em definições compatíveis"},
- "Modelled net movement and census stocks; gross flows remain pending": {"pt": "Movimento líquido modelado e estoques censitários; fluxos brutos seguem pendentes"}
+ "Censo 2022, same-census denominator. Birthplace and": {
+  "pt": "Censo 2022, denominador do mesmo censo. Nascimento e",
+  "ko": "2022년 인구총조사, 동일 총조사 분모. 출생지와",
+  "zh-Hans": "2022年人口普查，分母取自同次普查。出生地与"
+ },
+ "Foreign-born and foreign-citizen share": {
+  "pt": "Proporção nascida no exterior e de cidadãos estrangeiros",
+  "ko": "외국 출생자와 외국 국적자 비중",
+  "zh-Hans": "外国出生人口与外国公民占比"
+ },
+ "IBGE estimates imply impossible negative emigration in 2020;": {
+  "pt": "As estimativas do IBGE implicam emigração negativa impossível em 2020;",
+  "ko": "IBGE 추정치는 2020년 불가능한 음의 국외이주를 시사;",
+  "zh-Hans": "IBGE估计意味着2020年出现不可能的负迁出；"
+ },
+ "Immigration and emigration — incompatible components": {
+  "pt": "Imigração e emigração — componentes incompatíveis",
+  "ko": "입국이주와 출국이주 — 호환되지 않는 구성요소",
+  "zh-Hans": "迁入与迁出——不可兼容的组成部分"
+ },
+ "Lens: residents born in Latin America": {
+  "pt": "Lente: residentes nascidos na América Latina",
+  "ko": "분석 관점: 라틴아메리카 출생 거주자",
+  "zh-Hans": "观察视角：出生于拉丁美洲的居民"
+ },
+ "Migration — what can be compared safely": {
+  "pt": "Migração — o que pode ser comparado com segurança",
+  "ko": "국제이동 — 안전하게 비교할 수 있는 지표",
+  "zh-Hans": "迁移——可稳妥比较的指标"
+ },
+ "Modelled net movement and census stocks; the gross pair remains unresolved": {
+  "pt": "Movimento líquido modelado e estoques censitários; o par bruto segue sem solução",
+  "ko": "모형 순이동과 총조사 인구; 총이동 쌍은 미해결",
+  "zh-Hans": "模型净迁移与普查存量；迁入迁出总量仍未厘清"
+ },
+ "Net migration — UN WPP estimate": {
+  "pt": "Migração líquida — estimativa WPP da ONU",
+  "ko": "순이동 — UN WPP 추정치",
+  "zh-Hans": "净迁移——UN WPP估计"
+ },
+ "Sources: IBGE, Censos Demográficos 2010 e 2022 · UN World Population Prospects via World Bank WDI": {
+  "pt": "Fontes: IBGE, Censos Demográficos 2010 e 2022 · Perspectivas da População Mundial da ONU via WDI do Banco Mundial",
+  "ko": "출처: IBGE, Censos Demográficos 2010 e 2022 · UN World Population Prospects, 세계은행 WDI 경유",
+  "zh-Hans": "来源：IBGE，Censos Demográficos 2010 e 2022 · UN World Population Prospects，经世界银行 WDI"
+ },
+ "UN WPP, modelled": {
+  "pt": "WPP da ONU, modelado",
+  "ko": "UN WPP, 모형 추정",
+  "zh-Hans": "UN WPP，模型估计"
+ },
+ "born abroad": {
+  "pt": "nascidos no exterior",
+  "ko": "외국 출생",
+  "zh-Hans": "出生于国外"
+ },
+ "citizenship are different stocks.": {
+  "pt": "cidadania são estoques diferentes.",
+  "ko": "국적은 서로 다른 인구 집단.",
+  "zh-Hans": "国籍属于不同存量指标。"
+ },
+ "foreign citizens": {
+  "pt": "cidadãos estrangeiros",
+  "ko": "외국 국적자",
+  "zh-Hans": "外国公民"
+ },
+ "the gross pair stays pending until the method is reconciled.": {
+  "pt": "o par bruto fica pendente até a conciliação do método.",
+  "ko": "방법론이 조정될 때까지 총이동 쌍은 보류.",
+  "zh-Hans": "方法协调前，迁入迁出总量仍待解决。"
+ },
+ "thousand residents": {
+  "pt": "mil residentes",
+  "ko": "거주자 천 명",
+  "zh-Hans": "千名居民"
+ },
+ "Brazilian migration, on compatible definitions": {
+  "pt": "Migração brasileira, em definições compatíveis",
+  "ko": "브라질 국제이동, 호환되는 정의 기준",
+  "zh-Hans": "巴西迁移，按可兼容定义"
+ },
+ "Modelled net movement and census stocks; gross flows remain pending": {
+  "pt": "Movimento líquido modelado e estoques censitários; fluxos brutos seguem pendentes",
+  "ko": "모형 순이동과 총조사 인구; 총이동은 보류",
+  "zh-Hans": "模型净迁移与普查存量；总流量仍待解决"
+ }
 }

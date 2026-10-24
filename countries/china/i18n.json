@@ -1,698 +1,917 @@
 {
-  "%": {
-    "pt": "%",
-    "zh-Hans": "%"
-  },
-  "2020: COVID-19 shock, but annual growth stayed positive": {
-    "pt": "2020: choque da COVID-19, mas o crescimento anual permaneceu positivo",
-    "zh-Hans": "2020年：新冠疫情冲击，但全年增长仍为正"
-  },
-  "2021: Evergrande default": {
-    "pt": "2021: calote da Evergrande",
-    "zh-Hans": "2021年：恒大违约"
-  },
-  "% above 2015–2019 average": {
-    "pt": "% acima da média de 2015–2019",
-    "zh-Hans": "较 2015–2019 年平均高出(%)"
-  },
-  "% of GDP": {
-    "pt": "% do PIB",
-    "zh-Hans": "占GDP的%"
-  },
-  "% of goods exports": {
-    "pt": "% das exportações de bens",
-    "zh-Hans": "占商品出口的%"
-  },
-  "% of labour force": {
-    "pt": "% da força de trabalho",
-    "zh-Hans": "占劳动力人口的%"
-  },
-  "% of loans": {
-    "pt": "% dos empréstimos",
-    "zh-Hans": "占贷款的%"
-  },
-  "% of people": {
-    "pt": "% das pessoas",
-    "zh-Hans": "占人口的%"
-  },
-  "% of population": {
-    "pt": "% da população",
-    "zh-Hans": "占总人口的%"
-  },
-  "% per year": {
-    "pt": "% ao ano",
-    "zh-Hans": "每年%"
-  },
-  "%, annual average": {
-    "pt": "%, média anual",
-    "zh-Hans": "%,年平均"
-  },
-  "10-year government bond yield (%, annual average)": {
-    "pt": "Rendimento de títulos públicos de 10 anos (%, média anual)",
-    "zh-Hans": "十年期国债收益率（%，年平均）"
-  },
-  "811 devaluation": {
-    "pt": "desvalorização de 11/8",
-    "zh-Hans": "“8·11”汇改"
-  },
-  "A comparable cause-of-death table is not accessible from the staged sources": {
-    "pt": "Uma tabela comparável de causas de morte não está acessível nas fontes preparadas",
-    "zh-Hans": "现有数据源无法取得可比的死因表"
-  },
-  "A comparable functional spending series is not staged": {
-    "pt": "Uma série comparável de gasto por função não está preparada",
-    "zh-Hans": "尚未整理可比的政府职能支出序列"
-  },
-  "A general-government interest series is not available in the staged sources": {
-    "pt": "Uma série de juros do governo geral não está disponível nas fontes preparadas",
-    "zh-Hans": "现有数据源没有一般政府利息支出序列"
-  },
-  "Annual death counts on a consistent national vintage are not staged": {
-    "pt": "Contagens anuais de mortes numa edição nacional consistente não estão preparadas",
-    "zh-Hans": "尚未整理口径一致的年度死亡人数序列"
-  },
-  "Australia": {
-    "pt": "Austrália",
-    "zh-Hans": "澳大利亚"
-  },
-  "Births": {
-    "pt": "Nascimentos",
-    "zh-Hans": "出生"
-  },
-  "Births and deaths (per 1,000 people)": {
-    "pt": "Nascimentos e óbitos (por 1.000 habitantes)",
-    "zh-Hans": "出生与死亡（每千人）"
-  },
-  "Brazil": {
-    "pt": "Brasil",
-    "zh-Hans": "巴西"
-  },
-  "COVID-19": {
-    "pt": "COVID-19",
-    "zh-Hans": "新冠疫情"
-  },
-  "COVID-19 deaths, underlying cause (per 100,000)": {
-    "pt": "Mortes por COVID-19, causa subjacente (por 100 mil)",
-    "zh-Hans": "新冠肺炎死亡,根本死因(每十万人)"
-  },
-  "China (Hong Kong SAR)": {
-    "pt": "China (RAE de Hong Kong)",
-    "zh-Hans": "中国香港特别行政区"
-  },
-  "China in the World": {
-    "pt": "A China no Mundo",
-    "zh-Hans": "世界中的中国"
-  },
-  "China publishes no accessible COFOG mapping in the staged sources": {
-    "pt": "A China não publica um mapeamento COFOG acessível nas fontes preparadas",
-    "zh-Hans": "现有数据源中没有中国可取得的COFOG映射"
-  },
-  "Comparable household lending and policy-rate regimes are not staged": {
-    "pt": "Regimes comparáveis de empréstimos às famílias e juro básico não estão preparados",
-    "zh-Hans": "尚未整理可比的住户贷款利率和政策利率制度"
-  },
-  "Comparable immigration and emigration flows are not staged": {
-    "pt": "Fluxos comparáveis de imigração e emigração não estão preparados",
-    "zh-Hans": "尚未整理可比的移入和移出流量"
-  },
-  "Consumer price inflation (% per year)": {
-    "pt": "Inflação ao consumidor (% ao ano)",
-    "zh-Hans": "居民消费价格涨幅（每年%）"
-  },
-  "Corruption Perceptions Index (score, 0–100)": {
-    "pt": "Índice de Percepção da Corrupção (pontuação, 0–100)",
-    "zh-Hans": "腐败感知指数（0–100分）"
-  },
-  "Credit": {
-    "pt": "Crédito",
-    "zh-Hans": "信贷"
-  },
-  "Crude death rate (per 1,000 people)": {
-    "pt": "Taxa bruta de mortalidade (por 1.000 pessoas)",
-    "zh-Hans": "粗死亡率(每一千人)"
-  },
-  "Deaths": {
-    "pt": "Mortes",
-    "zh-Hans": "死亡"
-  },
-  "Demography": {
-    "pt": "Demografia",
-    "zh-Hans": "人口"
-  },
-  "Evergrande": {
-    "pt": "Evergrande",
-    "zh-Hans": "恒大"
-  },
-  "Excess deaths (% above 2015–2019 average)": {
-    "pt": "Óbitos excessivos (% acima da média de 2015–2019)",
-    "zh-Hans": "超额死亡(较 2015–2019 年平均高出%)"
-  },
-  "Exports": {
-    "pt": "Exportações",
-    "zh-Hans": "出口"
-  },
-  "Exports and imports (% of GDP)": {
-    "pt": "Exportações e importações (% do PIB)",
-    "zh-Hans": "出口与进口（占GDP的%）"
-  },
-  "Exports minus imports within one World Bank vintage": {
-    "pt": "Exportações menos importações numa única edição do Banco Mundial",
-    "zh-Hans": "同一世界银行版本中的出口减进口"
-  },
-  "Foreign-born share of population (%)": {
-    "pt": "Parcela da população nascida no exterior (%)",
-    "zh-Hans": "境外出生人口占比（%）"
-  },
-  "GDP at current prices (US$ bn)": {
-    "pt": "PIB a preços correntes (US$ bi)",
-    "zh-Hans": "现价GDP（十亿美元）"
-  },
-  "GDP per person (US$, current)": {
-    "pt": "PIB por pessoa (US$ correntes)",
-    "zh-Hans": "人均GDP（现价美元）"
-  },
-  "Germany": {
-    "pt": "Alemanha",
-    "zh-Hans": "德国"
-  },
-  "Gini, 0–100": {
-    "pt": "Gini, 0–100",
-    "zh-Hans": "基尼系数,0–100"
-  },
-  "Government GFCF is not separately available in the staged sources": {
-    "pt": "A FBCF do governo não está disponível separadamente nas fontes preparadas",
-    "zh-Hans": "现有数据源未单列政府固定资本形成总额"
-  },
-  "Gross debt (% of GDP)": {
-    "pt": "Dívida bruta (% do PIB)",
-    "zh-Hans": "政府总债务（占GDP的%）"
-  },
-  "HDI, 0–1": {
-    "pt": "IDH, 0–1",
-    "zh-Hans": "人类发展指数,0–1"
-  },
-  "Harmonised readings while national machine sources remain blocked; never spliced.": {
-    "pt": "Leituras harmonizadas enquanto as fontes nacionais automatizadas seguem bloqueadas; nunca emendadas.",
-    "zh-Hans": "国内机器可读数据源仍受阻时采用统一口径读数；绝不拼接。"
-  },
-  "Harmonised readings; the NBS CPI remains the national series of record": {
-    "pt": "Leituras harmonizadas; o IPC do NBS continua sendo a série nacional oficial",
-    "zh-Hans": "统一口径读数；国家统计局CPI仍是国家权威序列"
-  },
-  "Holes remain holes; the NBS national Gini would ride beside this line": {
-    "pt": "Lacunas permanecem lacunas; o Gini nacional do NBS apareceria ao lado desta linha",
-    "zh-Hans": "缺口保留为空；国家统计局基尼系数将与此线并列"
-  },
-  "Homicide rate (per 100,000)": {
-    "pt": "Taxa de homicídio (por 100.000)",
-    "zh-Hans": "杀人率(每十万人)"
-  },
-  "Household debt (% of GDP)": {
-    "pt": "Dívida das famílias (% do PIB)",
-    "zh-Hans": "家庭债务(占GDP的%)"
-  },
-  "Household lending rate vs policy rate (%)": {
-    "pt": "Taxa de empréstimos às famílias vs. taxa básica (%)",
-    "zh-Hans": "住户贷款利率与政策利率（%）"
-  },
-  "Human Development Index (HDI, 0–1)": {
-    "pt": "Índice de Desenvolvimento Humano (IDH, 0–1)",
-    "zh-Hans": "人类发展指数(HDI,0–1)"
-  },
-  "ILO modelled estimate via World Bank; not the NBS surveyed urban rate": {
-    "pt": "Estimativa modelada da OIT via Banco Mundial; não é a taxa urbana pesquisada pelo NBS",
-    "zh-Hans": "世界银行转引的ILO模型估计；并非国家统计局城镇调查失业率"
-  },
-  "IMF Financial Soundness Indicator via World Bank; bank-wide, not households": {
-    "pt": "Indicador de solidez financeira do FMI via Banco Mundial; sistema bancário, não famílias",
-    "zh-Hans": "世界银行转引的IMF金融稳健指标；覆盖银行体系而非住户"
-  },
-  "IMF WEO": {
-    "pt": "FMI, WEO",
-    "zh-Hans": "IMF《世界经济展望》"
-  },
-  "IMF WEO; MOF on-budget debt excludes LGFVs and must remain separate": {
-    "pt": "FMI WEO; a dívida orçamentária do MF exclui LGFVs e deve permanecer separada",
-    "zh-Hans": "IMF《世界经济展望》；财政部预算内债务不含地方融资平台，必须分开"
-  },
-  "IMF broad general government": {
-    "pt": "Governo geral amplo do FMI",
-    "zh-Hans": "IMF广义一般政府"
-  },
-  "Immigration and emigration (per 1,000 people)": {
-    "pt": "Imigração e emigração (por 1.000 habitantes)",
-    "zh-Hans": "移入与移出（每千人）"
-  },
-  "Imports": {
-    "pt": "Importações",
-    "zh-Hans": "进口"
-  },
-  "Income inequality, Gini (0–100)": {
-    "pt": "Desigualdade de renda, Gini (0–100)",
-    "zh-Hans": "收入不平等，基尼系数（0–100）"
-  },
-  "India": {
-    "pt": "Índia",
-    "zh-Hans": "印度"
-  },
-  "Interest paid (% of GDP)": {
-    "pt": "Juros pagos (% do PIB)",
-    "zh-Hans": "利息支出（占GDP的%）"
-  },
-  "International migrant stock": {
-    "pt": "Estoque internacional de migrantes",
-    "zh-Hans": "国际移民存量"
-  },
-  "Investment rate, whole economy (% of GDP)": {
-    "pt": "Taxa de investimento da economia como um todo (% do PIB)",
-    "zh-Hans": "全经济投资率（占GDP的%）"
-  },
-  "Japan": {
-    "pt": "Japão",
-    "zh-Hans": "日本"
-  },
-  "Korea, Rep.": {
-    "pt": "Coreia do Sul",
-    "zh-Hans": "韩国"
-  },
-  "LPR begins in 2019; the prior benchmark rate is a separate regime": {
-    "pt": "A LPR começa em 2019; a taxa de referência anterior é outro regime",
-    "zh-Hans": "LPR始于2019年；此前的基准利率属于另一制度"
-  },
-  "Lens — causes of death": {
-    "pt": "Lente — causas de morte",
-    "zh-Hans": "专题——死因"
-  },
-  "Lens — household debt service": {
-    "pt": "Lente — serviço da dívida das famílias",
-    "zh-Hans": "专题——住户债务偿付"
-  },
-  "Lens — national public-safety series": {
-    "pt": "Lente — séries nacionais de segurança pública",
-    "zh-Hans": "专题——国家公共安全序列"
-  },
-  "Lens — poverty at three international lines (%)": {
-    "pt": "Lente — pobreza em três linhas internacionais (%)",
-    "zh-Hans": "专题——三条国际贫困线（%）"
-  },
-  "Lens — top import origins, 2023 (% of goods imports)": {
-    "pt": "Lente — principais origens das importações, 2023 (% dos bens importados)",
-    "zh-Hans": "专题——2023年主要进口来源（占货物进口的%）"
-  },
-  "Lens — urban population share (%)": {
-    "pt": "Lente — parcela da população urbana (%)",
-    "zh-Hans": "专题——城镇人口占比（%）"
-  },
-  "Migration": {
-    "pt": "Migração",
-    "zh-Hans": "迁移"
-  },
-  "Minimum wage (US$ per month)": {
-    "pt": "Salário mínimo (US$ por mês)",
-    "zh-Hans": "最低工资（每月美元）"
-  },
-  "Money and Markets": {
-    "pt": "Dinheiro e Mercados",
-    "zh-Hans": "货币与市场"
-  },
-  "Mortality": {
-    "pt": "Mortalidade",
-    "zh-Hans": "死亡"
-  },
-  "Natural increase and net migration (per 1,000 people)": {
-    "pt": "Crescimento natural e migração líquida (por 1.000 pessoas)",
-    "zh-Hans": "自然增加与净迁移(每一千人)"
-  },
-  "Net migration": {
-    "pt": "Saldo migratório",
-    "zh-Hans": "净迁移"
-  },
-  "Net migration (per 1,000 people)": {
-    "pt": "Migração líquida (por 1.000 pessoas)",
-    "zh-Hans": "净迁移（每千人）"
-  },
-  "No accessible comparable national police series; this ends in 2020": {
-    "pt": "Não há série policial nacional comparável e acessível; esta termina em 2020",
-    "zh-Hans": "没有可取得的可比国家警务序列；本序列止于2020年"
-  },
-  "No comparable general-government balance and interest pair is staged": {
-    "pt": "Nenhum par comparável de saldo e juros do governo geral está preparado",
-    "zh-Hans": "尚未整理可比的一般政府余额与利息支出组合"
-  },
-  "No comparable household debt-service series is staged": {
-    "pt": "Nenhuma série comparável de serviço da dívida das famílias está preparada",
-    "zh-Hans": "尚未整理可比的住户债务偿付序列"
-  },
-  "No national statutory rate: provinces and municipalities set different floors": {
-    "pt": "Não há piso legal nacional: províncias e municípios fixam valores diferentes",
-    "zh-Hans": "没有全国法定标准：各省市分别制定最低线"
-  },
-  "No official yield series is staged": {
-    "pt": "Nenhuma série oficial de rendimento está preparada",
-    "zh-Hans": "尚未整理官方收益率序列"
-  },
-  "Non-performing loans (% of loans)": {
-    "pt": "Créditos inadimplentes (% dos empréstimos)",
-    "zh-Hans": "不良贷款(占贷款的%)"
-  },
-  "Official reporting stopped in 2023 and the counts are not comparable": {
-    "pt": "A divulgação oficial parou em 2023 e as contagens não são comparáveis",
-    "zh-Hans": "官方报告于2023年停止，计数不可比"
-  },
-  "Official reserves (US$ bn)": {
-    "pt": "Reservas oficiais (US$ bi)",
-    "zh-Hans": "官方储备（十亿美元）"
-  },
-  "Other Asia nes (Comtrade residual)": {
-    "pt": "Outras partes da Ásia n.e. (resíduo do Comtrade)",
-    "zh-Hans": "亚洲其他地区（Comtrade残差）"
-  },
-  "Overall and primary balance (% of GDP)": {
-    "pt": "Resultado global e primário (% do PIB)",
-    "zh-Hans": "总体余额与基本余额（占GDP的%）"
-  },
-  "People": {
-    "pt": "Pessoas",
-    "zh-Hans": "民生"
-  },
-  "Police and transport series are not published in an accessible comparable form": {
-    "pt": "Séries policiais e de transporte não são publicadas em forma comparável e acessível",
-    "zh-Hans": "警务和交通序列没有以可取得且可比的形式发布"
-  },
-  "Policy rate vs inflation (%)": {
-    "pt": "Juro básico x inflação (%)",
-    "zh-Hans": "政策利率与通胀率（%）"
-  },
-  "Population (index 2006 = 100)": {
-    "pt": "População (índice 2006 = 100)",
-    "zh-Hans": "人口(指数,2006 = 100)"
-  },
-  "Poverty rate (% of people)": {
-    "pt": "Taxa de pobreza (% das pessoas)",
-    "zh-Hans": "贫困率（人口的%）"
-  },
-  "Public Finances": {
-    "pt": "Contas Públicas",
-    "zh-Hans": "公共财政"
-  },
-  "Public investment (% of GDP)": {
-    "pt": "Investimento público (% do PIB)",
-    "zh-Hans": "公共投资(占GDP的%)"
-  },
-  "Published harmonised rate; NBS census rebases must remain a separate series": {
-    "pt": "Taxa harmonizada publicada; revisões censitárias do NBS devem permanecer em série separada",
-    "zh-Hans": "已发布的统一口径比率；国家统计局人口普查换基必须另列"
-  },
-  "Real GDP growth (% per year)": {
-    "pt": "Crescimento real do PIB (% ao ano)",
-    "zh-Hans": "实际GDP增长率（每年%）"
-  },
-  "Renminbi against the US$ (index 2006 = 100, up = stronger)": {
-    "pt": "Renminbi frente ao US$ (índice 2006 = 100, alta = mais forte)",
-    "zh-Hans": "人民币兑美元（指数，2006=100，上升表示走强）"
-  },
-  "Revenue and expenditure (% of GDP)": {
-    "pt": "Receitas e despesas (% do PIB)",
-    "zh-Hans": "财政收入与支出（占GDP的%）"
-  },
-  "Road traffic deaths (per 100,000)": {
-    "pt": "Mortes no trânsito (por 100 mil)",
-    "zh-Hans": "道路交通事故死亡(每十万人)"
-  },
-  "Russian Federation": {
-    "pt": "Federação Russa",
-    "zh-Hans": "俄罗斯联邦"
-  },
-  "S&P 500": {
-    "pt": "S&P 500",
-    "zh-Hans": "标普500"
-  },
-  "SSE Composite": {
-    "pt": "SSE Composite",
-    "zh-Hans": "上证综合指数"
-  },
-  "SSE Composite in US$ (index 2006 = 100)": {
-    "pt": "SSE Composite em US$ (índice 2006 = 100)",
-    "zh-Hans": "上证综合指数（美元计，2006=100）"
-  },
-  "Security": {
-    "pt": "Segurança",
-    "zh-Hans": "安全"
-  },
-  "Social protection vs everything else (% of GDP)": {
-    "pt": "Proteção social em comparação com os demais gastos (% do PIB)",
-    "zh-Hans": "社会保障与其他支出（占GDP的%）"
-  },
-  "Sources: World Bank · IMF · UNDP · UN Comtrade · Transparency International": {
-    "pt": "Fontes: Banco Mundial · FMI · PNUD · UN Comtrade · Transparência Internacional",
-    "zh-Hans": "来源：世界银行 · IMF · UNDP · 联合国Comtrade · 透明国际"
-  },
-  "Sources: World Bank · IMF · BIS · UNDP · UN Comtrade · Transparency International": {
-    "pt": "Fontes: Banco Mundial · FMI · BIS · PNUD · UN Comtrade · Transparência Internacional",
-    "zh-Hans": "来源：世界银行 · IMF · BIS · UNDP · 联合国Comtrade · 透明国际"
-  },
-  "Spending by function, stacked (% of GDP)": {
-    "pt": "Gasto por função, empilhado (% do PIB)",
-    "zh-Hans": "按政府职能分类的支出（占GDP的%，堆叠）"
-  },
-  "Suicide rate (per 100,000)": {
-    "pt": "Taxa de suicídio (por 100 mil)",
-    "zh-Hans": "自杀率(每十万人)"
-  },
-  "The Economy": {
-    "pt": "A Economia",
-    "zh-Hans": "经济"
-  },
-  "Top export destinations, 2023 (% of goods exports)": {
-    "pt": "Principais destinos das exportações, 2023 (% dos bens exportados)",
-    "zh-Hans": "2023年主要出口目的地（占货物出口的%）"
-  },
-  "Top export destinations (% of goods exports)": {
-    "pt": "Principais destinos das exportações (% dos bens exportados)",
-    "zh-Hans": "主要出口目的地（占货物出口的%）"
-  },
-  "Lens — top export destinations, 2023 (% of goods exports)": {
-    "pt": "Lente — principais destinos das exportações, 2023 (% dos bens exportados)",
-    "zh-Hans": "视角——2023年主要出口目的地（占货物出口的%）"
-  },
-  "Only a 2023 partner snapshot is staged; the canonical slot requires a time series": {
-    "pt": "Somente um retrato de parceiros de 2023 está versionado; o espaço canônico exige uma série temporal",
-    "zh-Hans": "目前仅有2023年伙伴快照；标准位置需要时间序列"
-  },
-  "Total fertility rate (children per woman)": {
-    "pt": "Taxa de fecundidade total (filhos por mulher)",
-    "zh-Hans": "总生育率(每位女性的生育数)"
-  },
-  "Trade": {
-    "pt": "Comércio",
-    "zh-Hans": "贸易"
-  },
-  "Trade balance (% of GDP)": {
-    "pt": "Saldo comercial (% do PIB)",
-    "zh-Hans": "贸易余额（占GDP的%）"
-  },
-  "Transparency International; comparable 2012 method only": {
-    "pt": "Transparência Internacional; apenas o método comparável de 2012",
-    "zh-Hans": "透明国际；仅采用2012年起的可比方法"
-  },
-  "UN Comtrade snapshot; China reporter, customs goods; Taiwan absent from response": {
-    "pt": "Retrato do UN Comtrade; China declarante, bens aduaneiros; Taiwan ausente da resposta",
-    "zh-Hans": "联合国Comtrade快照；中国为报告方、海关货物口径；响应中无台湾"
-  },
-  "UN Comtrade snapshot; not spliced to GACC, whose endpoint is blocked": {
-    "pt": "Retrato do UN Comtrade; não emendado à GACC, cujo endpoint está bloqueado",
-    "zh-Hans": "联合国Comtrade快照；不与接口受阻的海关总署数据拼接"
-  },
-  "UN DESA snapshots only: 2010, 2015, 2020 and 2024; never interpolated": {
-    "pt": "Apenas retratos da ONU DESA: 2010, 2015, 2020 e 2024; nunca interpolados",
-    "zh-Hans": "仅联合国经社部快照：2010、2015、2020和2024年；从不插值"
-  },
-  "UNDP HDR 2025 vintage; ends in 2023": {
-    "pt": "Edição RHD 2025 do PNUD; termina em 2023",
-    "zh-Hans": "UNDP《人类发展报告2025》版本；止于2023年"
-  },
-  "UNODC via World Bank": {
-    "pt": "UNODC via Banco Mundial",
-    "zh-Hans": "世界银行转引UNODC"
-  },
-  "US tariffs": {
-    "pt": "Tarifas americanas",
-    "zh-Hans": "美国加征关税"
-  },
-  "US$ bn": {
-    "pt": "US$ bi",
-    "zh-Hans": "十亿美元"
-  },
-  "US$ per month": {
-    "pt": "US$ por mês",
-    "zh-Hans": "每月美元"
-  },
-  "US$, current": {
-    "pt": "US$ correntes",
-    "zh-Hans": "现价美元"
-  },
-  "US$3.00/day": {
-    "pt": "US$ 3,00/dia",
-    "zh-Hans": "每天3.00美元"
-  },
-  "US$4.20/day": {
-    "pt": "US$ 4,20/dia",
-    "zh-Hans": "每天4.20美元"
-  },
-  "US$8.30/day": {
-    "pt": "US$ 8,30/dia",
-    "zh-Hans": "每天8.30美元"
-  },
-  "US$8.30/day, 2021 PPP": {
-    "pt": "US$ 8,30/dia, PPC de 2021",
-    "zh-Hans": "每天8.30美元，2021年购买力平价"
-  },
-  "Unemployment (% of labour force)": {
-    "pt": "Desemprego (% da força de trabalho)",
-    "zh-Hans": "失业率（占劳动力的%）"
-  },
-  "United States": {
-    "pt": "Estados Unidos",
-    "zh-Hans": "美国"
-  },
-  "Viet Nam": {
-    "pt": "Vietnã",
-    "zh-Hans": "越南"
-  },
-  "WHO via World Bank": {
-    "pt": "OMS via Banco Mundial",
-    "zh-Hans": "世界银行转引WHO"
-  },
-  "Where the Money Goes": {
-    "pt": "Para Onde Vai o Dinheiro",
-    "zh-Hans": "钱花在哪里"
-  },
-  "World Bank": {
-    "pt": "Banco Mundial",
-    "zh-Hans": "世界银行"
-  },
-  "World Bank / IMF IFS incl. gold; SAFE national reserve assets remain separate": {
-    "pt": "Banco Mundial / IFS do FMI incl. ouro; os ativos nacionais da SAFE permanecem separados",
-    "zh-Hans": "世界银行 / IMF国际金融统计（含黄金）；外汇局国家储备资产另列"
-  },
-  "World Bank / UN DESA five-year estimates carried annually; not border records": {
-    "pt": "Estimativas quinquenais do Banco Mundial / ONU DESA distribuídas anualmente; não são registros de fronteira",
-    "zh-Hans": "世界银行 / 联合国经社部五年估计按年展开；并非边境记录"
-  },
-  "World Bank / UN WPP": {
-    "pt": "Banco Mundial / ONU WPP",
-    "zh-Hans": "世界银行 / 联合国人口展望"
-  },
-  "World Bank / UN WPP mainland-China scope; NBS census series is not spliced": {
-    "pt": "Banco Mundial / ONU WPP, China continental; a série censitária do NBS não é emendada",
-    "zh-Hans": "世界银行 / 联合国人口展望的中国大陆口径；不与国家统计局普查序列拼接"
-  },
-  "World Bank / UN WPP; not a hukou or floating-population measure": {
-    "pt": "Banco Mundial / ONU WPP; não é medida de hukou nem de população flutuante",
-    "zh-Hans": "世界银行 / 联合国人口展望；不是户口或流动人口指标"
-  },
-  "World Bank GFCF; above the shared 40% reference for much of the window": {
-    "pt": "FBCF do Banco Mundial; acima da referência comum de 40% em boa parte do período",
-    "zh-Hans": "世界银行固定资本形成总额；窗口期多数年份高于共用40%参考线"
-  },
-  "World Bank PIP, 2021 PPP; survey years only": {
-    "pt": "PIP do Banco Mundial, PPC de 2021; apenas anos de pesquisa",
-    "zh-Hans": "世界银行PIP，2021年购买力平价；仅调查年份"
-  },
-  "World Bank PIP; an international threshold, not China's national poverty line": {
-    "pt": "PIP do Banco Mundial; limiar internacional, não a linha nacional de pobreza da China",
-    "zh-Hans": "世界银行PIP；国际门槛，并非中国国家贫困线"
-  },
-  "World Bank bars and IMF line; NBS national accounts unavailable (403)": {
-    "pt": "Barras do Banco Mundial e linha do FMI; contas nacionais do NBS indisponíveis (403)",
-    "zh-Hans": "世界银行柱形与IMF折线；国家统计局国民账户不可用（403）"
-  },
-  "World Bank goods and services, balance-of-payments basis": {
-    "pt": "Bens e serviços do Banco Mundial, base do balanço de pagamentos",
-    "zh-Hans": "世界银行货物和服务，国际收支口径"
-  },
-  "World Bank harmonised reading; current US$ at market exchange rates": {
-    "pt": "Leitura harmonizada do Banco Mundial; US$ correntes ao câmbio de mercado",
-    "zh-Hans": "世界银行统一口径读数；按市场汇率计算的当期美元"
-  },
-  "World Bank official-rate average; PBoC fixing and CFETS close are distinct": {
-    "pt": "Média da taxa oficial do Banco Mundial; fixing do PBoC e fechamento CFETS são distintos",
-    "zh-Hans": "世界银行官方汇率均值；央行中间价与CFETS收盘价不同"
-  },
-  "World Bank published rates; births fell below deaths in 2022": {
-    "pt": "Taxas publicadas pelo Banco Mundial; nascimentos ficaram abaixo das mortes em 2022",
-    "zh-Hans": "世界银行发布比率；2022年出生率低于死亡率"
-  },
-  "World Bank survey series": {
-    "pt": "Série de pesquisas do Banco Mundial",
-    "zh-Hans": "世界银行调查序列"
-  },
-  "World Bank: published vital rates; net migration count divided by population": {
-    "pt": "Banco Mundial: taxas vitais publicadas; saldo migratório dividido pela população",
-    "zh-Hans": "世界银行：已发布人口变动率；净迁移人数除以人口"
-  },
-  "World Bank; current US$ is a size reading, not real growth": {
-    "pt": "Banco Mundial; US$ correntes medem tamanho, não crescimento real",
-    "zh-Hans": "世界银行；当期美元衡量规模而非实际增长"
-  },
-  "Yahoo price indexes (non-official); SSE converted with annual-average CNY/US$": {
-    "pt": "Índices de preços do Yahoo (não oficiais); SSE convertido pelo CNY/US$ médio anual",
-    "zh-Hans": "雅虎价格指数（非官方）；上证指数按年度平均人民币/美元汇率换算"
-  },
-  "children per woman": {
-    "pt": "filhos por mulher",
-    "zh-Hans": "每位女性的生育数"
-  },
-  "data pending — run fetchers / add CSV": {
-    "pt": "dados pendentes — rodar os fetchers / incluir o CSV",
-    "zh-Hans": "资料待补——执行抓取器 / 加入 CSV"
-  },
-  "equity crash": {
-    "pt": "queda das ações",
-    "zh-Hans": "股灾"
-  },
-  "generated from committed CSVs": {
-    "pt": "gerado a partir de CSVs versionados",
-    "zh-Hans": "由已提交的 CSV 产生"
-  },
-  "index 2006 = 100": {
-    "pt": "índice 2006 = 100",
-    "zh-Hans": "指数,2006 = 100"
-  },
-  "index 2006 = 100, in US$": {
-    "pt": "índice 2006 = 100, em US$",
-    "zh-Hans": "指数,2006 = 100,以美元计"
-  },
-  "index 2006 = 100, up = stronger": {
-    "pt": "índice 2006 = 100, para cima = mais forte",
-    "zh-Hans": "指数,2006 = 100,向上代表更强"
-  },
-  "per 1,000 people": {
-    "pt": "por 1.000 habitantes",
-    "zh-Hans": "每一千人"
-  },
-  "per 100,000": {
-    "pt": "por 100.000",
-    "zh-Hans": "每十万人"
-  },
-  "scale extended": {
-    "pt": "escala ampliada",
-    "zh-Hans": "刻度已延伸"
-  },
-  "score, 0–100": {
-    "pt": "nota, 0–100",
-    "zh-Hans": "分数,0–100"
-  },
-  "Revenue": {"pt": "Receita", "zh-Hans": "收入"},
-  "Expenditure": {"pt": "Despesa", "zh-Hans": "支出"},
-  "Primary balance": {"pt": "Saldo primário", "zh-Hans": "初級餘額"},
-  "Interest paid": {"pt": "Juros pagos", "zh-Hans": "利息支出"},
-  "Households and NPISH": {"pt": "Famílias e ISFLSF", "zh-Hans": "住戶及非營利機構"},
-  "Private non-financial sector": {"pt": "Setor privado não financeiro", "zh-Hans": "私人非金融部門"},
-  "Lens — private-sector debt service (% of income)": {"pt": "Lente — serviço da dívida do setor privado (% da renda)", "zh-Hans": "視角—私人部門償債率（收入百分比）"},
-  "IMF Fiscal Monitor, broad general government; MOF's budget is narrower": {"pt": "Monitor Fiscal do FMI, governo geral amplo; o orçamento do Ministério das Finanças é mais restrito", "zh-Hans": "IMF《財政監測》廣義一般政府口徑；財政部預算口徑較窄"},
-  "IMF Fiscal Monitor; overall and primary balances from one vintage": {"pt": "Monitor Fiscal do FMI; saldos global e primário da mesma edição", "zh-Hans": "IMF《財政監測》；總餘額與初級餘額來自同一版本"},
-  "Derived within one IMF vintage: primary balance minus overall balance": {"pt": "Derivado dentro da mesma edição do FMI: saldo primário menos saldo global", "zh-Hans": "在同一IMF版本內推導：初級餘額減總餘額"},
-  "BIS total credit, Q4 stock, adjusted for breaks": {"pt": "Crédito total do BIS, estoque no 4º trimestre, ajustado por rupturas", "zh-Hans": "BIS總信貸，第四季度存量，已調整序列中斷"},
-  "BIS Q.CN.P; broader than households and never labelled household DSR": {"pt": "BIS Q.CN.P; mais amplo que famílias e nunca rotulado como serviço da dívida familiar", "zh-Hans": "BIS Q.CN.P；範圍廣於住戶，絕不標作住戶償債率"}
+ "%": {
+  "pt": "%",
+  "zh-Hans": "%",
+  "ko": "%"
+ },
+ "2020: COVID-19 shock, but annual growth stayed positive": {
+  "pt": "2020: choque da COVID-19, mas o crescimento anual permaneceu positivo",
+  "zh-Hans": "2020年：新冠疫情冲击，但全年增长仍为正",
+  "ko": "2020년: 코로나19 충격에도 연간 성장률은 양수 유지"
+ },
+ "2021: Evergrande default": {
+  "pt": "2021: calote da Evergrande",
+  "zh-Hans": "2021年：恒大违约",
+  "ko": "2021년: 헝다 채무불이행"
+ },
+ "% above 2015–2019 average": {
+  "pt": "% acima da média de 2015–2019",
+  "zh-Hans": "较 2015–2019 年平均高出(%)",
+  "ko": "2015–2019년 평균 대비 증감(%)"
+ },
+ "% of GDP": {
+  "pt": "% do PIB",
+  "zh-Hans": "占GDP的%",
+  "ko": "GDP 대비 %"
+ },
+ "% of goods exports": {
+  "pt": "% das exportações de bens",
+  "zh-Hans": "占商品出口的%",
+  "ko": "상품 수출 대비 %"
+ },
+ "% of labour force": {
+  "pt": "% da força de trabalho",
+  "zh-Hans": "占劳动力人口的%",
+  "ko": "경제활동인구 대비 %"
+ },
+ "% of loans": {
+  "pt": "% dos empréstimos",
+  "zh-Hans": "占贷款的%",
+  "ko": "대출 대비 %"
+ },
+ "% of people": {
+  "pt": "% das pessoas",
+  "zh-Hans": "占人口的%",
+  "ko": "인구 대비 %"
+ },
+ "% of population": {
+  "pt": "% da população",
+  "zh-Hans": "占总人口的%",
+  "ko": "인구 대비 %"
+ },
+ "% per year": {
+  "pt": "% ao ano",
+  "zh-Hans": "每年%",
+  "ko": "연간 %"
+ },
+ "%, annual average": {
+  "pt": "%, média anual",
+  "zh-Hans": "%,年平均",
+  "ko": "%, 연평균"
+ },
+ "10-year government bond yield (%, annual average)": {
+  "pt": "Rendimento de títulos públicos de 10 anos (%, média anual)",
+  "zh-Hans": "十年期国债收益率（%，年平均）",
+  "ko": "10년 만기 국채 수익률(%, 연평균)"
+ },
+ "811 devaluation": {
+  "pt": "desvalorização de 11/8",
+  "zh-Hans": "“8·11”汇改",
+  "ko": "8·11 위안화 평가절하"
+ },
+ "A comparable cause-of-death table is not accessible from the staged sources": {
+  "pt": "Uma tabela comparável de causas de morte não está acessível nas fontes preparadas",
+  "zh-Hans": "现有数据源无法取得可比的死因表",
+  "ko": "확보된 자료에서 비교 가능한 사망원인 표에 접근할 수 없음"
+ },
+ "A comparable functional spending series is not staged": {
+  "pt": "Uma série comparável de gasto por função não está preparada",
+  "zh-Hans": "尚未整理可比的政府职能支出序列",
+  "ko": "비교 가능한 기능별 지출 시계열이 확보되지 않음"
+ },
+ "A general-government interest series is not available in the staged sources": {
+  "pt": "Uma série de juros do governo geral não está disponível nas fontes preparadas",
+  "zh-Hans": "现有数据源没有一般政府利息支出序列",
+  "ko": "확보된 자료에 일반정부 이자 지급 시계열이 없음"
+ },
+ "Annual death counts on a consistent national vintage are not staged": {
+  "pt": "Contagens anuais de mortes numa edição nacional consistente não estão preparadas",
+  "zh-Hans": "尚未整理口径一致的年度死亡人数序列",
+  "ko": "일관된 국가 통계 작성 기준의 연간 사망자 수가 확보되지 않음"
+ },
+ "Australia": {
+  "pt": "Austrália",
+  "zh-Hans": "澳大利亚",
+  "ko": "호주"
+ },
+ "Births": {
+  "pt": "Nascimentos",
+  "zh-Hans": "出生",
+  "ko": "출생"
+ },
+ "Births and deaths (per 1,000 people)": {
+  "pt": "Nascimentos e óbitos (por 1.000 habitantes)",
+  "zh-Hans": "出生与死亡（每千人）",
+  "ko": "출생률과 사망률(인구 1천 명당)"
+ },
+ "Brazil": {
+  "pt": "Brasil",
+  "zh-Hans": "巴西",
+  "ko": "브라질"
+ },
+ "COVID-19": {
+  "pt": "COVID-19",
+  "zh-Hans": "新冠疫情",
+  "ko": "코로나19"
+ },
+ "COVID-19 deaths, underlying cause (per 100,000)": {
+  "pt": "Mortes por COVID-19, causa subjacente (por 100 mil)",
+  "zh-Hans": "新冠肺炎死亡,根本死因(每十万人)",
+  "ko": "코로나19 사망률, 원사인 기준(인구 10만 명당)"
+ },
+ "China (Hong Kong SAR)": {
+  "pt": "China (RAE de Hong Kong)",
+  "zh-Hans": "中国香港特别行政区",
+  "ko": "중국 홍콩 특별행정구"
+ },
+ "China in the World": {
+  "pt": "A China no Mundo",
+  "zh-Hans": "世界中的中国",
+  "ko": "세계 속 중국"
+ },
+ "China publishes no accessible COFOG mapping in the staged sources": {
+  "pt": "A China não publica um mapeamento COFOG acessível nas fontes preparadas",
+  "zh-Hans": "现有数据源中没有中国可取得的COFOG映射",
+  "ko": "확보된 자료에 중국의 접근 가능한 COFOG 대응표가 없음"
+ },
+ "Comparable household lending and policy-rate regimes are not staged": {
+  "pt": "Regimes comparáveis de empréstimos às famílias e juro básico não estão preparados",
+  "zh-Hans": "尚未整理可比的住户贷款利率和政策利率制度",
+  "ko": "비교 가능한 가계 대출금리 및 정책금리 체계 자료가 확보되지 않음"
+ },
+ "Comparable immigration and emigration flows are not staged": {
+  "pt": "Fluxos comparáveis de imigração e emigração não estão preparados",
+  "zh-Hans": "尚未整理可比的移入和移出流量",
+  "ko": "비교 가능한 입국·출국 이주 흐름 자료가 확보되지 않음"
+ },
+ "Consumer price inflation (% per year)": {
+  "pt": "Inflação ao consumidor (% ao ano)",
+  "zh-Hans": "居民消费价格涨幅（每年%）",
+  "ko": "소비자물가 상승률(연간 %)"
+ },
+ "Corruption Perceptions Index (score, 0–100)": {
+  "pt": "Índice de Percepção da Corrupção (pontuação, 0–100)",
+  "zh-Hans": "腐败感知指数（0–100分）",
+  "ko": "부패인식지수(점수, 0–100)"
+ },
+ "Credit": {
+  "pt": "Crédito",
+  "zh-Hans": "信贷",
+  "ko": "신용"
+ },
+ "Crude death rate (per 1,000 people)": {
+  "pt": "Taxa bruta de mortalidade (por 1.000 pessoas)",
+  "zh-Hans": "粗死亡率(每一千人)",
+  "ko": "조사망률(인구 1천 명당)"
+ },
+ "Deaths": {
+  "pt": "Mortes",
+  "zh-Hans": "死亡",
+  "ko": "사망"
+ },
+ "Demography": {
+  "pt": "Demografia",
+  "zh-Hans": "人口",
+  "ko": "인구구조"
+ },
+ "Evergrande": {
+  "pt": "Evergrande",
+  "zh-Hans": "恒大",
+  "ko": "헝다"
+ },
+ "Excess deaths (% above 2015–2019 average)": {
+  "pt": "Óbitos excessivos (% acima da média de 2015–2019)",
+  "zh-Hans": "超额死亡(较 2015–2019 年平均高出%)",
+  "ko": "초과사망(2015–2019년 평균 대비 증감(%))"
+ },
+ "Exports": {
+  "pt": "Exportações",
+  "zh-Hans": "出口",
+  "ko": "수출"
+ },
+ "Exports and imports (% of GDP)": {
+  "pt": "Exportações e importações (% do PIB)",
+  "zh-Hans": "出口与进口（占GDP的%）",
+  "ko": "수출과 수입(GDP 대비 %)"
+ },
+ "Exports minus imports within one World Bank vintage": {
+  "pt": "Exportações menos importações numa única edição do Banco Mundial",
+  "zh-Hans": "同一世界银行版本中的出口减进口",
+  "ko": "세계은행의 동일 작성 기준 내 수출에서 수입을 차감"
+ },
+ "Foreign-born share of population (%)": {
+  "pt": "Parcela da população nascida no exterior (%)",
+  "zh-Hans": "境外出生人口占比（%）",
+  "ko": "인구 중 외국 출생자 비중(%)"
+ },
+ "GDP at current prices (US$ bn)": {
+  "pt": "PIB a preços correntes (US$ bi)",
+  "zh-Hans": "现价GDP（十亿美元）",
+  "ko": "경상가격 GDP(십억 달러)"
+ },
+ "GDP per person (US$, current)": {
+  "pt": "PIB por pessoa (US$ correntes)",
+  "zh-Hans": "人均GDP（现价美元）",
+  "ko": "1인당 GDP(달러, 경상가격)"
+ },
+ "Germany": {
+  "pt": "Alemanha",
+  "zh-Hans": "德国",
+  "ko": "독일"
+ },
+ "Gini, 0–100": {
+  "pt": "Gini, 0–100",
+  "zh-Hans": "基尼系数,0–100",
+  "ko": "지니계수, 0–100"
+ },
+ "Government GFCF is not separately available in the staged sources": {
+  "pt": "A FBCF do governo não está disponível separadamente nas fontes preparadas",
+  "zh-Hans": "现有数据源未单列政府固定资本形成总额",
+  "ko": "확보된 자료에서 정부 총고정자본형성을 별도로 확인할 수 없음"
+ },
+ "Gross debt (% of GDP)": {
+  "pt": "Dívida bruta (% do PIB)",
+  "zh-Hans": "政府总债务（占GDP的%）",
+  "ko": "총부채(GDP 대비 %)"
+ },
+ "HDI, 0–1": {
+  "pt": "IDH, 0–1",
+  "zh-Hans": "人类发展指数,0–1",
+  "ko": "인간개발지수, 0–1"
+ },
+ "Harmonised readings while national machine sources remain blocked; never spliced.": {
+  "pt": "Leituras harmonizadas enquanto as fontes nacionais automatizadas seguem bloqueadas; nunca emendadas.",
+  "zh-Hans": "国内机器可读数据源仍受阻时采用统一口径读数；绝不拼接。",
+  "ko": "국가 통계의 기계 접근이 차단된 동안의 조화 통계이며, 서로 이어 붙이지 않음."
+ },
+ "Harmonised readings; the NBS CPI remains the national series of record": {
+  "pt": "Leituras harmonizadas; o IPC do NBS continua sendo a série nacional oficial",
+  "zh-Hans": "统一口径读数；国家统计局CPI仍是国家权威序列",
+  "ko": "조화 통계이며, NBS 소비자물가지수가 국가 공식 기준 시계열임"
+ },
+ "Holes remain holes; the NBS national Gini would ride beside this line": {
+  "pt": "Lacunas permanecem lacunas; o Gini nacional do NBS apareceria ao lado desta linha",
+  "zh-Hans": "缺口保留为空；国家统计局基尼系数将与此线并列",
+  "ko": "결측은 결측으로 유지하며, NBS 국가 지니계수는 별도 계열로 병기 예정"
+ },
+ "Homicide rate (per 100,000)": {
+  "pt": "Taxa de homicídio (por 100.000)",
+  "zh-Hans": "杀人率(每十万人)",
+  "ko": "살인율(인구 10만 명당)"
+ },
+ "Household debt (% of GDP)": {
+  "pt": "Dívida das famílias (% do PIB)",
+  "zh-Hans": "家庭债务(占GDP的%)",
+  "ko": "가계부채(GDP 대비 %)"
+ },
+ "Household lending rate vs policy rate (%)": {
+  "pt": "Taxa de empréstimos às famílias vs. taxa básica (%)",
+  "zh-Hans": "住户贷款利率与政策利率（%）",
+  "ko": "가계 대출금리와 정책금리(%)"
+ },
+ "Human Development Index (HDI, 0–1)": {
+  "pt": "Índice de Desenvolvimento Humano (IDH, 0–1)",
+  "zh-Hans": "人类发展指数(HDI,0–1)",
+  "ko": "인간개발지수(HDI, 0–1)"
+ },
+ "ILO modelled estimate via World Bank; not the NBS surveyed urban rate": {
+  "pt": "Estimativa modelada da OIT via Banco Mundial; não é a taxa urbana pesquisada pelo NBS",
+  "zh-Hans": "世界银行转引的ILO模型估计；并非国家统计局城镇调查失业率",
+  "ko": "세계은행을 통한 ILO 모형 추정치이며, NBS 도시 조사실업률이 아님"
+ },
+ "IMF Financial Soundness Indicator via World Bank; bank-wide, not households": {
+  "pt": "Indicador de solidez financeira do FMI via Banco Mundial; sistema bancário, não famílias",
+  "zh-Hans": "世界银行转引的IMF金融稳健指标；覆盖银行体系而非住户",
+  "ko": "세계은행을 통한 IMF 금융건전성지표이며, 가계가 아닌 은행 전체 기준"
+ },
+ "IMF WEO": {
+  "pt": "FMI, WEO",
+  "zh-Hans": "IMF《世界经济展望》",
+  "ko": "IMF 세계경제전망(WEO)"
+ },
+ "IMF WEO; MOF on-budget debt excludes LGFVs and must remain separate": {
+  "pt": "FMI WEO; a dívida orçamentária do MF exclui LGFVs e deve permanecer separada",
+  "zh-Hans": "IMF《世界经济展望》；财政部预算内债务不含地方融资平台，必须分开",
+  "ko": "IMF 세계경제전망(WEO); 재정부 예산 내 부채는 지방정부 융자기구를 제외하므로 별도로 유지"
+ },
+ "IMF broad general government": {
+  "pt": "Governo geral amplo do FMI",
+  "zh-Hans": "IMF广义一般政府",
+  "ko": "IMF의 광의 일반정부 기준"
+ },
+ "Immigration and emigration (per 1,000 people)": {
+  "pt": "Imigração e emigração (por 1.000 habitantes)",
+  "zh-Hans": "移入与移出（每千人）",
+  "ko": "입국 이주와 출국 이주(인구 1천 명당)"
+ },
+ "Imports": {
+  "pt": "Importações",
+  "zh-Hans": "进口",
+  "ko": "수입"
+ },
+ "Income inequality, Gini (0–100)": {
+  "pt": "Desigualdade de renda, Gini (0–100)",
+  "zh-Hans": "收入不平等，基尼系数（0–100）",
+  "ko": "소득불평등, 지니계수(0–100)"
+ },
+ "India": {
+  "pt": "Índia",
+  "zh-Hans": "印度",
+  "ko": "인도"
+ },
+ "Interest paid (% of GDP)": {
+  "pt": "Juros pagos (% do PIB)",
+  "zh-Hans": "利息支出（占GDP的%）",
+  "ko": "이자 지급(GDP 대비 %)"
+ },
+ "International migrant stock": {
+  "pt": "Estoque internacional de migrantes",
+  "zh-Hans": "国际移民存量",
+  "ko": "국제이주자 수"
+ },
+ "Investment rate, whole economy (% of GDP)": {
+  "pt": "Taxa de investimento da economia como um todo (% do PIB)",
+  "zh-Hans": "全经济投资率（占GDP的%）",
+  "ko": "경제 전체 투자율(GDP 대비 %)"
+ },
+ "Japan": {
+  "pt": "Japão",
+  "zh-Hans": "日本",
+  "ko": "일본"
+ },
+ "Korea, Rep.": {
+  "pt": "Coreia do Sul",
+  "zh-Hans": "韩国",
+  "ko": "대한민국"
+ },
+ "LPR begins in 2019; the prior benchmark rate is a separate regime": {
+  "pt": "A LPR começa em 2019; a taxa de referência anterior é outro regime",
+  "zh-Hans": "LPR始于2019年；此前的基准利率属于另一制度",
+  "ko": "LPR은 2019년 도입되었으며, 이전 대출 기준금리는 별도 체계임"
+ },
+ "Lens — causes of death": {
+  "pt": "Lente — causas de morte",
+  "zh-Hans": "专题——死因",
+  "ko": "심층 보기 — 사망원인"
+ },
+ "Lens — household debt service": {
+  "pt": "Lente — serviço da dívida das famílias",
+  "zh-Hans": "专题——住户债务偿付",
+  "ko": "심층 보기 — 가계 원리금 상환"
+ },
+ "Lens — national public-safety series": {
+  "pt": "Lente — séries nacionais de segurança pública",
+  "zh-Hans": "专题——国家公共安全序列",
+  "ko": "심층 보기 — 국가 공공안전 시계열"
+ },
+ "Lens — poverty at three international lines (%)": {
+  "pt": "Lente — pobreza em três linhas internacionais (%)",
+  "zh-Hans": "专题——三条国际贫困线（%）",
+  "ko": "심층 보기 — 국제빈곤선 세 기준의 빈곤율(%)"
+ },
+ "Lens — top import origins, 2023 (% of goods imports)": {
+  "pt": "Lente — principais origens das importações, 2023 (% dos bens importados)",
+  "zh-Hans": "专题——2023年主要进口来源（占货物进口的%）",
+  "ko": "심층 보기 — 주요 수입 상대국, 2023년(상품 수입 대비 %)"
+ },
+ "Lens — urban population share (%)": {
+  "pt": "Lente — parcela da população urbana (%)",
+  "zh-Hans": "专题——城镇人口占比（%）",
+  "ko": "심층 보기 — 도시인구 비중(%)"
+ },
+ "Migration": {
+  "pt": "Migração",
+  "zh-Hans": "迁移",
+  "ko": "인구이동"
+ },
+ "Minimum wage (US$ per month)": {
+  "pt": "Salário mínimo (US$ por mês)",
+  "zh-Hans": "最低工资（每月美元）",
+  "ko": "최저임금(월 달러)"
+ },
+ "Money and Markets": {
+  "pt": "Dinheiro e Mercados",
+  "zh-Hans": "货币与市场",
+  "ko": "통화와 시장"
+ },
+ "Mortality": {
+  "pt": "Mortalidade",
+  "zh-Hans": "死亡",
+  "ko": "사망"
+ },
+ "Natural increase and net migration (per 1,000 people)": {
+  "pt": "Crescimento natural e migração líquida (por 1.000 pessoas)",
+  "zh-Hans": "自然增加与净迁移(每一千人)",
+  "ko": "자연증가와 순이동(인구 1천 명당)"
+ },
+ "Net migration": {
+  "pt": "Saldo migratório",
+  "zh-Hans": "净迁移",
+  "ko": "순이동"
+ },
+ "Net migration (per 1,000 people)": {
+  "pt": "Migração líquida (por 1.000 pessoas)",
+  "zh-Hans": "净迁移（每千人）",
+  "ko": "순이동(인구 1천 명당)"
+ },
+ "No accessible comparable national police series; this ends in 2020": {
+  "pt": "Não há série policial nacional comparável e acessível; esta termina em 2020",
+  "zh-Hans": "没有可取得的可比国家警务序列；本序列止于2020年",
+  "ko": "접근 가능한 비교 국가 경찰 시계열이 없으며, 이 계열은 2020년에 종료"
+ },
+ "No comparable general-government balance and interest pair is staged": {
+  "pt": "Nenhum par comparável de saldo e juros do governo geral está preparado",
+  "zh-Hans": "尚未整理可比的一般政府余额与利息支出组合",
+  "ko": "비교 가능한 일반정부 재정수지와 이자 지급 자료 쌍이 확보되지 않음"
+ },
+ "No comparable household debt-service series is staged": {
+  "pt": "Nenhuma série comparável de serviço da dívida das famílias está preparada",
+  "zh-Hans": "尚未整理可比的住户债务偿付序列",
+  "ko": "비교 가능한 가계 원리금 상환 시계열이 확보되지 않음"
+ },
+ "No national statutory rate: provinces and municipalities set different floors": {
+  "pt": "Não há piso legal nacional: províncias e municípios fixam valores diferentes",
+  "zh-Hans": "没有全国法定标准：各省市分别制定最低线",
+  "ko": "전국 단일 법정 기준이 없으며, 성과 직할시별로 서로 다른 하한을 정함"
+ },
+ "No official yield series is staged": {
+  "pt": "Nenhuma série oficial de rendimento está preparada",
+  "zh-Hans": "尚未整理官方收益率序列",
+  "ko": "공식 수익률 시계열이 확보되지 않음"
+ },
+ "Non-performing loans (% of loans)": {
+  "pt": "Créditos inadimplentes (% dos empréstimos)",
+  "zh-Hans": "不良贷款(占贷款的%)",
+  "ko": "부실채권 비율(대출 대비 %)"
+ },
+ "Official reporting stopped in 2023 and the counts are not comparable": {
+  "pt": "A divulgação oficial parou em 2023 e as contagens não são comparáveis",
+  "zh-Hans": "官方报告于2023年停止，计数不可比",
+  "ko": "공식 보고는 2023년에 중단되었으며, 집계 수치는 비교 불가"
+ },
+ "Official reserves (US$ bn)": {
+  "pt": "Reservas oficiais (US$ bi)",
+  "zh-Hans": "官方储备（十亿美元）",
+  "ko": "공식 준비자산(십억 달러)"
+ },
+ "Other Asia nes (Comtrade residual)": {
+  "pt": "Outras partes da Ásia n.e. (resíduo do Comtrade)",
+  "zh-Hans": "亚洲其他地区（Comtrade残差）",
+  "ko": "기타 아시아 미분류(Comtrade 잔여 분류)"
+ },
+ "Overall and primary balance (% of GDP)": {
+  "pt": "Resultado global e primário (% do PIB)",
+  "zh-Hans": "总体余额与基本余额（占GDP的%）",
+  "ko": "통합재정수지와 기초재정수지(GDP 대비 %)"
+ },
+ "People": {
+  "pt": "Pessoas",
+  "zh-Hans": "民生",
+  "ko": "국민생활"
+ },
+ "Police and transport series are not published in an accessible comparable form": {
+  "pt": "Séries policiais e de transporte não são publicadas em forma comparável e acessível",
+  "zh-Hans": "警务和交通序列没有以可取得且可比的形式发布",
+  "ko": "경찰 및 교통 시계열이 접근 가능한 비교 형태로 공표되지 않음"
+ },
+ "Policy rate vs inflation (%)": {
+  "pt": "Juro básico x inflação (%)",
+  "zh-Hans": "政策利率与通胀率（%）",
+  "ko": "정책금리와 물가상승률(%)"
+ },
+ "Population (index 2006 = 100)": {
+  "pt": "População (índice 2006 = 100)",
+  "zh-Hans": "人口(指数,2006 = 100)",
+  "ko": "인구(지수, 2006 = 100)"
+ },
+ "Poverty rate (% of people)": {
+  "pt": "Taxa de pobreza (% das pessoas)",
+  "zh-Hans": "贫困率（人口的%）",
+  "ko": "빈곤율(인구 대비 %)"
+ },
+ "Public Finances": {
+  "pt": "Contas Públicas",
+  "zh-Hans": "公共财政",
+  "ko": "공공재정"
+ },
+ "Public investment (% of GDP)": {
+  "pt": "Investimento público (% do PIB)",
+  "zh-Hans": "公共投资(占GDP的%)",
+  "ko": "공공투자(GDP 대비 %)"
+ },
+ "Published harmonised rate; NBS census rebases must remain a separate series": {
+  "pt": "Taxa harmonizada publicada; revisões censitárias do NBS devem permanecer em série separada",
+  "zh-Hans": "已发布的统一口径比率；国家统计局人口普查换基必须另列",
+  "ko": "공표된 조화 비율이며, NBS 인구총조사 기준 개편 자료는 별도 시계열로 유지"
+ },
+ "Real GDP growth (% per year)": {
+  "pt": "Crescimento real do PIB (% ao ano)",
+  "zh-Hans": "实际GDP增长率（每年%）",
+  "ko": "실질 GDP 성장률(연간 %)"
+ },
+ "Renminbi against the US$ (index 2006 = 100, up = stronger)": {
+  "pt": "Renminbi frente ao US$ (índice 2006 = 100, alta = mais forte)",
+  "zh-Hans": "人民币兑美元（指数，2006=100，上升表示走强）",
+  "ko": "미국 달러 대비 위안화(지수, 2006 = 100, 위로 갈수록 강세)"
+ },
+ "Revenue and expenditure (% of GDP)": {
+  "pt": "Receitas e despesas (% do PIB)",
+  "zh-Hans": "财政收入与支出（占GDP的%）",
+  "ko": "세입과 세출(GDP 대비 %)"
+ },
+ "Road traffic deaths (per 100,000)": {
+  "pt": "Mortes no trânsito (por 100 mil)",
+  "zh-Hans": "道路交通事故死亡(每十万人)",
+  "ko": "도로교통 사망률(인구 10만 명당)"
+ },
+ "Russian Federation": {
+  "pt": "Federação Russa",
+  "zh-Hans": "俄罗斯联邦",
+  "ko": "러시아연방"
+ },
+ "S&P 500": {
+  "pt": "S&P 500",
+  "zh-Hans": "标普500",
+  "ko": "S&P 500"
+ },
+ "SSE Composite": {
+  "pt": "SSE Composite",
+  "zh-Hans": "上证综合指数",
+  "ko": "상하이종합지수"
+ },
+ "SSE Composite in US$ (index 2006 = 100)": {
+  "pt": "SSE Composite em US$ (índice 2006 = 100)",
+  "zh-Hans": "上证综合指数（美元计，2006=100）",
+  "ko": "달러 기준 상하이종합지수(지수, 2006 = 100)"
+ },
+ "Security": {
+  "pt": "Segurança",
+  "zh-Hans": "安全",
+  "ko": "안전"
+ },
+ "Social protection vs everything else (% of GDP)": {
+  "pt": "Proteção social em comparação com os demais gastos (% do PIB)",
+  "zh-Hans": "社会保障与其他支出（占GDP的%）",
+  "ko": "사회보호와 기타 전체 지출(GDP 대비 %)"
+ },
+ "Sources: World Bank · IMF · UNDP · UN Comtrade · Transparency International": {
+  "pt": "Fontes: Banco Mundial · FMI · PNUD · UN Comtrade · Transparência Internacional",
+  "zh-Hans": "来源：世界银行 · IMF · UNDP · 联合国Comtrade · 透明国际",
+  "ko": "자료: 세계은행 · IMF · UNDP · UN Comtrade · 국제투명성기구"
+ },
+ "Sources: World Bank · IMF · BIS · UNDP · UN Comtrade · Transparency International": {
+  "pt": "Fontes: Banco Mundial · FMI · BIS · PNUD · UN Comtrade · Transparência Internacional",
+  "zh-Hans": "来源：世界银行 · IMF · BIS · UNDP · 联合国Comtrade · 透明国际",
+  "ko": "자료: 세계은행 · IMF · BIS · UNDP · UN Comtrade · 국제투명성기구"
+ },
+ "Spending by function, stacked (% of GDP)": {
+  "pt": "Gasto por função, empilhado (% do PIB)",
+  "zh-Hans": "按政府职能分类的支出（占GDP的%，堆叠）",
+  "ko": "기능별 누적 지출(GDP 대비 %)"
+ },
+ "Suicide rate (per 100,000)": {
+  "pt": "Taxa de suicídio (por 100 mil)",
+  "zh-Hans": "自杀率(每十万人)",
+  "ko": "자살률(인구 10만 명당)"
+ },
+ "The Economy": {
+  "pt": "A Economia",
+  "zh-Hans": "经济",
+  "ko": "경제"
+ },
+ "Top export destinations, 2023 (% of goods exports)": {
+  "pt": "Principais destinos das exportações, 2023 (% dos bens exportados)",
+  "zh-Hans": "2023年主要出口目的地（占货物出口的%）",
+  "ko": "주요 수출 상대국, 2023년(상품 수출 대비 %)"
+ },
+ "Top export destinations (% of goods exports)": {
+  "pt": "Principais destinos das exportações (% dos bens exportados)",
+  "zh-Hans": "主要出口目的地（占货物出口的%）",
+  "ko": "주요 수출 상대국(상품 수출 대비 %)"
+ },
+ "Lens — top export destinations, 2023 (% of goods exports)": {
+  "pt": "Lente — principais destinos das exportações, 2023 (% dos bens exportados)",
+  "zh-Hans": "视角——2023年主要出口目的地（占货物出口的%）",
+  "ko": "심층 보기 — 주요 수출 상대국, 2023년(상품 수출 대비 %)"
+ },
+ "Only a 2023 partner snapshot is staged; the canonical slot requires a time series": {
+  "pt": "Somente um retrato de parceiros de 2023 está versionado; o espaço canônico exige uma série temporal",
+  "zh-Hans": "目前仅有2023年伙伴快照；标准位置需要时间序列",
+  "ko": "2023년 상대국 현황만 확보되었으며, 표준 항목에는 시계열이 필요함"
+ },
+ "Total fertility rate (children per woman)": {
+  "pt": "Taxa de fecundidade total (filhos por mulher)",
+  "zh-Hans": "总生育率(每位女性的生育数)",
+  "ko": "합계출산율(여성 1명당 출생아 수)"
+ },
+ "Trade": {
+  "pt": "Comércio",
+  "zh-Hans": "贸易",
+  "ko": "무역"
+ },
+ "Trade balance (% of GDP)": {
+  "pt": "Saldo comercial (% do PIB)",
+  "zh-Hans": "贸易余额（占GDP的%）",
+  "ko": "무역수지(GDP 대비 %)"
+ },
+ "Transparency International; comparable 2012 method only": {
+  "pt": "Transparência Internacional; apenas o método comparável de 2012",
+  "zh-Hans": "透明国际；仅采用2012年起的可比方法",
+  "ko": "국제투명성기구; 비교 가능한 2012년 산정 방식만 사용"
+ },
+ "UN Comtrade snapshot; China reporter, customs goods; Taiwan absent from response": {
+  "pt": "Retrato do UN Comtrade; China declarante, bens aduaneiros; Taiwan ausente da resposta",
+  "zh-Hans": "联合国Comtrade快照；中国为报告方、海关货物口径；响应中无台湾",
+  "ko": "UN Comtrade 현황; 중국 보고, 통관 상품 기준이며 응답에 대만이 없음"
+ },
+ "UN Comtrade snapshot; not spliced to GACC, whose endpoint is blocked": {
+  "pt": "Retrato do UN Comtrade; não emendado à GACC, cujo endpoint está bloqueado",
+  "zh-Hans": "联合国Comtrade快照；不与接口受阻的海关总署数据拼接",
+  "ko": "UN Comtrade 현황; 접근이 차단된 중국 해관총서 시계열과 이어 붙이지 않음"
+ },
+ "UN DESA snapshots only: 2010, 2015, 2020 and 2024; never interpolated": {
+  "pt": "Apenas retratos da ONU DESA: 2010, 2015, 2020 e 2024; nunca interpolados",
+  "zh-Hans": "仅联合国经社部快照：2010、2015、2020和2024年；从不插值",
+  "ko": "UN DESA 현황만 사용: 2010, 2015, 2020, 2024년; 보간하지 않음"
+ },
+ "UNDP HDR 2025 vintage; ends in 2023": {
+  "pt": "Edição RHD 2025 do PNUD; termina em 2023",
+  "zh-Hans": "UNDP《人类发展报告2025》版本；止于2023年",
+  "ko": "UNDP 인간개발보고서 2025 작성 기준; 2023년까지"
+ },
+ "UNODC via World Bank": {
+  "pt": "UNODC via Banco Mundial",
+  "zh-Hans": "世界银行转引UNODC",
+  "ko": "세계은행을 통한 UNODC"
+ },
+ "US tariffs": {
+  "pt": "Tarifas americanas",
+  "zh-Hans": "美国加征关税",
+  "ko": "미국 관세"
+ },
+ "US$ bn": {
+  "pt": "US$ bi",
+  "zh-Hans": "十亿美元",
+  "ko": "십억 달러"
+ },
+ "US$ per month": {
+  "pt": "US$ por mês",
+  "zh-Hans": "每月美元",
+  "ko": "월 달러"
+ },
+ "US$, current": {
+  "pt": "US$ correntes",
+  "zh-Hans": "现价美元",
+  "ko": "달러, 경상가격"
+ },
+ "US$3.00/day": {
+  "pt": "US$ 3,00/dia",
+  "zh-Hans": "每天3.00美元",
+  "ko": "하루 3.00달러"
+ },
+ "US$4.20/day": {
+  "pt": "US$ 4,20/dia",
+  "zh-Hans": "每天4.20美元",
+  "ko": "하루 4.20달러"
+ },
+ "US$8.30/day": {
+  "pt": "US$ 8,30/dia",
+  "zh-Hans": "每天8.30美元",
+  "ko": "하루 8.30달러"
+ },
+ "US$8.30/day, 2021 PPP": {
+  "pt": "US$ 8,30/dia, PPC de 2021",
+  "zh-Hans": "每天8.30美元，2021年购买力平价",
+  "ko": "하루 8.30달러, 2021년 구매력평가 기준"
+ },
+ "Unemployment (% of labour force)": {
+  "pt": "Desemprego (% da força de trabalho)",
+  "zh-Hans": "失业率（占劳动力的%）",
+  "ko": "실업률(경제활동인구 대비 %)"
+ },
+ "United States": {
+  "pt": "Estados Unidos",
+  "zh-Hans": "美国",
+  "ko": "미국"
+ },
+ "Viet Nam": {
+  "pt": "Vietnã",
+  "zh-Hans": "越南",
+  "ko": "베트남"
+ },
+ "WHO via World Bank": {
+  "pt": "OMS via Banco Mundial",
+  "zh-Hans": "世界银行转引WHO",
+  "ko": "세계은행을 통한 WHO"
+ },
+ "Where the Money Goes": {
+  "pt": "Para Onde Vai o Dinheiro",
+  "zh-Hans": "钱花在哪里",
+  "ko": "재정 지출의 용도"
+ },
+ "World Bank": {
+  "pt": "Banco Mundial",
+  "zh-Hans": "世界银行",
+  "ko": "세계은행"
+ },
+ "World Bank / IMF IFS incl. gold; SAFE national reserve assets remain separate": {
+  "pt": "Banco Mundial / IFS do FMI incl. ouro; os ativos nacionais da SAFE permanecem separados",
+  "zh-Hans": "世界银行 / IMF国际金融统计（含黄金）；外汇局国家储备资产另列",
+  "ko": "세계은행 / IMF IFS, 금 포함; SAFE 국가 준비자산은 별도로 유지"
+ },
+ "World Bank / UN DESA five-year estimates carried annually; not border records": {
+  "pt": "Estimativas quinquenais do Banco Mundial / ONU DESA distribuídas anualmente; não são registros de fronteira",
+  "zh-Hans": "世界银行 / 联合国经社部五年估计按年展开；并非边境记录",
+  "ko": "세계은행 / UN DESA 5년 추정치를 연간 자료로 유지; 국경 기록이 아님"
+ },
+ "World Bank / UN WPP": {
+  "pt": "Banco Mundial / ONU WPP",
+  "zh-Hans": "世界银行 / 联合国人口展望",
+  "ko": "세계은행 / UN 세계인구전망(WPP)"
+ },
+ "World Bank / UN WPP mainland-China scope; NBS census series is not spliced": {
+  "pt": "Banco Mundial / ONU WPP, China continental; a série censitária do NBS não é emendada",
+  "zh-Hans": "世界银行 / 联合国人口展望的中国大陆口径；不与国家统计局普查序列拼接",
+  "ko": "세계은행 / UN 세계인구전망(WPP), 중국 본토 범위; NBS 인구총조사 시계열과 이어 붙이지 않음"
+ },
+ "World Bank / UN WPP; not a hukou or floating-population measure": {
+  "pt": "Banco Mundial / ONU WPP; não é medida de hukou nem de população flutuante",
+  "zh-Hans": "世界银行 / 联合国人口展望；不是户口或流动人口指标",
+  "ko": "세계은행 / UN 세계인구전망(WPP); 호적 또는 유동인구 지표가 아님"
+ },
+ "World Bank GFCF; above the shared 40% reference for much of the window": {
+  "pt": "FBCF do Banco Mundial; acima da referência comum de 40% em boa parte do período",
+  "zh-Hans": "世界银行固定资本形成总额；窗口期多数年份高于共用40%参考线",
+  "ko": "세계은행 총고정자본형성; 관측 기간 대부분 공통 기준선 40% 상회"
+ },
+ "World Bank PIP, 2021 PPP; survey years only": {
+  "pt": "PIP do Banco Mundial, PPC de 2021; apenas anos de pesquisa",
+  "zh-Hans": "世界银行PIP，2021年购买力平价；仅调查年份",
+  "ko": "세계은행 PIP, 2021년 구매력평가 기준; 조사 연도만 사용"
+ },
+ "World Bank PIP; an international threshold, not China's national poverty line": {
+  "pt": "PIP do Banco Mundial; limiar internacional, não a linha nacional de pobreza da China",
+  "zh-Hans": "世界银行PIP；国际门槛，并非中国国家贫困线",
+  "ko": "세계은행 PIP; 중국 국가빈곤선이 아닌 국제 기준선"
+ },
+ "World Bank bars and IMF line; NBS national accounts unavailable (403)": {
+  "pt": "Barras do Banco Mundial e linha do FMI; contas nacionais do NBS indisponíveis (403)",
+  "zh-Hans": "世界银行柱形与IMF折线；国家统计局国民账户不可用（403）",
+  "ko": "세계은행 막대와 IMF 선; NBS 국민계정 접근 불가(403)"
+ },
+ "World Bank goods and services, balance-of-payments basis": {
+  "pt": "Bens e serviços do Banco Mundial, base do balanço de pagamentos",
+  "zh-Hans": "世界银行货物和服务，国际收支口径",
+  "ko": "세계은행 상품·서비스, 국제수지 기준"
+ },
+ "World Bank harmonised reading; current US$ at market exchange rates": {
+  "pt": "Leitura harmonizada do Banco Mundial; US$ correntes ao câmbio de mercado",
+  "zh-Hans": "世界银行统一口径读数；按市场汇率计算的当期美元",
+  "ko": "세계은행 조화 통계; 시장환율을 적용한 경상 미국 달러 기준"
+ },
+ "World Bank official-rate average; PBoC fixing and CFETS close are distinct": {
+  "pt": "Média da taxa oficial do Banco Mundial; fixing do PBoC e fechamento CFETS são distintos",
+  "zh-Hans": "世界银行官方汇率均值；央行中间价与CFETS收盘价不同",
+  "ko": "세계은행 공식환율 평균; PBoC 고시환율 및 CFETS 종가는 별개"
+ },
+ "World Bank published rates; births fell below deaths in 2022": {
+  "pt": "Taxas publicadas pelo Banco Mundial; nascimentos ficaram abaixo das mortes em 2022",
+  "zh-Hans": "世界银行发布比率；2022年出生率低于死亡率",
+  "ko": "세계은행 공표 비율; 2022년 출생률이 사망률을 하회"
+ },
+ "World Bank survey series": {
+  "pt": "Série de pesquisas do Banco Mundial",
+  "zh-Hans": "世界银行调查序列",
+  "ko": "세계은행 조사 시계열"
+ },
+ "World Bank: published vital rates; net migration count divided by population": {
+  "pt": "Banco Mundial: taxas vitais publicadas; saldo migratório dividido pela população",
+  "zh-Hans": "世界银行：已发布人口变动率；净迁移人数除以人口",
+  "ko": "세계은행: 공표된 인구동태율; 순이동자 수를 인구로 나눔"
+ },
+ "World Bank; current US$ is a size reading, not real growth": {
+  "pt": "Banco Mundial; US$ correntes medem tamanho, não crescimento real",
+  "zh-Hans": "世界银行；当期美元衡量规模而非实际增长",
+  "ko": "세계은행; 경상 미국 달러는 규모 지표이며 실질성장률이 아님"
+ },
+ "Yahoo price indexes (non-official); SSE converted with annual-average CNY/US$": {
+  "pt": "Índices de preços do Yahoo (não oficiais); SSE convertido pelo CNY/US$ médio anual",
+  "zh-Hans": "雅虎价格指数（非官方）；上证指数按年度平均人民币/美元汇率换算",
+  "ko": "Yahoo 가격지수(비공식); 상하이종합지수는 연평균 위안/달러 환율로 환산"
+ },
+ "children per woman": {
+  "pt": "filhos por mulher",
+  "zh-Hans": "每位女性的生育数",
+  "ko": "여성 1명당 출생아 수"
+ },
+ "data pending — run fetchers / add CSV": {
+  "pt": "dados pendentes — rodar os fetchers / incluir o CSV",
+  "zh-Hans": "资料待补——执行抓取器 / 加入 CSV",
+  "ko": "자료 대기 중 — 수집기 실행 / CSV 추가"
+ },
+ "equity crash": {
+  "pt": "queda das ações",
+  "zh-Hans": "股灾",
+  "ko": "주가 급락"
+ },
+ "generated from committed CSVs": {
+  "pt": "gerado a partir de CSVs versionados",
+  "zh-Hans": "由已提交的 CSV 产生",
+  "ko": "버전 관리되는 CSV에서 생성"
+ },
+ "index 2006 = 100": {
+  "pt": "índice 2006 = 100",
+  "zh-Hans": "指数,2006 = 100",
+  "ko": "지수, 2006 = 100"
+ },
+ "index 2006 = 100, in US$": {
+  "pt": "índice 2006 = 100, em US$",
+  "zh-Hans": "指数,2006 = 100,以美元计",
+  "ko": "지수, 2006 = 100, 달러 기준"
+ },
+ "index 2006 = 100, up = stronger": {
+  "pt": "índice 2006 = 100, para cima = mais forte",
+  "zh-Hans": "指数,2006 = 100,向上代表更强",
+  "ko": "지수, 2006 = 100, 위로 갈수록 위안화 강세"
+ },
+ "per 1,000 people": {
+  "pt": "por 1.000 habitantes",
+  "zh-Hans": "每一千人",
+  "ko": "인구 1천 명당"
+ },
+ "per 100,000": {
+  "pt": "por 100.000",
+  "zh-Hans": "每十万人",
+  "ko": "인구 10만 명당"
+ },
+ "scale extended": {
+  "pt": "escala ampliada",
+  "zh-Hans": "刻度已延伸",
+  "ko": "축 범위 확장"
+ },
+ "score, 0–100": {
+  "pt": "nota, 0–100",
+  "zh-Hans": "分数,0–100",
+  "ko": "점수, 0–100"
+ },
+ "Revenue": {
+  "pt": "Receita",
+  "zh-Hans": "收入",
+  "ko": "세입"
+ },
+ "Expenditure": {
+  "pt": "Despesa",
+  "zh-Hans": "支出",
+  "ko": "세출"
+ },
+ "Primary balance": {
+  "pt": "Saldo primário",
+  "zh-Hans": "初級餘額",
+  "ko": "기초재정수지"
+ },
+ "Interest paid": {
+  "pt": "Juros pagos",
+  "zh-Hans": "利息支出",
+  "ko": "이자 지급"
+ },
+ "Households and NPISH": {
+  "pt": "Famílias e ISFLSF",
+  "zh-Hans": "住戶及非營利機構",
+  "ko": "가계 및 가계봉사 비영리단체"
+ },
+ "Private non-financial sector": {
+  "pt": "Setor privado não financeiro",
+  "zh-Hans": "私人非金融部門",
+  "ko": "민간 비금융부문"
+ },
+ "Lens — private-sector debt service (% of income)": {
+  "pt": "Lente — serviço da dívida do setor privado (% da renda)",
+  "zh-Hans": "視角—私人部門償債率（收入百分比）",
+  "ko": "심층 보기 — 민간부문 원리금 상환(소득 대비 %)"
+ },
+ "IMF Fiscal Monitor, broad general government; MOF's budget is narrower": {
+  "pt": "Monitor Fiscal do FMI, governo geral amplo; o orçamento do Ministério das Finanças é mais restrito",
+  "zh-Hans": "IMF《財政監測》廣義一般政府口徑；財政部預算口徑較窄",
+  "ko": "IMF 재정모니터, 광의 일반정부; 재정부 예산 범위는 더 좁음"
+ },
+ "IMF Fiscal Monitor; overall and primary balances from one vintage": {
+  "pt": "Monitor Fiscal do FMI; saldos global e primário da mesma edição",
+  "zh-Hans": "IMF《財政監測》；總餘額與初級餘額來自同一版本",
+  "ko": "IMF 재정모니터; 동일 작성 기준의 통합재정수지와 기초재정수지"
+ },
+ "Derived within one IMF vintage: primary balance minus overall balance": {
+  "pt": "Derivado dentro da mesma edição do FMI: saldo primário menos saldo global",
+  "zh-Hans": "在同一IMF版本內推導：初級餘額減總餘額",
+  "ko": "동일 IMF 작성 기준 내 산출: 기초재정수지에서 통합재정수지를 차감"
+ },
+ "BIS total credit, Q4 stock, adjusted for breaks": {
+  "pt": "Crédito total do BIS, estoque no 4º trimestre, ajustado por rupturas",
+  "zh-Hans": "BIS總信貸，第四季度存量，已調整序列中斷",
+  "ko": "BIS 총신용, 4분기 잔액, 시계열 단절 조정"
+ },
+ "BIS Q.CN.P; broader than households and never labelled household DSR": {
+  "pt": "BIS Q.CN.P; mais amplo que famílias e nunca rotulado como serviço da dívida familiar",
+  "zh-Hans": "BIS Q.CN.P；範圍廣於住戶，絕不標作住戶償債率",
+  "ko": "BIS Q.CN.P; 가계보다 넓은 범위이며 가계 DSR로 표기하지 않음"
+ }
 }

@@ -1,1022 +1,1277 @@
 {
- "2024: 2.043 million, 3.9%": {
-  "ko": "2024년: 204만 3천 명, 3.9%",
-  "pt": "2024: 2,043 milhões, 3,9%"
- },
- "2025: +1.4 per 1,000": {
-  "ko": "2025년: 1천 명당 +1.4명",
-  "pt": "2025: +1,4 por mil"
- },
- "2025: 13.3 in, 11.8 out per 1,000": {
-  "ko": "2025년: 1천 명당 입국 13.3명, 출국 11.8명",
-  "pt": "2025: 13,3 entradas e 11,8 saídas por mil"
- },
- "Emigration": {
-  "ko": "출국",
-  "pt": "Emigração"
- },
- "Foreign citizens": {
-  "ko": "외국인",
-  "pt": "Cidadãos estrangeiros"
- },
- "Foreign-citizen share": {
-  "ko": "외국인 비중",
-  "pt": "Parcela de cidadãos estrangeiros"
- },
- "Immigration": {
-  "ko": "입국",
-  "pt": "Imigração"
- },
- "Immigration and emigration": {
-  "ko": "입국과 출국",
-  "pt": "Imigração e emigração"
- },
- "International moves lasting more than 90 days, and the resident foreign-citizen population counted by the census.": {
-  "ko": "90일을 초과한 국제이동과 센서스가 집계한 국내 거주 외국인.",
-  "pt": "Movimentos internacionais com mais de 90 dias e a população residente de cidadania estrangeira contada pelo censo."
- },
- "Korean citizens": {
-  "ko": "내국인",
-  "pt": "Cidadãos coreanos"
- },
- "Lens: net migration by citizenship": {
-  "ko": "한국의 시선: 국적별 순이동",
-  "pt": "Lente: migração líquida por cidadania"
- },
- "Migration — Who Arrives, Who Leaves, Who Is Here, 2006–2026": {
-  "ko": "국제이동 — 누가 들어오고, 나가고, 살고 있는가, 2006–2026",
-  "pt": "Migração — quem chega, quem sai, quem está aqui, 2006–2026"
- },
- "Net migration": {
-  "ko": "순이동",
-  "pt": "Migração líquida"
- },
- "Resident foreigners at 1 November": {
-  "ko": "11월 1일 기준 국내 거주 외국인",
-  "pt": "Estrangeiros residentes em 1º de novembro"
- },
- "Sources: Statistics Korea — International Migration Statistics and the register-based Population and Housing Census": {
-  "ko": "출처: 통계청 — 국제인구이동통계 및 등록센서스 인구주택총조사",
-  "pt": "Fontes: Statistics Korea — Estatísticas de Migração Internacional e Censo da População e Habitação baseado em registros"
- },
- "more than 90 days; Koreans and foreigners together": {
-  "ko": "90일 초과 체류; 내·외국인 합계",
-  "pt": "mais de 90 dias; coreanos e estrangeiros juntos"
- },
- "register census; citizenship, not birthplace": {
-  "ko": "등록센서스; 출생지가 아닌 국적 기준",
-  "pt": "censo de registros; cidadania, não local de nascimento"
- },
- "the two lines sum to total net migration": {
-  "ko": "두 선의 합은 전체 순이동과 같다",
-  "pt": "as duas linhas somam a migração líquida total"
- },
- "%": {
-  "ko": "%",
-  "pt": "%"
- },
- "% above 2015–2019 average": {
-  "ko": "2015–2019년 평균 대비 증감(%)",
-  "pt": "% acima da média de 2015–2019"
- },
- "% of GDP": {
-  "ko": "GDP 대비 %",
-  "pt": "% do PIB"
- },
- "% of disposable income": {
-  "ko": "가처분소득 대비 %",
-  "pt": "% da renda disponível"
- },
- "% of goods exports": {
-  "ko": "상품 수출 대비 %",
-  "pt": "% das exportações de bens"
- },
- "% of labour force": {
-  "ko": "경제활동인구 대비 %",
-  "pt": "% da força de trabalho"
- },
- "% of loans": {
-  "ko": "대출 대비 %",
-  "pt": "% dos empréstimos"
- },
- "% of people": {
-  "ko": "인구 대비 %",
-  "pt": "% da população"
- },
- "% of people aged 65+": {
-  "ko": "65세 이상 인구 대비 %",
-  "pt": "% das pessoas com 65 anos ou mais"
- },
- "% of population": {
-  "ko": "인구 대비 %",
-  "pt": "% da população"
- },
- "% per year": {
-  "ko": "연간 %",
-  "pt": "% ao ano"
- },
- "%, annual average": {
-  "ko": "%, 연평균",
-  "pt": "%, média anual"
- },
- "0.900 = very high human development": {
-  "ko": "0.900 = 매우 높은 인간개발",
-  "pt": "0,900 = desenvolvimento humano muito alto"
- },
- "10-year government bond yield": {
-  "ko": "10년 만기 국고채 금리",
-  "pt": "Juro do título público de 10 anos"
- },
- "2% target (since 2016)": {
-  "ko": "물가안정목표 2%(2016년부터)",
-  "pt": "meta de 2% (desde 2016)"
- },
- "2.1 = replacement": {
-  "ko": "2.1 = 인구 대체 수준",
-  "pt": "2,1 = reposição"
- },
- "2011: new survey basis": {
-  "ko": "2011년: 새 조사 기준",
-  "pt": "2011: nova base de pesquisa"
- },
- "209 hours a month, at the year's average ₩/US$": {
-  "ko": "월 209시간, 연평균 원/달러 환율로 환산",
-  "pt": "209 horas por mês, ao câmbio médio do ano"
- },
- "A rich country with a poor old age.": {
-  "ko": "부유한 나라의 가난한 노년.",
-  "pt": "Um país rico com uma velhice pobre."
- },
- "After transfers (disposable)": {
-  "ko": "이전소득 후(처분가능소득)",
-  "pt": "Depois das transferências (renda disponível)"
- },
- "All causes, Statistics Korea": {
-  "ko": "전체 사인, 통계청",
-  "pt": "Todas as causas, Statistics Korea"
- },
- "All other functions": {
-  "ko": "그 외 모든 기능",
-  "pt": "Todas as demais funções"
- },
- "BIS: households and NPISHs, all lenders, Q4": {
-  "ko": "BIS: 가계·비영리단체, 전체 대출기관, 4분기",
-  "pt": "BIS: famílias e ISFLSF, todos os credores, 4º tri"
- },
- "BOK base rate, year-end": {
-  "ko": "한국은행 기준금리, 연말",
-  "pt": "Taxa básica do BOK, fim de ano"
- },
- "BOK household credit, year-end": {
-  "ko": "한국은행 가계신용, 연말",
-  "pt": "Crédito às famílias do BOK, fim de ano"
- },
- "Bank of Korea, end of period": {
-  "ko": "한국은행, 기말",
-  "pt": "Banco da Coreia, fim de período"
- },
- "Before transfers (market income)": {
-  "ko": "이전소득 전(시장소득)",
-  "pt": "Antes das transferências (renda de mercado)"
- },
- "Below US$8.30 a day (World Bank)": {
-  "ko": "하루 8.30달러 미만(세계은행)",
-  "pt": "Abaixo de US$8,30 por dia (Banco Mundial)"
- },
- "Below half the median income (national)": {
-  "ko": "중위소득 50% 미만(국내 기준)",
-  "pt": "Abaixo de metade da renda mediana (nacional)"
- },
- "Births per 1,000": {
-  "ko": "인구 1천 명당 출생",
-  "pt": "Nascimentos por 1.000"
- },
- "Businesses": {
-  "ko": "기업",
-  "pt": "Empresas"
- },
- "COVID-19": {
-  "ko": "코로나19",
-  "pt": "COVID-19"
- },
- "COVID-19 deaths, underlying cause": {
-  "ko": "코로나19 사망(원사인 기준)",
-  "pt": "Mortes por COVID-19, causa básica"
- },
- "CPI inflation": {
-  "ko": "소비자물가 상승률",
-  "pt": "Inflação (IPC)"
- },
- "CPI, % change on a year earlier": {
-  "ko": "소비자물가, 전년 대비 %",
-  "pt": "IPC, variação % sobre o ano anterior"
- },
- "Cancer": {
-  "ko": "암",
-  "pt": "Câncer"
- },
- "Car parts": {
-  "ko": "자동차 부품",
-  "pt": "Autopeças"
- },
- "Cars": {
-  "ko": "자동차",
-  "pt": "Automóveis"
- },
- "China": {
-  "ko": "중국",
-  "pt": "China"
- },
- "China: {}% at the {} peak, {}% in {}": {
-  "ko": "중국: {1}년 정점 {0}%, {3}년 {2}%",
-  "pt": "China: {0}% no pico de {1}, {2}% em {3}"
- },
- "Consumer price inflation": {
-  "ko": "소비자물가 상승률",
-  "pt": "Inflação ao consumidor"
- },
- "Corruption Perceptions Index": {
-  "ko": "부패인식지수",
-  "pt": "Índice de Percepção da Corrupção"
- },
- "Crude birth and death rates": {
-  "ko": "조출생률과 조사망률",
-  "pt": "Taxas brutas de natalidade e mortalidade"
- },
- "Crude death rate": {
-  "ko": "조사망률",
-  "pt": "Taxa bruta de mortalidade"
- },
- "Currency against the US$": {
-  "ko": "달러 대비 원화",
-  "pt": "Câmbio contra o dólar"
- },
- "D1, central and local government (MOEF)": {
-  "ko": "D1, 중앙·지방정부(기획재정부)",
-  "pt": "D1, governo central e local (MOEF)"
- },
- "Deaths from assault, Statistics Korea": {
-  "ko": "타살(가해) 사망, 통계청",
-  "pt": "Mortes por agressão, Statistics Korea"
- },
- "Deaths per 1,000": {
-  "ko": "인구 1천 명당 사망",
-  "pt": "Óbitos por 1.000"
- },
- "Deaths per head rise because Korea is older; the pandemic sits on top of that.": {
-  "ko": "인구 대비 사망이 늘어나는 것은 한국이 늙었기 때문이다. 팬데믹은 그 위에 얹혔다.",
-  "pt": "As mortes por habitante sobem porque a Coreia está mais velha; a pandemia veio por cima disso."
- },
- "Defence and public order": {
-  "ko": "국방·공공질서",
-  "pt": "Defesa e ordem pública"
- },
- "Economic affairs": {
-  "ko": "경제업무",
-  "pt": "Assuntos econômicos"
- },
- "Education": {
-  "ko": "교육",
-  "pt": "Educação"
- },
- "Excess deaths": {
-  "ko": "초과사망",
-  "pt": "Excesso de mortes"
- },
- "Expenditure, BOK national accounts": {
-  "ko": "총지출, 한국은행 국민계정",
-  "pt": "Despesa, contas nacionais do BOK"
- },
- "Expenditure, IMF": {
-  "ko": "총지출, IMF",
-  "pt": "Despesa, FMI"
- },
- "Exports": {
-  "ko": "수출",
-  "pt": "Exportações"
- },
- "Exports and imports": {
-  "ko": "수출과 수입",
-  "pt": "Exportações e importações"
- },
- "Exports and imports of goods and services against GDP, where the goods go, and what they are.": {
-  "ko": "GDP 대비 재화·서비스 수출입, 상품이 어디로 가는지, 무엇을 파는지.",
-  "pt": "Exportações e importações de bens e serviços contra o PIB, para onde vão os bens e o que são."
- },
- "Foreign Trade, 2006–2026": {
-  "ko": "대외무역, 2006–2026",
-  "pt": "Comércio Exterior, 2006–2026"
- },
- "GDP at current prices": {
-  "ko": "명목 GDP",
-  "pt": "PIB a preços correntes"
- },
- "GDP per person": {
-  "ko": "1인당 GDP",
-  "pt": "PIB por pessoa"
- },
- "General government (IMF = Korea's D2)": {
-  "ko": "일반정부(IMF = 한국의 D2)",
-  "pt": "Governo geral (FMI = o D2 coreano)"
- },
- "General government GFCF (BOK national accounts)": {
-  "ko": "일반정부 총고정자본형성(한국은행 국민계정)",
-  "pt": "FBCF do governo geral (contas nacionais do BOK)"
- },
- "General government outlays by function, and the investment the economy and the state make.": {
-  "ko": "기능별 일반정부 지출, 그리고 경제 전체와 정부의 투자.",
-  "pt": "Gastos do governo geral por função, e o investimento da economia e do Estado."
- },
- "General government revenue, spending, balance, debt and interest, all as a share of GDP.": {
-  "ko": "일반정부의 수입, 지출, 수지, 부채, 이자를 모두 GDP 대비로 본다.",
-  "pt": "Receita, despesa, resultado, dívida e juros do governo geral, tudo como proporção do PIB."
- },
- "General government, gross (BOK national accounts)": {
-  "ko": "일반정부, 총액(한국은행 국민계정)",
-  "pt": "Governo geral, bruto (contas nacionais do BOK)"
- },
- "General public services": {
-  "ko": "일반공공행정",
-  "pt": "Administração geral"
- },
- "Gini, 0–100": {
-  "ko": "지니계수, 0–100",
-  "pt": "Gini, 0–100"
- },
- "Gross debt": {
-  "ko": "총부채",
-  "pt": "Dívida bruta"
- },
- "Gross fixed capital formation (BOK)": {
-  "ko": "총고정자본형성(한국은행)",
-  "pt": "Formação bruta de capital fixo (BOK)"
- },
- "HDI, 0–1": {
-  "ko": "인간개발지수, 0–1",
-  "pt": "IDH, 0–1"
- },
- "Health": {
-  "ko": "보건",
-  "pt": "Saúde"
- },
- "Heart disease": {
-  "ko": "심장 질환",
-  "pt": "Doenças do coração"
- },
- "Homicide rate": {
-  "ko": "살인 사망률",
-  "pt": "Taxa de homicídios"
- },
- "Household Debt & the Price of Credit, 2006–2026": {
-  "ko": "가계부채와 신용의 가격, 2006–2026",
-  "pt": "Endividamento das Famílias e o Preço do Crédito, 2006–2026"
- },
- "Household Finance and Welfare Survey (2011–)": {
-  "ko": "가계금융복지조사(2011–)",
-  "pt": "Pesquisa de Finanças e Bem-Estar das Famílias (2011–)"
- },
- "Household Income and Expenditure Survey (–2016)": {
-  "ko": "가계동향조사(–2016)",
-  "pt": "Pesquisa de Renda e Despesa das Famílias (–2016)"
- },
- "Household debt": {
-  "ko": "가계부채",
-  "pt": "Dívida das famílias"
- },
- "Household lending rate vs policy rate": {
-  "ko": "가계 대출금리와 기준금리",
-  "pt": "Juro ao consumidor contra a taxa básica"
- },
- "Households": {
-  "ko": "가계",
-  "pt": "Famílias"
- },
- "Human Development Index": {
-  "ko": "인간개발지수",
-  "pt": "Índice de Desenvolvimento Humano"
- },
- "Imports": {
-  "ko": "수입",
-  "pt": "Importações"
- },
- "Income inequality, Gini": {
-  "ko": "소득 불평등, 지니계수",
-  "pt": "Desigualdade de renda, Gini"
- },
- "Interest and principal, % of disposable income (BIS)": {
-  "ko": "원리금, 가처분소득 대비 %(BIS)",
-  "pt": "Juros e amortização, % da renda disponível (BIS)"
- },
- "Interest paid": {
-  "ko": "이자 지급",
-  "pt": "Juros pagos"
- },
- "Investment rate, whole economy": {
-  "ko": "투자율, 경제 전체",
-  "pt": "Taxa de investimento, toda a economia"
- },
- "Japan": {
-  "ko": "일본",
-  "pt": "Japão"
- },
- "KOSPI in US$": {
-  "ko": "코스피(달러 환산)",
-  "pt": "KOSPI em US$"
- },
- "Korea Treasury Bond, 10 years": {
-  "ko": "국고채 10년물",
-  "pt": "Título do Tesouro coreano, 10 anos"
- },
- "Korea in the World, 2006–2026": {
-  "ko": "세계 속의 한국, 2006–2026",
-  "pt": "A Coreia no Mundo, 2006–2026"
- },
- "Korea's Demographic Transition, 2006–2026": {
-  "ko": "인구 전환, 2006–2026",
-  "pt": "A Transição Demográfica Coreana, 2006–2026"
- },
- "Korean households owe almost as much as the economy produces in a year.": {
-  "ko": "한국 가계의 빚은 이 나라가 1년 동안 생산하는 것과 맞먹는다.",
-  "pt": "As famílias coreanas devem quase tanto quanto a economia produz em um ano."
- },
- "Labour force survey, 15+": {
-  "ko": "경제활동인구조사, 15세 이상",
-  "pt": "Pesquisa da força de trabalho, 15+"
- },
- "Lens: debt service, households": {
-  "ko": "한국의 시선: 가계 원리금 상환 부담",
-  "pt": "Lente: serviço da dívida das famílias"
- },
- "Lens: poverty at 65 and over": {
-  "ko": "한국의 시선: 65세 이상 빈곤",
-  "pt": "Lente: pobreza aos 65 anos ou mais"
- },
- "Lens: the big killers": {
-  "ko": "한국의 시선: 주요 사망원인",
-  "pt": "Lente: as grandes causas de morte"
- },
- "Lens: what Korea exports, US$ bn": {
-  "ko": "한국의 시선: 무엇을 수출하나, 십억 달러",
-  "pt": "Lente: o que a Coreia exporta, US$ bi"
- },
- "Lens: workplace accident deaths": {
-  "ko": "한국의 시선: 산업재해 사고사망",
-  "pt": "Lente: mortes por acidente de trabalho"
- },
- "Main equity index in US$": {
-  "ko": "대표 주가지수, 달러 기준",
-  "pt": "Principal índice de ações em US$"
- },
- "Mid-year population, Statistics Korea": {
-  "ko": "연앙인구, 통계청",
-  "pt": "População no meio do ano, Statistics Korea"
- },
- "Minimum wage": {
-  "ko": "최저임금",
-  "pt": "Salário mínimo"
- },
- "Money & Markets, 2006–2026": {
-  "ko": "돈과 시장, 2006–2026",
-  "pt": "Dinheiro e Mercados, 2006–2026"
- },
- "Mortality — the Pandemic and an Ageing Country, 2006–2026": {
-  "ko": "사망 — 팬데믹과 늙어가는 나라, 2006–2026",
-  "pt": "Mortalidade — a Pandemia e um País que Envelhece, 2006–2026"
- },
- "Natural increase and net migration": {
-  "ko": "자연증가와 순이동",
-  "pt": "Crescimento natural e migração líquida"
- },
- "Net international migration": {
-  "ko": "국제 순이동",
-  "pt": "Migração internacional líquida"
- },
- "New mortgage loans": {
-  "ko": "주택담보대출(신규)",
-  "pt": "Novos financiamentos imobiliários"
- },
- "New unsecured loans": {
-  "ko": "일반신용대출(신규)",
-  "pt": "Novos empréstimos sem garantia"
- },
- "Non-performing loans": {
-  "ko": "부실·연체 대출",
-  "pt": "Inadimplência"
- },
- "Official reserves": {
-  "ko": "외환보유액",
-  "pt": "Reservas internacionais"
- },
- "One of the safest countries in the world from other people, and the most dangerous in the OECD from oneself.": {
-  "ko": "타인으로부터는 세계에서 가장 안전한 나라 중 하나, 자기 자신으로부터는 OECD에서 가장 위험한 나라.",
-  "pt": "Um dos países mais seguros do mundo em relação aos outros, e o mais perigoso da OCDE em relação a si mesmo."
- },
- "Other": {
-  "ko": "기타",
-  "pt": "Outros"
- },
- "Overall and primary balance": {
-  "ko": "재정수지와 기초재정수지",
-  "pt": "Resultado nominal e primário"
- },
- "People — Inequality, Poverty & Wages, 2006–2026": {
-  "ko": "사람 — 불평등, 빈곤, 임금, 2006–2026",
-  "pt": "Pessoas — Desigualdade, Pobreza e Salários, 2006–2026"
- },
- "Per 100,000 workers insured against industrial accidents": {
-  "ko": "산재보험 적용 근로자 10만 명당",
-  "pt": "Por 100 mil trabalhadores com seguro contra acidentes"
- },
- "Petrochemicals": {
-  "ko": "석유화학",
-  "pt": "Petroquímicos"
- },
- "Petroleum products": {
-  "ko": "석유제품",
-  "pt": "Derivados de petróleo"
- },
- "Phones & telecom gear": {
-  "ko": "휴대전화·통신기기",
-  "pt": "Telefones e equipamento de telecom"
- },
- "Pneumonia": {
-  "ko": "폐렴",
-  "pt": "Pneumonia"
- },
- "Police count, death within 30 days": {
-  "ko": "경찰 집계, 사고 후 30일 내 사망",
-  "pt": "Contagem policial, morte em até 30 dias"
- },
- "Policy rate vs inflation": {
-  "ko": "기준금리와 물가",
-  "pt": "Taxa básica contra inflação"
- },
- "Population": {
-  "ko": "인구",
-  "pt": "População"
- },
- "Poverty rate": {
-  "ko": "빈곤율",
-  "pt": "Taxa de pobreza"
- },
- "Primary balance, IMF": {
-  "ko": "기초재정수지, IMF",
-  "pt": "Resultado primário, FMI"
- },
- "Public Finances, 2006–2026": {
-  "ko": "재정, 2006–2026",
-  "pt": "Contas Públicas, 2006–2026"
- },
- "Public investment": {
-  "ko": "정부 투자",
-  "pt": "Investimento público"
- },
- "Real GDP growth": {
-  "ko": "실질 GDP 성장률",
-  "pt": "Crescimento real do PIB"
- },
- "Real growth, income per person, prices and jobs. The economy's size in dollars is in the world chapter.": {
-  "ko": "실질 성장, 1인당 소득, 물가, 일자리. 달러로 본 경제 규모는 '세계 속의 한국'에 있다.",
-  "pt": "Crescimento real, renda por pessoa, preços e emprego. O tamanho da economia em dólares está no capítulo sobre o mundo."
- },
- "Revenue and expenditure": {
-  "ko": "총수입과 총지출",
-  "pt": "Receita e despesa"
- },
- "Revenue, BOK national accounts": {
-  "ko": "총수입, 한국은행 국민계정",
-  "pt": "Receita, contas nacionais do BOK"
- },
- "Revenue, IMF": {
-  "ko": "총수입, IMF",
-  "pt": "Receita, FMI"
- },
- "Road traffic deaths": {
-  "ko": "도로교통사고 사망",
-  "pt": "Mortes no trânsito"
- },
- "S&P 500": {
-  "ko": "S&P 500",
-  "pt": "S&P 500"
- },
- "Safety — Homicide, Suicide, Roads & Work, 2006–2026": {
-  "ko": "안전 — 살인, 자살, 교통사고, 산업재해, 2006–2026",
-  "pt": "Segurança — Homicídio, Suicídio, Trânsito e Trabalho, 2006–2026"
- },
- "Semiconductors": {
-  "ko": "반도체",
-  "pt": "Semicondutores"
- },
- "Ships": {
-  "ko": "선박",
-  "pt": "Embarcações"
- },
- "Social protection": {
-  "ko": "사회보호",
-  "pt": "Proteção social"
- },
- "Social protection vs everything else": {
-  "ko": "사회보호 대 나머지 전부",
-  "pt": "Proteção social contra todo o resto"
- },
- "Sources: BIS total credit and debt service statistics · Bank of Korea ECOS": {
-  "ko": "출처: 국제결제은행(BIS) 총신용·부채상환비율 통계 · 한국은행 ECOS",
-  "pt": "Fontes: BIS, estatísticas de crédito total e de serviço da dívida · Banco da Coreia, ECOS"
- },
- "Sources: Bank of Korea ECOS (national accounts) · Statistics Korea (CPI, labour force survey) · World Bank": {
-  "ko": "출처: 한국은행 ECOS(국민계정) · 통계청(소비자물가, 경제활동인구조사) · 세계은행",
-  "pt": "Fontes: Banco da Coreia, ECOS (contas nacionais) · Statistics Korea (IPC, pesquisa da força de trabalho) · Banco Mundial"
- },
- "Sources: Bank of Korea ECOS · KRX and S&P DJI via Yahoo Finance (not official)": {
-  "ko": "출처: 한국은행 ECOS · 한국거래소, S&P DJI(야후 파이낸스 경유, 공식 통계 아님)",
-  "pt": "Fontes: Banco da Coreia, ECOS · KRX e S&P DJI via Yahoo Finance (não oficial)"
- },
- "Sources: Bank of Korea ECOS — general government by COFOG function, national accounts · World Bank (R&D)": {
-  "ko": "출처: 한국은행 ECOS — 일반정부 기능별(COFOG) 지출, 국민계정 · 세계은행(연구개발비)",
-  "pt": "Fontes: Banco da Coreia, ECOS — governo geral por função COFOG, contas nacionais · Banco Mundial (P&D)"
- },
- "Sources: IMF World Economic Outlook and Fiscal Monitor · Bank of Korea ECOS (SNA) · MOEF / e-National Indicators (D1)": {
-  "ko": "출처: IMF 세계경제전망·재정모니터 · 한국은행 ECOS(국민계정) · 기획재정부 / e-나라지표(D1)",
-  "pt": "Fontes: FMI, World Economic Outlook e Fiscal Monitor · Banco da Coreia, ECOS (contas nacionais) · Ministério da Economia e Finanças / e-National Indicators (D1)"
- },
- "Sources: Statistics Korea (Causes of Death) · National Police Agency · MOEL via e-National Indicators · UNODC and WHO via the World Bank": {
-  "ko": "출처: 통계청(사망원인통계) · 경찰청 · 고용노동부(e-나라지표) · UNODC·WHO(세계은행 경유)",
-  "pt": "Fontes: Statistics Korea (causas de morte) · Agência Nacional de Polícia · Ministério do Emprego e Trabalho, via e-National Indicators · UNODC e OMS, via Banco Mundial"
- },
- "Sources: Statistics Korea (vital statistics, international migration, population projections) via e-National Indicators and Bank of Korea ECOS": {
-  "ko": "출처: 통계청(인구동향, 국제인구이동, 장래인구추계), e-나라지표와 한국은행 ECOS 경유",
-  "pt": "Fontes: Statistics Korea (estatísticas vitais, migração internacional, projeções populacionais), via e-National Indicators e Banco da Coreia ECOS"
- },
- "Sources: Statistics Korea via e-National Indicators · Minimum Wage Commission · Bank of Korea ECOS · World Bank": {
-  "ko": "출처: 통계청(e-나라지표) · 최저임금위원회 · 한국은행 ECOS · 세계은행",
-  "pt": "Fontes: Statistics Korea, via e-National Indicators · Comissão do Salário Mínimo · Banco da Coreia, ECOS · Banco Mundial"
- },
- "Sources: Statistics Korea — Causes of Death and Birth and Death Statistics, via e-National Indicators": {
-  "ko": "출처: 통계청 — 사망원인통계, 출생·사망통계(e-나라지표)",
-  "pt": "Fontes: Statistics Korea — causas de morte e estatísticas de nascimentos e óbitos, via e-National Indicators"
- },
- "Sources: World Bank (national accounts) · Korea Customs Service via Bank of Korea ECOS · UN Comtrade (HS headings)": {
-  "ko": "출처: 세계은행(국민계정) · 관세청(한국은행 ECOS 경유) · UN Comtrade(HS 품목)",
-  "pt": "Fontes: Banco Mundial (contas nacionais) · Serviço Aduaneiro da Coreia, via Banco da Coreia ECOS · UN Comtrade (posições SH)"
- },
- "Sources: World Bank · UNDP · Transparency International · Bank of Korea ECOS": {
-  "ko": "출처: 세계은행 · 유엔개발계획(UNDP) · 국제투명성기구 · 한국은행 ECOS",
-  "pt": "Fontes: Banco Mundial · PNUD · Transparência Internacional · Banco da Coreia, ECOS"
- },
- "Spending by function, stacked": {
-  "ko": "기능별 지출(누적)",
-  "pt": "Gasto por função, empilhado"
- },
- "Statistics Korea": {
-  "ko": "통계청",
-  "pt": "Statistics Korea"
- },
- "Statistics Korea, crude": {
-  "ko": "통계청, 조사망률 기준",
-  "pt": "Statistics Korea, taxa bruta"
- },
- "Steel": {
-  "ko": "철강",
-  "pt": "Aço"
- },
- "Stroke": {
-  "ko": "뇌혈관 질환",
-  "pt": "AVC"
- },
- "Suicide rate": {
-  "ko": "자살률",
-  "pt": "Taxa de suicídio"
- },
- "THAAD: China retaliates": {
-  "ko": "사드: 중국의 보복",
-  "pt": "THAAD: a retaliação chinesa"
- },
- "The Korean Economy, 2006–2026": {
-  "ko": "한국 경제, 2006–2026",
-  "pt": "A Economia Coreana, 2006–2026"
- },
- "The base rate, the ten-year yield, the won and the KOSPI, the last two against the US dollar.": {
-  "ko": "기준금리, 10년물 국고채 금리, 원화, 코스피. 뒤의 둘은 달러로 환산했다.",
-  "pt": "A taxa básica, o juro de dez anos, o won e o KOSPI, os dois últimos contra o dólar."
- },
- "The peak has passed: the lowest fertility on record, and more deaths than births since 2020.": {
-  "ko": "정점은 지났다. 역대 가장 낮은 출산율, 그리고 2020년부터 출생아보다 많은 사망자.",
-  "pt": "O pico já passou: a menor fecundidade já registrada, e mais mortes que nascimentos desde 2020."
- },
- "The size of the economy in dollars, human development, perceived integrity and the reserves.": {
-  "ko": "달러로 본 경제 규모, 인간개발, 청렴도 인식, 외환보유액.",
-  "pt": "O tamanho da economia em dólares, o desenvolvimento humano, a integridade percebida e as reservas."
- },
- "Top export destinations": {
-  "ko": "주요 수출 상대국",
-  "pt": "Principais destinos das exportações"
- },
- "Total fertility rate": {
-  "ko": "합계출산율",
-  "pt": "Taxa de fecundidade total"
- },
- "Trade balance": {
-  "ko": "무역수지",
-  "pt": "Saldo comercial"
- },
- "UNDP": {
-  "ko": "UNDP",
-  "pt": "PNUD"
- },
- "UNODC": {
-  "ko": "UNODC",
-  "pt": "UNODC"
- },
- "US$ bn": {
-  "ko": "십억 달러",
-  "pt": "US$ bi"
- },
- "US$ per month": {
-  "ko": "월 달러",
-  "pt": "US$ por mês"
- },
- "US$, current": {
-  "ko": "달러, 경상가격",
-  "pt": "US$ correntes"
- },
- "Unemployment rate": {
-  "ko": "실업률",
-  "pt": "Taxa de desemprego"
- },
- "United States": {
-  "ko": "미국",
-  "pt": "Estados Unidos"
- },
- "Vietnam": {
-  "ko": "베트남",
-  "pt": "Vietnã"
- },
- "WHO estimate": {
-  "ko": "WHO 추정",
-  "pt": "Estimativa da OMS"
- },
- "Where the Money Goes, 2006–2026": {
-  "ko": "돈이 가는 곳, 2006–2026",
-  "pt": "Para Onde Vai o Dinheiro, 2006–2026"
- },
- "Won, annual average": {
-  "ko": "원화, 연평균",
-  "pt": "Won, média anual"
- },
- "World Bank": {
-  "ko": "세계은행",
-  "pt": "Banco Mundial"
- },
- "World Bank, current US$": {
-  "ko": "세계은행, 경상 달러",
-  "pt": "Banco Mundial, US$ correntes"
- },
- "aged {} and over: {}% in {}": {
-  "ko": "65세 이상: {2}년 {1}%",
-  "pt": "65 anos ou mais: {1}% em {2}"
- },
- "an older population, not a sicker one: crude, not age-adjusted": {
-  "ko": "더 아픈 게 아니라 더 늙었다: 연령 표준화하지 않은 조사망률",
-  "pt": "uma população mais velha, não mais doente: taxa bruta, sem ajuste por idade"
- },
- "bank lending rates on new loans, annual average": {
-  "ko": "예금은행 신규취급액 기준 대출금리, 연평균",
-  "pt": "juros bancários de novos empréstimos, média anual"
- },
- "bank loans overdue a month or more (delinquency rate)": {
-  "ko": "1개월 이상 연체된 은행 대출(연체율)",
-  "pt": "empréstimos bancários com mais de um mês de atraso (inadimplência)"
- },
- "bars: births minus deaths, -{} per {} in {}": {
-  "ko": "막대: 출생에서 사망을 뺀 값, {2}년 인구 1천 명당 -{0}명",
-  "pt": "barras: nascimentos menos óbitos, -{0} por 1.000 em {2}"
- },
- "bars: overall balance, IMF; paler bars before {}: Bank of Korea": {
-  "ko": "막대: 재정수지(IMF), {0}년 이전의 옅은 막대는 한국은행",
-  "pt": "barras: resultado nominal, FMI; barras claras antes de {0}: Banco da Coreia"
- },
- "before {}: the old 0–10 score ×10, a different method (paler)": {
-  "ko": "{0}년 이전: 옛 0–10점 척도에 10을 곱한 값, 산출 방식이 다르다(옅은 막대)",
-  "pt": "antes de {0}: a antiga nota de 0 a 10 ×10, outro método (barras claras)"
- },
- "children per woman": {
-  "ko": "여성 1명당 출생아 수",
-  "pt": "filhos por mulher"
- },
- "customs goods balance, {}: US${}bn": {
-  "ko": "통관 기준 상품수지, {0}년: {1}십억 달러",
-  "pt": "saldo de bens (aduana), {0}: US${1} bi"
- },
- "death certificates, not the KDCA surveillance count": {
-  "ko": "사망신고서 기준, 질병관리청 감시 집계와 다름",
-  "pt": "atestados de óbito, não a contagem de vigilância da KDCA"
- },
- "deaths overtake births in {}": {
-  "ko": "{0}년, 사망자가 출생아를 넘어섰다",
-  "pt": "os óbitos superam os nascimentos em {0}"
- },
- "deaths vs the {}–{} average of {} a year": {
-  "ko": "{0}–{1}년 연평균 사망자 {2}명 대비",
-  "pt": "óbitos contra a média de {0}–{1}, de {2} por ano"
- },
- "disposable income; two surveys, never joined": {
-  "ko": "처분가능소득 기준, 두 조사는 잇지 않았다",
-  "pt": "renda disponível; duas pesquisas, nunca emendadas"
- },
- "general government; the IMF series starts in {}, the Bank of Korea's own covers the years before": {
-  "ko": "일반정부 기준. IMF 시계열은 {0}년부터이고, 그 이전은 한국은행 자체 통계다",
-  "pt": "governo geral; a série do FMI começa em {0}, a do Banco da Coreia cobre os anos anteriores"
- },
- "generated from committed CSVs": {
-  "ko": "버전 관리되는 CSV에서 생성",
-  "pt": "gerado a partir de CSVs versionados"
- },
- "global crisis": {
-  "ko": "세계 금융위기",
-  "pt": "crise global"
- },
- "goods and services, national accounts (World Bank)": {
-  "ko": "재화와 서비스, 국민계정 기준(세계은행)",
-  "pt": "bens e serviços, contas nacionais (Banco Mundial)"
- },
- "higher = cleaner": {
-  "ko": "높을수록 청렴",
-  "pt": "mais alto = mais limpo"
- },
- "households peaked at {}% in {}": {
-  "ko": "가계 연체율은 {1}년 {0}%로 정점",
-  "pt": "as famílias chegaram ao pico de {0}% em {1}"
- },
- "index 2006 = 100": {
-  "ko": "지수, 2006 = 100",
-  "pt": "índice 2006 = 100"
- },
- "index 2006 = 100, in US$": {
-  "ko": "지수, 2006 = 100, 달러 기준",
-  "pt": "índice 2006 = 100, em US$"
- },
- "index 2006 = 100, up = stronger": {
-  "ko": "지수, 2006 = 100, 위로 갈수록 원화 강세",
-  "pt": "índice 2006 = 100, para cima = mais forte"
- },
- "martial law": {
-  "ko": "비상계엄",
-  "pt": "lei marcial"
- },
- "net foreign assets: US${}bn in {}, a creditor since {}": {
-  "ko": "순대외금융자산: {1}년 {0}십억 달러, {2}년부터 순채권국",
-  "pt": "ativos externos líquidos: US${0} bi em {1}, credora desde {2}"
- },
- "net of interest received (IMF): {}% in {}; the pension fund earns most of it back": {
-  "ko": "이자 수입을 뺀 순이자(IMF): {1}년 {0}%, 대부분을 국민연금 기금이 벌어들인다",
-  "pt": "líquido dos juros recebidos (FMI): {0}% em {1}; o fundo de pensão recupera quase tudo"
- },
- "never outside {}–{}% in {}–{}": {
-  "ko": "{2}–{3}년 내내 {0}–{1}% 범위",
-  "pt": "nunca fora de {0}–{1}% em {2}–{3}"
- },
- "of which R&D, all sectors: {}% of GDP in {}, second only to Israel": {
-  "ko": "그중 연구개발비(전 부문): {1}년 GDP의 {0}%, 이스라엘 다음으로 높다",
-  "pt": "dos quais P&D, todos os setores: {0}% do PIB em {1}, atrás só de Israel"
- },
- "peak {}: {} mn; the {} projection has {} mn by {}": {
-  "ko": "정점 {0}년 {1}백만 명, {2}년 장래인구추계는 {4}년 {3}백만 명",
-  "pt": "pico em {0}: {1} mi; a projeção de {2} prevê {3} mi em {4}"
- },
- "per 1,000 people": {
-  "ko": "인구 1천 명당",
-  "pt": "por 1.000 pessoas"
- },
- "per 100,000": {
-  "ko": "인구 10만 명당",
-  "pt": "por 100 mil"
- },
- "per 100,000 insured workers": {
-  "ko": "산재보험 적용 근로자 10만 명당",
-  "pt": "por 100 mil trabalhadores segurados"
- },
- "pneumonia: {} to {}, an ageing country's cause": {
-  "ko": "폐렴: {0} → {1}, 늙어가는 나라의 사인",
-  "pt": "pneumonia: de {0} para {1}, uma causa de país que envelhece"
- },
- "scale extended": {
-  "ko": "축 범위 확장",
-  "pt": "escala ampliada"
- },
- "score, 0–100": {
-  "ko": "점수, 0–100",
-  "pt": "pontuação, 0–100"
- },
- "semiconductors, {}: US${}bn": {
-  "ko": "반도체, {0}년: {1}십억 달러",
-  "pt": "semicondutores, {0}: US${1} bi"
- },
- "snapshot years; HS headings, UN Comtrade": {
-  "ko": "기준연도별 비교, HS 품목(UN Comtrade)",
-  "pt": "anos de referência; posições SH, UN Comtrade"
- },
- "social protection {}–{}: {}% to {}% of GDP": {
-  "ko": "사회보호 {0}–{1}년: GDP의 {2}% → {3}%",
-  "pt": "proteção social {0}–{1}: de {2}% para {3}% do PIB"
- },
- "tax revenue alone: {}% of GDP at its {} peak": {
-  "ko": "조세수입만으로는 {1}년 정점에서 GDP의 {0}%",
-  "pt": "só a receita tributária: {0}% do PIB no pico de {1}"
- },
- "the OECD's highest rate": {
-  "ko": "OECD 최고 수준",
-  "pt": "a taxa mais alta da OCDE"
- },
- "the count includes occupational disease, the rate accidents only": {
-  "ko": "사망자 수에는 업무상 질병이 포함되고, 비율은 사고만 센다",
-  "pt": "a contagem inclui doença ocupacional; a taxa, só acidentes"
- },
- "the dips in 2009 and 2022 are the won, not output": {
-  "ko": "2009년과 2022년의 하락은 생산이 아니라 환율 때문",
-  "pt": "as quedas de 2009 e 2022 são o câmbio, não a produção"
- },
- "the gap is what pensions and benefits do": {
-  "ko": "이 격차가 연금과 급여의 효과다",
-  "pt": "a diferença é o efeito das aposentadorias e benefícios"
- },
- "the rate fell by more than half; deaths did not: {} in {}, {} in {}": {
-  "ko": "비율은 절반 넘게 줄었지만 사망자는 아니다: {1}년 {0}명, {3}년 {2}명",
-  "pt": "a taxa caiu mais da metade; as mortes, não: {0} em {1}, {2} em {3}"
- },
- "year-end close in won, {}: {}": {
-  "ko": "원화 기준 연말 종가, {0}년: {1}",
-  "pt": "fechamento em wons, {0}: {1}"
- },
- "{}: -{}%, the only contraction": {
-  "ko": "{0}년: -{1}%, 유일한 역성장",
-  "pt": "{0}: -{1}%, a única contração"
- },
- "{}: borders closed, -{}": {
-  "ko": "{0}년: 국경 봉쇄, -{1}",
-  "pt": "{0}: fronteiras fechadas, -{1}"
- },
- "{}: {} ({} deaths)": {
-  "ko": "{0}년: {1}(사망자 {2}명)",
-  "pt": "{0}: {1} ({2} mortes)"
- },
- "{}: {} per {}k, {} deaths": {
-  "ko": "{0}년: 10만 명당 {1}명, 사망자 {3}명",
-  "pt": "{0}: {1} por 100 mil, {3} mortes"
- },
- "{}: {} to {}: {}": {
-  "ko": "{0}년 {1} → {2}년 {3}",
-  "pt": "{0}: {1} → {2}: {3}"
- },
- "{}: {}% to {}: {}%": {
-  "ko": "{0}년 {1}% → {2}년 {3}%",
-  "pt": "{0}: {1}% → {2}: {3}%"
- },
- "{}: {}%, slower only in {} and {}": {
-  "ko": "{0}년: {1}%, 이보다 낮았던 해는 {2}년과 {3}년뿐",
-  "pt": "{0}: {1}%, mais lento só em {2} e {3}"
- },
- "{}: {}%, the energy bill": {
-  "ko": "{0}년: {1}%, 에너지 수입 부담",
-  "pt": "{0}: {1}%, a conta de energia"
- },
- "{}: {}%, the floor so far": {
-  "ko": "{0}년: {1}%, 지금까지의 최저",
-  "pt": "{0}: {1}%, o piso até agora"
- },
- "{}: {}%, the low": {
-  "ko": "{0}년: {1}%, 최저",
-  "pt": "{0}: {1}%, a mínima"
- },
- "{}: {}%, the stimulus year": {
-  "ko": "{0}년: {1}%, 경기부양의 해",
-  "pt": "{0}: {1}%, o ano do estímulo"
- },
- "{}: {}, the peak": {
-  "ko": "{0}년: {1}, 정점",
-  "pt": "{0}: {1}, o pico"
- },
- "{}: {}, the world's lowest": {
-  "ko": "{0}년: {1}, 세계 최저",
-  "pt": "{0}: {1}, a menor do mundo"
- },
- "{}: ₩{} an hour": {
-  "ko": "{0}년: 시간당 {1}원",
-  "pt": "{0}: ₩{1} por hora"
- },
- "{}: ₩{} an hour = ₩{} a month": {
-  "ko": "{0}년: 시간당 {1}원 = 월 {2}원",
-  "pt": "{0}: ₩{1} por hora = ₩{2} por mês"
- },
- "{}: ₩{} per US$, against ₩{} in {}": {
-  "ko": "{0}년: 달러당 {1}원, {3}년에는 {2}원",
-  "pt": "{0}: ₩{1} por US$, contra ₩{2} em {3}"
- },
- "₩{}tn in won": {
-  "ko": "원화로 {0}조 원",
-  "pt": "₩{0} tri em wons"
- },
- "₩{}tn owed at the end of {}": {
-  "ko": "{1}년 말 잔액 {0}조 원",
-  "pt": "₩{0} tri devidos no fim de {1}"
- }
+  "2024: 2.043 million, 3.9%": {
+    "ko": "2024년: 204만 3천 명, 3.9%",
+    "pt": "2024: 2,043 milhões, 3,9%",
+    "zh-Hans": "2024年：204.3万人，3.9%"
+  },
+  "2025: +1.4 per 1,000": {
+    "ko": "2025년: 1천 명당 +1.4명",
+    "pt": "2025: +1,4 por mil",
+    "zh-Hans": "2025年：每千人+1.4人"
+  },
+  "2025: 13.3 in, 11.8 out per 1,000": {
+    "ko": "2025년: 1천 명당 입국 13.3명, 출국 11.8명",
+    "pt": "2025: 13,3 entradas e 11,8 saídas por mil",
+    "zh-Hans": "2025年：每千人迁入13.3人、迁出11.8人"
+  },
+  "Emigration": {
+    "ko": "출국",
+    "pt": "Emigração",
+    "zh-Hans": "迁出"
+  },
+  "Foreign citizens": {
+    "ko": "외국인",
+    "pt": "Cidadãos estrangeiros",
+    "zh-Hans": "外国公民"
+  },
+  "Foreign-citizen share": {
+    "ko": "외국인 비중",
+    "pt": "Parcela de cidadãos estrangeiros",
+    "zh-Hans": "外国公民占比"
+  },
+  "Immigration": {
+    "ko": "입국",
+    "pt": "Imigração",
+    "zh-Hans": "迁入"
+  },
+  "Immigration and emigration": {
+    "ko": "입국과 출국",
+    "pt": "Imigração e emigração",
+    "zh-Hans": "迁入与迁出"
+  },
+  "International moves lasting more than 90 days, and the resident foreign-citizen population counted by the census.": {
+    "ko": "90일을 초과한 국제이동과 센서스가 집계한 국내 거주 외국인.",
+    "pt": "Movimentos internacionais com mais de 90 dias e a população residente de cidadania estrangeira contada pelo censo.",
+    "zh-Hans": "持续超过90天的国际迁移，以及人口普查统计的常住外国公民人口。"
+  },
+  "Korean citizens": {
+    "ko": "내국인",
+    "pt": "Cidadãos coreanos",
+    "zh-Hans": "韩国公民"
+  },
+  "Lens: net migration by citizenship": {
+    "ko": "한국의 시선: 국적별 순이동",
+    "pt": "Lente: migração líquida por cidadania",
+    "zh-Hans": "专题：按国籍划分的净迁移"
+  },
+  "Migration — Who Arrives, Who Leaves, Who Is Here, 2006–2026": {
+    "ko": "국제이동 — 누가 들어오고, 나가고, 살고 있는가, 2006–2026",
+    "pt": "Migração — quem chega, quem sai, quem está aqui, 2006–2026",
+    "zh-Hans": "迁移——谁迁入、谁迁出、谁在此居住，2006–2026年"
+  },
+  "Net migration": {
+    "ko": "순이동",
+    "pt": "Migração líquida",
+    "zh-Hans": "净迁移"
+  },
+  "Resident foreigners at 1 November": {
+    "ko": "11월 1일 기준 국내 거주 외국인",
+    "pt": "Estrangeiros residentes em 1º de novembro",
+    "zh-Hans": "11月1日常住外国人"
+  },
+  "Sources: Statistics Korea — International Migration Statistics and the register-based Population and Housing Census": {
+    "ko": "출처: 통계청 — 국제인구이동통계 및 등록센서스 인구주택총조사",
+    "pt": "Fontes: Statistics Korea — Estatísticas de Migração Internacional e Censo da População e Habitação baseado em registros",
+    "zh-Hans": "来源：韩国统计厅——国际人口迁移统计及基于登记资料的人口住房普查"
+  },
+  "more than 90 days; Koreans and foreigners together": {
+    "ko": "90일 초과 체류; 내·외국인 합계",
+    "pt": "mais de 90 dias; coreanos e estrangeiros juntos",
+    "zh-Hans": "超过90天；包括韩国人和外国人"
+  },
+  "register census; citizenship, not birthplace": {
+    "ko": "등록센서스; 출생지가 아닌 국적 기준",
+    "pt": "censo de registros; cidadania, não local de nascimento",
+    "zh-Hans": "登记普查；按国籍而非出生地划分"
+  },
+  "the two lines sum to total net migration": {
+    "ko": "두 선의 합은 전체 순이동과 같다",
+    "pt": "as duas linhas somam a migração líquida total",
+    "zh-Hans": "两条曲线之和为净迁移总量"
+  },
+  "%": {
+    "ko": "%",
+    "pt": "%",
+    "zh-Hans": "%"
+  },
+  "% above 2015–2019 average": {
+    "ko": "2015–2019년 평균 대비 증감(%)",
+    "pt": "% acima da média de 2015–2019",
+    "zh-Hans": "较 2015–2019 年平均高出(%)"
+  },
+  "% of GDP": {
+    "ko": "GDP 대비 %",
+    "pt": "% do PIB",
+    "zh-Hans": "占GDP的%"
+  },
+  "% of disposable income": {
+    "ko": "가처분소득 대비 %",
+    "pt": "% da renda disponível",
+    "zh-Hans": "占可支配收入的百分比"
+  },
+  "% of goods exports": {
+    "ko": "상품 수출 대비 %",
+    "pt": "% das exportações de bens",
+    "zh-Hans": "占商品出口的%"
+  },
+  "% of labour force": {
+    "ko": "경제활동인구 대비 %",
+    "pt": "% da força de trabalho",
+    "zh-Hans": "占劳动力人口的%"
+  },
+  "% of loans": {
+    "ko": "대출 대비 %",
+    "pt": "% dos empréstimos",
+    "zh-Hans": "占贷款的%"
+  },
+  "% of people": {
+    "ko": "인구 대비 %",
+    "pt": "% da população",
+    "zh-Hans": "占人口的%"
+  },
+  "% of people aged 65+": {
+    "ko": "65세 이상 인구 대비 %",
+    "pt": "% das pessoas com 65 anos ou mais",
+    "zh-Hans": "占65岁及以上人口的百分比"
+  },
+  "% of population": {
+    "ko": "인구 대비 %",
+    "pt": "% da população",
+    "zh-Hans": "占总人口的%"
+  },
+  "% per year": {
+    "ko": "연간 %",
+    "pt": "% ao ano",
+    "zh-Hans": "每年%"
+  },
+  "%, annual average": {
+    "ko": "%, 연평균",
+    "pt": "%, média anual",
+    "zh-Hans": "%,年平均"
+  },
+  "0.900 = very high human development": {
+    "ko": "0.900 = 매우 높은 인간개발",
+    "pt": "0,900 = desenvolvimento humano muito alto",
+    "zh-Hans": "0.900＝极高人类发展水平"
+  },
+  "10-year government bond yield": {
+    "ko": "10년 만기 국고채 금리",
+    "pt": "Juro do título público de 10 anos",
+    "zh-Hans": "10年期国债收益率"
+  },
+  "2% target (since 2016)": {
+    "ko": "물가안정목표 2%(2016년부터)",
+    "pt": "meta de 2% (desde 2016)",
+    "zh-Hans": "2%目标（自2016年起）"
+  },
+  "2.1 = replacement": {
+    "ko": "2.1 = 인구 대체 수준",
+    "pt": "2,1 = reposição",
+    "zh-Hans": "2.1＝更替水平"
+  },
+  "2011: new survey basis": {
+    "ko": "2011년: 새 조사 기준",
+    "pt": "2011: nova base de pesquisa",
+    "zh-Hans": "2011年：采用新调查口径"
+  },
+  "209 hours a month, at the year's average ₩/US$": {
+    "ko": "월 209시간, 연평균 원/달러 환율로 환산",
+    "pt": "209 horas por mês, ao câmbio médio do ano",
+    "zh-Hans": "每月209小时，按当年韩元兑美元平均汇率折算"
+  },
+  "A rich country with a poor old age.": {
+    "ko": "부유한 나라의 가난한 노년.",
+    "pt": "Um país rico com uma velhice pobre.",
+    "zh-Hans": "富裕国家，贫困晚年。"
+  },
+  "After transfers (disposable)": {
+    "ko": "이전소득 후(처분가능소득)",
+    "pt": "Depois das transferências (renda disponível)",
+    "zh-Hans": "转移支付后（可支配收入）"
+  },
+  "All causes, Statistics Korea": {
+    "ko": "전체 사인, 통계청",
+    "pt": "Todas as causas, Statistics Korea",
+    "zh-Hans": "全死因，韩国统计厅"
+  },
+  "All other functions": {
+    "ko": "그 외 모든 기능",
+    "pt": "Todas as demais funções",
+    "zh-Hans": "其余所有职能"
+  },
+  "BIS: households and NPISHs, all lenders, Q4": {
+    "ko": "BIS: 가계·비영리단체, 전체 대출기관, 4분기",
+    "pt": "BIS: famílias e ISFLSF, todos os credores, 4º tri",
+    "zh-Hans": "国际清算银行：住户及为住户服务的非营利机构，所有贷款机构，第4季度"
+  },
+  "BOK base rate, year-end": {
+    "ko": "한국은행 기준금리, 연말",
+    "pt": "Taxa básica do BOK, fim de ano",
+    "zh-Hans": "韩国银行基准利率，年末"
+  },
+  "BOK household credit, year-end": {
+    "ko": "한국은행 가계신용, 연말",
+    "pt": "Crédito às famílias do BOK, fim de ano",
+    "zh-Hans": "韩国银行住户信贷，年末"
+  },
+  "Bank of Korea, end of period": {
+    "ko": "한국은행, 기말",
+    "pt": "Banco da Coreia, fim de período",
+    "zh-Hans": "韩国银行，期末"
+  },
+  "Before transfers (market income)": {
+    "ko": "이전소득 전(시장소득)",
+    "pt": "Antes das transferências (renda de mercado)",
+    "zh-Hans": "转移支付前（市场收入）"
+  },
+  "Below US$8.30 a day (World Bank)": {
+    "ko": "하루 8.30달러 미만(세계은행)",
+    "pt": "Abaixo de US$8,30 por dia (Banco Mundial)",
+    "zh-Hans": "每日低于8.30美元（世界银行）"
+  },
+  "Below half the median income (national)": {
+    "ko": "중위소득 50% 미만(국내 기준)",
+    "pt": "Abaixo de metade da renda mediana (nacional)",
+    "zh-Hans": "低于收入中位数的一半（全国口径）"
+  },
+  "Births per 1,000": {
+    "ko": "인구 1천 명당 출생",
+    "pt": "Nascimentos por 1.000",
+    "zh-Hans": "每千人出生人数"
+  },
+  "Businesses": {
+    "ko": "기업",
+    "pt": "Empresas",
+    "zh-Hans": "企业"
+  },
+  "COVID-19": {
+    "ko": "코로나19",
+    "pt": "COVID-19",
+    "zh-Hans": "新冠疫情"
+  },
+  "COVID-19 deaths, underlying cause": {
+    "ko": "코로나19 사망(원사인 기준)",
+    "pt": "Mortes por COVID-19, causa básica",
+    "zh-Hans": "新冠死亡，根本死因口径"
+  },
+  "CPI inflation": {
+    "ko": "소비자물가 상승률",
+    "pt": "Inflação (IPC)",
+    "zh-Hans": "居民消费价格通胀"
+  },
+  "CPI, % change on a year earlier": {
+    "ko": "소비자물가, 전년 대비 %",
+    "pt": "IPC, variação % sobre o ano anterior",
+    "zh-Hans": "居民消费价格指数，同比变动率（%）"
+  },
+  "Cancer": {
+    "ko": "암",
+    "pt": "Câncer",
+    "zh-Hans": "癌症"
+  },
+  "Car parts": {
+    "ko": "자동차 부품",
+    "pt": "Autopeças",
+    "zh-Hans": "汽车零部件"
+  },
+  "Cars": {
+    "ko": "자동차",
+    "pt": "Automóveis",
+    "zh-Hans": "汽车"
+  },
+  "China": {
+    "ko": "중국",
+    "pt": "China",
+    "zh-Hans": "中国"
+  },
+  "China: {}% at the {} peak, {}% in {}": {
+    "ko": "중국: {1}년 정점 {0}%, {3}년 {2}%",
+    "pt": "China: {0}% no pico de {1}, {2}% em {3}",
+    "zh-Hans": "中国：峰值{}%（{}年），{}%（{}年）"
+  },
+  "Consumer price inflation": {
+    "ko": "소비자물가 상승률",
+    "pt": "Inflação ao consumidor",
+    "zh-Hans": "居民消费价格通胀率"
+  },
+  "Corruption Perceptions Index": {
+    "ko": "부패인식지수",
+    "pt": "Índice de Percepção da Corrupção",
+    "zh-Hans": "清廉指数"
+  },
+  "Crude birth and death rates": {
+    "ko": "조출생률과 조사망률",
+    "pt": "Taxas brutas de natalidade e mortalidade",
+    "zh-Hans": "粗出生率与粗死亡率"
+  },
+  "Crude death rate": {
+    "ko": "조사망률",
+    "pt": "Taxa bruta de mortalidade",
+    "zh-Hans": "粗死亡率"
+  },
+  "Currency against the US$": {
+    "ko": "달러 대비 원화",
+    "pt": "Câmbio contra o dólar",
+    "zh-Hans": "本币兑美元"
+  },
+  "D1, central and local government (MOEF)": {
+    "ko": "D1, 중앙·지방정부(기획재정부)",
+    "pt": "D1, governo central e local (MOEF)",
+    "zh-Hans": "D1，中央和地方政府（企划财政部）"
+  },
+  "Deaths from assault, Statistics Korea": {
+    "ko": "타살(가해) 사망, 통계청",
+    "pt": "Mortes por agressão, Statistics Korea",
+    "zh-Hans": "袭击致死人数，韩国统计厅"
+  },
+  "Deaths per 1,000": {
+    "ko": "인구 1천 명당 사망",
+    "pt": "Óbitos por 1.000",
+    "zh-Hans": "每千人死亡人数"
+  },
+  "Deaths per head rise because Korea is older; the pandemic sits on top of that.": {
+    "ko": "인구 대비 사망이 늘어나는 것은 한국이 늙었기 때문이다. 팬데믹은 그 위에 얹혔다.",
+    "pt": "As mortes por habitante sobem porque a Coreia está mais velha; a pandemia veio por cima disso.",
+    "zh-Hans": "人均死亡人数上升源于韩国人口老龄化；疫情在此基础上进一步推高死亡。"
+  },
+  "Defence and public order": {
+    "ko": "국방·공공질서",
+    "pt": "Defesa e ordem pública",
+    "zh-Hans": "国防与公共秩序"
+  },
+  "Economic affairs": {
+    "ko": "경제업무",
+    "pt": "Assuntos econômicos",
+    "zh-Hans": "经济事务"
+  },
+  "Education": {
+    "ko": "교육",
+    "pt": "Educação",
+    "zh-Hans": "教育"
+  },
+  "Excess deaths": {
+    "ko": "초과사망",
+    "pt": "Excesso de mortes",
+    "zh-Hans": "超额死亡"
+  },
+  "Expenditure, BOK national accounts": {
+    "ko": "총지출, 한국은행 국민계정",
+    "pt": "Despesa, contas nacionais do BOK",
+    "zh-Hans": "支出，韩国银行国民账户"
+  },
+  "Expenditure, IMF": {
+    "ko": "총지출, IMF",
+    "pt": "Despesa, FMI",
+    "zh-Hans": "支出，国际货币基金组织"
+  },
+  "Exports": {
+    "ko": "수출",
+    "pt": "Exportações",
+    "zh-Hans": "出口"
+  },
+  "Exports and imports": {
+    "ko": "수출과 수입",
+    "pt": "Exportações e importações",
+    "zh-Hans": "出口与进口"
+  },
+  "Exports and imports of goods and services against GDP, where the goods go, and what they are.": {
+    "ko": "GDP 대비 재화·서비스 수출입, 상품이 어디로 가는지, 무엇을 파는지.",
+    "pt": "Exportações e importações de bens e serviços contra o PIB, para onde vão os bens e o que são.",
+    "zh-Hans": "货物和服务进出口占GDP比重、出口目的地及出口产品构成。"
+  },
+  "Foreign Trade, 2006–2026": {
+    "ko": "대외무역, 2006–2026",
+    "pt": "Comércio Exterior, 2006–2026",
+    "zh-Hans": "对外贸易，2006–2026年"
+  },
+  "GDP at current prices": {
+    "ko": "명목 GDP",
+    "pt": "PIB a preços correntes",
+    "zh-Hans": "现价GDP"
+  },
+  "GDP per person": {
+    "ko": "1인당 GDP",
+    "pt": "PIB por pessoa",
+    "zh-Hans": "人均GDP"
+  },
+  "General government (IMF = Korea's D2)": {
+    "ko": "일반정부(IMF = 한국의 D2)",
+    "pt": "Governo geral (FMI = o D2 coreano)",
+    "zh-Hans": "广义政府（国际货币基金组织口径＝韩国D2）"
+  },
+  "General government GFCF (BOK national accounts)": {
+    "ko": "일반정부 총고정자본형성(한국은행 국민계정)",
+    "pt": "FBCF do governo geral (contas nacionais do BOK)",
+    "zh-Hans": "广义政府固定资本形成总额（韩国银行国民账户）"
+  },
+  "General government outlays by function, and the investment the economy and the state make.": {
+    "ko": "기능별 일반정부 지출, 그리고 경제 전체와 정부의 투자.",
+    "pt": "Gastos do governo geral por função, e o investimento da economia e do Estado.",
+    "zh-Hans": "按职能划分的广义政府支出，以及全社会与政府的投资。"
+  },
+  "General government revenue, spending, balance, debt and interest, all as a share of GDP.": {
+    "ko": "일반정부의 수입, 지출, 수지, 부채, 이자를 모두 GDP 대비로 본다.",
+    "pt": "Receita, despesa, resultado, dívida e juros do governo geral, tudo como proporção do PIB.",
+    "zh-Hans": "广义政府收入、支出、收支差额、债务和利息，均以GDP占比表示。"
+  },
+  "General government, gross (BOK national accounts)": {
+    "ko": "일반정부, 총액(한국은행 국민계정)",
+    "pt": "Governo geral, bruto (contas nacionais do BOK)",
+    "zh-Hans": "广义政府，支出总额（韩国银行国民账户）"
+  },
+  "General public services": {
+    "ko": "일반공공행정",
+    "pt": "Administração geral",
+    "zh-Hans": "一般公共服务"
+  },
+  "Gini, 0–100": {
+    "ko": "지니계수, 0–100",
+    "pt": "Gini, 0–100",
+    "zh-Hans": "基尼系数,0–100"
+  },
+  "Gross debt": {
+    "ko": "총부채",
+    "pt": "Dívida bruta",
+    "zh-Hans": "债务总额"
+  },
+  "Gross fixed capital formation (BOK)": {
+    "ko": "총고정자본형성(한국은행)",
+    "pt": "Formação bruta de capital fixo (BOK)",
+    "zh-Hans": "固定资本形成总额（韩国银行）"
+  },
+  "HDI, 0–1": {
+    "ko": "인간개발지수, 0–1",
+    "pt": "IDH, 0–1",
+    "zh-Hans": "人类发展指数,0–1"
+  },
+  "Health": {
+    "ko": "보건",
+    "pt": "Saúde",
+    "zh-Hans": "卫生"
+  },
+  "Heart disease": {
+    "ko": "심장 질환",
+    "pt": "Doenças do coração",
+    "zh-Hans": "心脏病"
+  },
+  "Homicide rate": {
+    "ko": "살인 사망률",
+    "pt": "Taxa de homicídios",
+    "zh-Hans": "他杀死亡率"
+  },
+  "Household Debt & the Price of Credit, 2006–2026": {
+    "ko": "가계부채와 신용의 가격, 2006–2026",
+    "pt": "Endividamento das Famílias e o Preço do Crédito, 2006–2026",
+    "zh-Hans": "住户债务与信贷成本，2006–2026年"
+  },
+  "Household Finance and Welfare Survey (2011–)": {
+    "ko": "가계금융복지조사(2011–)",
+    "pt": "Pesquisa de Finanças e Bem-Estar das Famílias (2011–)",
+    "zh-Hans": "家庭金融福利调查（2011年起）"
+  },
+  "Household Income and Expenditure Survey (–2016)": {
+    "ko": "가계동향조사(–2016)",
+    "pt": "Pesquisa de Renda e Despesa das Famílias (–2016)",
+    "zh-Hans": "家庭收支调查（截至2016年）"
+  },
+  "Household debt": {
+    "ko": "가계부채",
+    "pt": "Dívida das famílias",
+    "zh-Hans": "住户债务"
+  },
+  "Household lending rate vs policy rate": {
+    "ko": "가계 대출금리와 기준금리",
+    "pt": "Juro ao consumidor contra a taxa básica",
+    "zh-Hans": "住户贷款利率与政策利率"
+  },
+  "Households": {
+    "ko": "가계",
+    "pt": "Famílias",
+    "zh-Hans": "住户"
+  },
+  "Human Development Index": {
+    "ko": "인간개발지수",
+    "pt": "Índice de Desenvolvimento Humano",
+    "zh-Hans": "人类发展指数"
+  },
+  "Imports": {
+    "ko": "수입",
+    "pt": "Importações",
+    "zh-Hans": "进口"
+  },
+  "Income inequality, Gini": {
+    "ko": "소득 불평등, 지니계수",
+    "pt": "Desigualdade de renda, Gini",
+    "zh-Hans": "收入不平等，基尼系数"
+  },
+  "Interest and principal, % of disposable income (BIS)": {
+    "ko": "원리금, 가처분소득 대비 %(BIS)",
+    "pt": "Juros e amortização, % da renda disponível (BIS)",
+    "zh-Hans": "利息与本金，占可支配收入的百分比（国际清算银行）"
+  },
+  "Interest paid": {
+    "ko": "이자 지급",
+    "pt": "Juros pagos",
+    "zh-Hans": "利息支出"
+  },
+  "Investment rate, whole economy": {
+    "ko": "투자율, 경제 전체",
+    "pt": "Taxa de investimento, toda a economia",
+    "zh-Hans": "全社会投资率"
+  },
+  "Japan": {
+    "ko": "일본",
+    "pt": "Japão",
+    "zh-Hans": "日本"
+  },
+  "KOSPI in US$": {
+    "ko": "코스피(달러 환산)",
+    "pt": "KOSPI em US$",
+    "zh-Hans": "以美元计价的韩国综合股价指数"
+  },
+  "Korea Treasury Bond, 10 years": {
+    "ko": "국고채 10년물",
+    "pt": "Título do Tesouro coreano, 10 anos",
+    "zh-Hans": "韩国10年期国债"
+  },
+  "Korea in the World, 2006–2026": {
+    "ko": "세계 속의 한국, 2006–2026",
+    "pt": "A Coreia no Mundo, 2006–2026",
+    "zh-Hans": "世界中的韩国，2006–2026年"
+  },
+  "Korea's Demographic Transition, 2006–2026": {
+    "ko": "인구 전환, 2006–2026",
+    "pt": "A Transição Demográfica Coreana, 2006–2026",
+    "zh-Hans": "韩国的人口转型，2006–2026年"
+  },
+  "Korean households owe almost as much as the economy produces in a year.": {
+    "ko": "한국 가계의 빚은 이 나라가 1년 동안 생산하는 것과 맞먹는다.",
+    "pt": "As famílias coreanas devem quase tanto quanto a economia produz em um ano.",
+    "zh-Hans": "韩国住户债务几乎相当于全国一年的经济产出。"
+  },
+  "Labour force survey, 15+": {
+    "ko": "경제활동인구조사, 15세 이상",
+    "pt": "Pesquisa da força de trabalho, 15+",
+    "zh-Hans": "劳动力调查，15岁及以上"
+  },
+  "Lens: debt service, households": {
+    "ko": "한국의 시선: 가계 원리금 상환 부담",
+    "pt": "Lente: serviço da dívida das famílias",
+    "zh-Hans": "专题：住户偿债负担"
+  },
+  "Lens: poverty at 65 and over": {
+    "ko": "한국의 시선: 65세 이상 빈곤",
+    "pt": "Lente: pobreza aos 65 anos ou mais",
+    "zh-Hans": "专题：65岁及以上人口贫困率"
+  },
+  "Lens: the big killers": {
+    "ko": "한국의 시선: 주요 사망원인",
+    "pt": "Lente: as grandes causas de morte",
+    "zh-Hans": "专题：主要死因"
+  },
+  "Lens: what Korea exports, US$ bn": {
+    "ko": "한국의 시선: 무엇을 수출하나, 십억 달러",
+    "pt": "Lente: o que a Coreia exporta, US$ bi",
+    "zh-Hans": "专题：韩国出口产品，十亿美元"
+  },
+  "Lens: workplace accident deaths": {
+    "ko": "한국의 시선: 산업재해 사고사망",
+    "pt": "Lente: mortes por acidente de trabalho",
+    "zh-Hans": "专题：工伤事故死亡"
+  },
+  "Main equity index in US$": {
+    "ko": "대표 주가지수, 달러 기준",
+    "pt": "Principal índice de ações em US$",
+    "zh-Hans": "以美元计价的主要股指"
+  },
+  "Mid-year population, Statistics Korea": {
+    "ko": "연앙인구, 통계청",
+    "pt": "População no meio do ano, Statistics Korea",
+    "zh-Hans": "年中人口，韩国统计厅"
+  },
+  "Minimum wage": {
+    "ko": "최저임금",
+    "pt": "Salário mínimo",
+    "zh-Hans": "最低工资"
+  },
+  "Money & Markets, 2006–2026": {
+    "ko": "돈과 시장, 2006–2026",
+    "pt": "Dinheiro e Mercados, 2006–2026",
+    "zh-Hans": "货币与市场，2006–2026年"
+  },
+  "Mortality — the Pandemic and an Ageing Country, 2006–2026": {
+    "ko": "사망 — 팬데믹과 늙어가는 나라, 2006–2026",
+    "pt": "Mortalidade — a Pandemia e um País que Envelhece, 2006–2026",
+    "zh-Hans": "死亡——疫情与老龄化国家，2006–2026年"
+  },
+  "Natural increase and net migration": {
+    "ko": "자연증가와 순이동",
+    "pt": "Crescimento natural e migração líquida",
+    "zh-Hans": "自然增长与净迁移"
+  },
+  "Net international migration": {
+    "ko": "국제 순이동",
+    "pt": "Migração internacional líquida",
+    "zh-Hans": "国际净迁移"
+  },
+  "New mortgage loans": {
+    "ko": "주택담보대출(신규)",
+    "pt": "Novos financiamentos imobiliários",
+    "zh-Hans": "新增住房抵押贷款"
+  },
+  "New unsecured loans": {
+    "ko": "일반신용대출(신규)",
+    "pt": "Novos empréstimos sem garantia",
+    "zh-Hans": "新增无抵押贷款"
+  },
+  "Non-performing loans": {
+    "ko": "부실·연체 대출",
+    "pt": "Inadimplência",
+    "zh-Hans": "不良贷款"
+  },
+  "Official reserves": {
+    "ko": "외환보유액",
+    "pt": "Reservas internacionais",
+    "zh-Hans": "官方储备"
+  },
+  "One of the safest countries in the world from other people, and the most dangerous in the OECD from oneself.": {
+    "ko": "타인으로부터는 세계에서 가장 안전한 나라 중 하나, 자기 자신으로부터는 OECD에서 가장 위험한 나라.",
+    "pt": "Um dos países mais seguros do mundo em relação aos outros, e o mais perigoso da OCDE em relação a si mesmo.",
+    "zh-Hans": "就他人造成的伤害而言，韩国是全球最安全的国家之一；就自身伤害而言，却是经合组织中最危险的国家。"
+  },
+  "Other": {
+    "ko": "기타",
+    "pt": "Outros",
+    "zh-Hans": "其他"
+  },
+  "Overall and primary balance": {
+    "ko": "재정수지와 기초재정수지",
+    "pt": "Resultado nominal e primário",
+    "zh-Hans": "总体收支差额与基本收支差额"
+  },
+  "People — Inequality, Poverty & Wages, 2006–2026": {
+    "ko": "사람 — 불평등, 빈곤, 임금, 2006–2026",
+    "pt": "Pessoas — Desigualdade, Pobreza e Salários, 2006–2026",
+    "zh-Hans": "民生——不平等、贫困与工资，2006–2026年"
+  },
+  "Per 100,000 workers insured against industrial accidents": {
+    "ko": "산재보험 적용 근로자 10만 명당",
+    "pt": "Por 100 mil trabalhadores com seguro contra acidentes",
+    "zh-Hans": "每10万名工伤保险参保职工"
+  },
+  "Petrochemicals": {
+    "ko": "석유화학",
+    "pt": "Petroquímicos",
+    "zh-Hans": "石化产品"
+  },
+  "Petroleum products": {
+    "ko": "석유제품",
+    "pt": "Derivados de petróleo",
+    "zh-Hans": "石油产品"
+  },
+  "Phones & telecom gear": {
+    "ko": "휴대전화·통신기기",
+    "pt": "Telefones e equipamento de telecom",
+    "zh-Hans": "手机与通信设备"
+  },
+  "Pneumonia": {
+    "ko": "폐렴",
+    "pt": "Pneumonia",
+    "zh-Hans": "肺炎"
+  },
+  "Police count, death within 30 days": {
+    "ko": "경찰 집계, 사고 후 30일 내 사망",
+    "pt": "Contagem policial, morte em até 30 dias",
+    "zh-Hans": "警方统计，事故后30天内死亡"
+  },
+  "Policy rate vs inflation": {
+    "ko": "기준금리와 물가",
+    "pt": "Taxa básica contra inflação",
+    "zh-Hans": "政策利率与通胀率"
+  },
+  "Population": {
+    "ko": "인구",
+    "pt": "População",
+    "zh-Hans": "人口"
+  },
+  "Poverty rate": {
+    "ko": "빈곤율",
+    "pt": "Taxa de pobreza",
+    "zh-Hans": "贫困率"
+  },
+  "Primary balance, IMF": {
+    "ko": "기초재정수지, IMF",
+    "pt": "Resultado primário, FMI",
+    "zh-Hans": "基本收支差额，国际货币基金组织"
+  },
+  "Public Finances, 2006–2026": {
+    "ko": "재정, 2006–2026",
+    "pt": "Contas Públicas, 2006–2026",
+    "zh-Hans": "公共财政，2006–2026年"
+  },
+  "Public investment": {
+    "ko": "정부 투자",
+    "pt": "Investimento público",
+    "zh-Hans": "公共投资"
+  },
+  "Real GDP growth": {
+    "ko": "실질 GDP 성장률",
+    "pt": "Crescimento real do PIB",
+    "zh-Hans": "实际GDP增长率"
+  },
+  "Real growth, income per person, prices and jobs. The economy's size in dollars is in the world chapter.": {
+    "ko": "실질 성장, 1인당 소득, 물가, 일자리. 달러로 본 경제 규모는 '세계 속의 한국'에 있다.",
+    "pt": "Crescimento real, renda por pessoa, preços e emprego. O tamanho da economia em dólares está no capítulo sobre o mundo.",
+    "zh-Hans": "实际增长、人均收入、物价和就业。以美元计价的经济规模见国际比较章节。"
+  },
+  "Revenue and expenditure": {
+    "ko": "총수입과 총지출",
+    "pt": "Receita e despesa",
+    "zh-Hans": "收入与支出"
+  },
+  "Revenue, BOK national accounts": {
+    "ko": "총수입, 한국은행 국민계정",
+    "pt": "Receita, contas nacionais do BOK",
+    "zh-Hans": "收入，韩国银行国民账户"
+  },
+  "Revenue, IMF": {
+    "ko": "총수입, IMF",
+    "pt": "Receita, FMI",
+    "zh-Hans": "收入，国际货币基金组织"
+  },
+  "Road traffic deaths": {
+    "ko": "도로교통사고 사망",
+    "pt": "Mortes no trânsito",
+    "zh-Hans": "道路交通死亡"
+  },
+  "S&P 500": {
+    "ko": "S&P 500",
+    "pt": "S&P 500",
+    "zh-Hans": "标普500"
+  },
+  "Safety — Homicide, Suicide, Roads & Work, 2006–2026": {
+    "ko": "안전 — 살인, 자살, 교통사고, 산업재해, 2006–2026",
+    "pt": "Segurança — Homicídio, Suicídio, Trânsito e Trabalho, 2006–2026",
+    "zh-Hans": "安全——他杀、自杀、道路与工作场所，2006–2026年"
+  },
+  "Semiconductors": {
+    "ko": "반도체",
+    "pt": "Semicondutores",
+    "zh-Hans": "半导体"
+  },
+  "Ships": {
+    "ko": "선박",
+    "pt": "Embarcações",
+    "zh-Hans": "船舶"
+  },
+  "Social protection": {
+    "ko": "사회보호",
+    "pt": "Proteção social",
+    "zh-Hans": "社会保护"
+  },
+  "Social protection vs everything else": {
+    "ko": "사회보호 대 나머지 전부",
+    "pt": "Proteção social contra todo o resto",
+    "zh-Hans": "社会保护与其余支出"
+  },
+  "Sources: BIS total credit and debt service statistics · Bank of Korea ECOS": {
+    "ko": "출처: 국제결제은행(BIS) 총신용·부채상환비율 통계 · 한국은행 ECOS",
+    "pt": "Fontes: BIS, estatísticas de crédito total e de serviço da dívida · Banco da Coreia, ECOS",
+    "zh-Hans": "来源：国际清算银行总信贷及偿债统计 · 韩国银行ECOS"
+  },
+  "Sources: Bank of Korea ECOS (national accounts) · Statistics Korea (CPI, labour force survey) · World Bank": {
+    "ko": "출처: 한국은행 ECOS(국민계정) · 통계청(소비자물가, 경제활동인구조사) · 세계은행",
+    "pt": "Fontes: Banco da Coreia, ECOS (contas nacionais) · Statistics Korea (IPC, pesquisa da força de trabalho) · Banco Mundial",
+    "zh-Hans": "来源：韩国银行ECOS（国民账户）· 韩国统计厅（居民消费价格指数、劳动力调查）· 世界银行"
+  },
+  "Sources: Bank of Korea ECOS · KRX and S&P DJI via Yahoo Finance (not official)": {
+    "ko": "출처: 한국은행 ECOS · 한국거래소, S&P DJI(야후 파이낸스 경유, 공식 통계 아님)",
+    "pt": "Fontes: Banco da Coreia, ECOS · KRX e S&P DJI via Yahoo Finance (não oficial)",
+    "zh-Hans": "来源：韩国银行ECOS · 韩国交易所及标普道琼斯指数，经由Yahoo Finance获取（非官方来源）"
+  },
+  "Sources: Bank of Korea ECOS — general government by COFOG function, national accounts · World Bank (R&D)": {
+    "ko": "출처: 한국은행 ECOS — 일반정부 기능별(COFOG) 지출, 국민계정 · 세계은행(연구개발비)",
+    "pt": "Fontes: Banco da Coreia, ECOS — governo geral por função COFOG, contas nacionais · Banco Mundial (P&D)",
+    "zh-Hans": "来源：韩国银行ECOS——按政府职能分类的广义政府支出、国民账户 · 世界银行（研发）"
+  },
+  "Sources: IMF World Economic Outlook and Fiscal Monitor · Bank of Korea ECOS (SNA) · MOEF / e-National Indicators (D1)": {
+    "ko": "출처: IMF 세계경제전망·재정모니터 · 한국은행 ECOS(국민계정) · 기획재정부 / e-나라지표(D1)",
+    "pt": "Fontes: FMI, World Economic Outlook e Fiscal Monitor · Banco da Coreia, ECOS (contas nacionais) · Ministério da Economia e Finanças / e-National Indicators (D1)",
+    "zh-Hans": "来源：国际货币基金组织《世界经济展望》及《财政监测报告》· 韩国银行ECOS（国民账户体系）· 企划财政部／国家指标网站（D1）"
+  },
+  "Sources: Statistics Korea (Causes of Death) · National Police Agency · MOEL via e-National Indicators · UNODC and WHO via the World Bank": {
+    "ko": "출처: 통계청(사망원인통계) · 경찰청 · 고용노동부(e-나라지표) · UNODC·WHO(세계은행 경유)",
+    "pt": "Fontes: Statistics Korea (causas de morte) · Agência Nacional de Polícia · Ministério do Emprego e Trabalho, via e-National Indicators · UNODC e OMS, via Banco Mundial",
+    "zh-Hans": "来源：韩国统计厅（死因）· 韩国警察厅 · 雇佣劳动部，经由国家指标网站获取 · 联合国毒品和犯罪问题办公室及世界卫生组织，经由世界银行获取"
+  },
+  "Sources: Statistics Korea (vital statistics, international migration, population projections) via e-National Indicators and Bank of Korea ECOS": {
+    "ko": "출처: 통계청(인구동향, 국제인구이동, 장래인구추계), e-나라지표와 한국은행 ECOS 경유",
+    "pt": "Fontes: Statistics Korea (estatísticas vitais, migração internacional, projeções populacionais), via e-National Indicators e Banco da Coreia ECOS",
+    "zh-Hans": "来源：韩国统计厅（人口动态、国际迁移、人口预测），经由国家指标网站及韩国银行ECOS获取"
+  },
+  "Sources: Statistics Korea via e-National Indicators · Minimum Wage Commission · Bank of Korea ECOS · World Bank": {
+    "ko": "출처: 통계청(e-나라지표) · 최저임금위원회 · 한국은행 ECOS · 세계은행",
+    "pt": "Fontes: Statistics Korea, via e-National Indicators · Comissão do Salário Mínimo · Banco da Coreia, ECOS · Banco Mundial",
+    "zh-Hans": "来源：韩国统计厅，经由国家指标网站获取 · 最低工资委员会 · 韩国银行ECOS · 世界银行"
+  },
+  "Sources: Statistics Korea — Causes of Death and Birth and Death Statistics, via e-National Indicators": {
+    "ko": "출처: 통계청 — 사망원인통계, 출생·사망통계(e-나라지표)",
+    "pt": "Fontes: Statistics Korea — causas de morte e estatísticas de nascimentos e óbitos, via e-National Indicators",
+    "zh-Hans": "来源：韩国统计厅——死因及出生死亡统计，经由国家指标网站获取"
+  },
+  "Sources: World Bank (national accounts) · Korea Customs Service via Bank of Korea ECOS · UN Comtrade (HS headings)": {
+    "ko": "출처: 세계은행(국민계정) · 관세청(한국은행 ECOS 경유) · UN Comtrade(HS 품목)",
+    "pt": "Fontes: Banco Mundial (contas nacionais) · Serviço Aduaneiro da Coreia, via Banco da Coreia ECOS · UN Comtrade (posições SH)",
+    "zh-Hans": "来源：世界银行（国民账户）· 韩国关税厅，经由韩国银行ECOS获取 · 联合国商品贸易数据库（HS税目）"
+  },
+  "Sources: World Bank · UNDP · Transparency International · Bank of Korea ECOS": {
+    "ko": "출처: 세계은행 · 유엔개발계획(UNDP) · 국제투명성기구 · 한국은행 ECOS",
+    "pt": "Fontes: Banco Mundial · PNUD · Transparência Internacional · Banco da Coreia, ECOS",
+    "zh-Hans": "来源：世界银行 · 联合国开发计划署 · 透明国际 · 韩国银行ECOS"
+  },
+  "Spending by function, stacked": {
+    "ko": "기능별 지출(누적)",
+    "pt": "Gasto por função, empilhado",
+    "zh-Hans": "按职能划分的支出，堆叠图"
+  },
+  "Statistics Korea": {
+    "ko": "통계청",
+    "pt": "Statistics Korea",
+    "zh-Hans": "韩国统计厅"
+  },
+  "Statistics Korea, crude": {
+    "ko": "통계청, 조사망률 기준",
+    "pt": "Statistics Korea, taxa bruta",
+    "zh-Hans": "韩国统计厅，粗率"
+  },
+  "Steel": {
+    "ko": "철강",
+    "pt": "Aço",
+    "zh-Hans": "钢铁"
+  },
+  "Stroke": {
+    "ko": "뇌혈관 질환",
+    "pt": "AVC",
+    "zh-Hans": "脑卒中"
+  },
+  "Suicide rate": {
+    "ko": "자살률",
+    "pt": "Taxa de suicídio",
+    "zh-Hans": "自杀率"
+  },
+  "THAAD: China retaliates": {
+    "ko": "사드: 중국의 보복",
+    "pt": "THAAD: a retaliação chinesa",
+    "zh-Hans": "萨德：中国采取反制措施"
+  },
+  "The Korean Economy, 2006–2026": {
+    "ko": "한국 경제, 2006–2026",
+    "pt": "A Economia Coreana, 2006–2026",
+    "zh-Hans": "韩国经济，2006–2026年"
+  },
+  "The base rate, the ten-year yield, the won and the KOSPI, the last two against the US dollar.": {
+    "ko": "기준금리, 10년물 국고채 금리, 원화, 코스피. 뒤의 둘은 달러로 환산했다.",
+    "pt": "A taxa básica, o juro de dez anos, o won e o KOSPI, os dois últimos contra o dólar.",
+    "zh-Hans": "基准利率、10年期国债收益率、韩元和韩国综合股价指数；后两项以美元为基准。"
+  },
+  "The peak has passed: the lowest fertility on record, and more deaths than births since 2020.": {
+    "ko": "정점은 지났다. 역대 가장 낮은 출산율, 그리고 2020년부터 출생아보다 많은 사망자.",
+    "pt": "O pico já passou: a menor fecundidade já registrada, e mais mortes que nascimentos desde 2020.",
+    "zh-Hans": "人口峰值已过：创纪录的低生育率，2020年起死亡人数超过出生人数。"
+  },
+  "The size of the economy in dollars, human development, perceived integrity and the reserves.": {
+    "ko": "달러로 본 경제 규모, 인간개발, 청렴도 인식, 외환보유액.",
+    "pt": "O tamanho da economia em dólares, o desenvolvimento humano, a integridade percebida e as reservas.",
+    "zh-Hans": "以美元计价的经济规模、人类发展、清廉程度与储备。"
+  },
+  "Top export destinations": {
+    "ko": "주요 수출 상대국",
+    "pt": "Principais destinos das exportações",
+    "zh-Hans": "主要出口目的地"
+  },
+  "Total fertility rate": {
+    "ko": "합계출산율",
+    "pt": "Taxa de fecundidade total",
+    "zh-Hans": "总和生育率"
+  },
+  "Trade balance": {
+    "ko": "무역수지",
+    "pt": "Saldo comercial",
+    "zh-Hans": "贸易差额"
+  },
+  "UNDP": {
+    "ko": "UNDP",
+    "pt": "PNUD",
+    "zh-Hans": "联合国开发计划署"
+  },
+  "UNODC": {
+    "ko": "UNODC",
+    "pt": "UNODC",
+    "zh-Hans": "联合国毒品和犯罪问题办公室"
+  },
+  "US$ bn": {
+    "ko": "십억 달러",
+    "pt": "US$ bi",
+    "zh-Hans": "十亿美元"
+  },
+  "US$ per month": {
+    "ko": "월 달러",
+    "pt": "US$ por mês",
+    "zh-Hans": "每月美元"
+  },
+  "US$, current": {
+    "ko": "달러, 경상가격",
+    "pt": "US$ correntes",
+    "zh-Hans": "现价美元"
+  },
+  "Unemployment rate": {
+    "ko": "실업률",
+    "pt": "Taxa de desemprego",
+    "zh-Hans": "失业率"
+  },
+  "United States": {
+    "ko": "미국",
+    "pt": "Estados Unidos",
+    "zh-Hans": "美国"
+  },
+  "Vietnam": {
+    "ko": "베트남",
+    "pt": "Vietnã",
+    "zh-Hans": "越南"
+  },
+  "WHO estimate": {
+    "ko": "WHO 추정",
+    "pt": "Estimativa da OMS",
+    "zh-Hans": "世界卫生组织估计"
+  },
+  "Where the Money Goes, 2006–2026": {
+    "ko": "돈이 가는 곳, 2006–2026",
+    "pt": "Para Onde Vai o Dinheiro, 2006–2026",
+    "zh-Hans": "资金流向，2006–2026年"
+  },
+  "Won, annual average": {
+    "ko": "원화, 연평균",
+    "pt": "Won, média anual",
+    "zh-Hans": "韩元，年平均"
+  },
+  "World Bank": {
+    "ko": "세계은행",
+    "pt": "Banco Mundial",
+    "zh-Hans": "世界银行"
+  },
+  "World Bank, current US$": {
+    "ko": "세계은행, 경상 달러",
+    "pt": "Banco Mundial, US$ correntes",
+    "zh-Hans": "世界银行，现价美元"
+  },
+  "aged {} and over: {}% in {}": {
+    "ko": "65세 이상: {2}년 {1}%",
+    "pt": "65 anos ou mais: {1}% em {2}",
+    "zh-Hans": "{}岁及以上：{}%（{}年）"
+  },
+  "an older population, not a sicker one: crude, not age-adjusted": {
+    "ko": "더 아픈 게 아니라 더 늙었다: 연령 표준화하지 않은 조사망률",
+    "pt": "uma população mais velha, não mais doente: taxa bruta, sem ajuste por idade",
+    "zh-Hans": "人口老龄化，而非健康恶化：粗率，未经年龄调整"
+  },
+  "bank lending rates on new loans, annual average": {
+    "ko": "예금은행 신규취급액 기준 대출금리, 연평균",
+    "pt": "juros bancários de novos empréstimos, média anual",
+    "zh-Hans": "银行新增贷款利率，年平均"
+  },
+  "bank loans overdue a month or more (delinquency rate)": {
+    "ko": "1개월 이상 연체된 은행 대출(연체율)",
+    "pt": "empréstimos bancários com mais de um mês de atraso (inadimplência)",
+    "zh-Hans": "银行贷款逾期一个月及以上（逾期率）"
+  },
+  "bars: births minus deaths, -{} per {} in {}": {
+    "ko": "막대: 출생에서 사망을 뺀 값, {2}년 인구 1천 명당 -{0}명",
+    "pt": "barras: nascimentos menos óbitos, -{0} por 1.000 em {2}",
+    "zh-Hans": "柱形：出生减死亡，-{}／每{}人（{}年）"
+  },
+  "bars: overall balance, IMF; paler bars before {}: Bank of Korea": {
+    "ko": "막대: 재정수지(IMF), {0}년 이전의 옅은 막대는 한국은행",
+    "pt": "barras: resultado nominal, FMI; barras claras antes de {0}: Banco da Coreia",
+    "zh-Hans": "柱形：总体收支差额，国际货币基金组织；{}年以前浅色柱：韩国银行"
+  },
+  "before {}: the old 0–10 score ×10, a different method (paler)": {
+    "ko": "{0}년 이전: 옛 0–10점 척도에 10을 곱한 값, 산출 방식이 다르다(옅은 막대)",
+    "pt": "antes de {0}: a antiga nota de 0 a 10 ×10, outro método (barras claras)",
+    "zh-Hans": "{}年以前：旧版0–10分制乘以10，方法不同（浅色）"
+  },
+  "children per woman": {
+    "ko": "여성 1명당 출생아 수",
+    "pt": "filhos por mulher",
+    "zh-Hans": "每位女性的生育数"
+  },
+  "customs goods balance, {}: US${}bn": {
+    "ko": "통관 기준 상품수지, {0}년: {1}십억 달러",
+    "pt": "saldo de bens (aduana), {0}: US${1} bi",
+    "zh-Hans": "海关货物贸易差额，{}年：{}十亿美元"
+  },
+  "death certificates, not the KDCA surveillance count": {
+    "ko": "사망신고서 기준, 질병관리청 감시 집계와 다름",
+    "pt": "atestados de óbito, não a contagem de vigilância da KDCA",
+    "zh-Hans": "死亡证明口径，非韩国疾病管理厅监测统计"
+  },
+  "deaths overtake births in {}": {
+    "ko": "{0}년, 사망자가 출생아를 넘어섰다",
+    "pt": "os óbitos superam os nascimentos em {0}",
+    "zh-Hans": "{}年死亡人数超过出生人数"
+  },
+  "deaths vs the {}–{} average of {} a year": {
+    "ko": "{0}–{1}년 연평균 사망자 {2}명 대비",
+    "pt": "óbitos contra a média de {0}–{1}, de {2} por ano",
+    "zh-Hans": "死亡人数与{}–{}年年均{}人相比"
+  },
+  "disposable income; two surveys, never joined": {
+    "ko": "처분가능소득 기준, 두 조사는 잇지 않았다",
+    "pt": "renda disponível; duas pesquisas, nunca emendadas",
+    "zh-Hans": "可支配收入；两项调查，序列不拼接"
+  },
+  "general government; the IMF series starts in {}, the Bank of Korea's own covers the years before": {
+    "ko": "일반정부 기준. IMF 시계열은 {0}년부터이고, 그 이전은 한국은행 자체 통계다",
+    "pt": "governo geral; a série do FMI começa em {0}, a do Banco da Coreia cobre os anos anteriores",
+    "zh-Hans": "广义政府；国际货币基金组织序列始于{}年，此前采用韩国银行序列"
+  },
+  "generated from committed CSVs": {
+    "ko": "버전 관리되는 CSV에서 생성",
+    "pt": "gerado a partir de CSVs versionados",
+    "zh-Hans": "由已提交的 CSV 产生"
+  },
+  "global crisis": {
+    "ko": "세계 금융위기",
+    "pt": "crise global",
+    "zh-Hans": "全球金融危机"
+  },
+  "goods and services, national accounts (World Bank)": {
+    "ko": "재화와 서비스, 국민계정 기준(세계은행)",
+    "pt": "bens e serviços, contas nacionais (Banco Mundial)",
+    "zh-Hans": "货物和服务，国民账户（世界银行）"
+  },
+  "higher = cleaner": {
+    "ko": "높을수록 청렴",
+    "pt": "mais alto = mais limpo",
+    "zh-Hans": "越高＝越清廉"
+  },
+  "households peaked at {}% in {}": {
+    "ko": "가계 연체율은 {1}년 {0}%로 정점",
+    "pt": "as famílias chegaram ao pico de {0}% em {1}",
+    "zh-Hans": "住户债务峰值为{}%（{}年）"
+  },
+  "index 2006 = 100": {
+    "ko": "지수, 2006 = 100",
+    "pt": "índice 2006 = 100",
+    "zh-Hans": "指数,2006 = 100"
+  },
+  "index 2006 = 100, in US$": {
+    "ko": "지수, 2006 = 100, 달러 기준",
+    "pt": "índice 2006 = 100, em US$",
+    "zh-Hans": "指数,2006 = 100,以美元计"
+  },
+  "index 2006 = 100, up = stronger": {
+    "ko": "지수, 2006 = 100, 위로 갈수록 원화 강세",
+    "pt": "índice 2006 = 100, para cima = mais forte",
+    "zh-Hans": "指数,2006 = 100,向上代表更强"
+  },
+  "martial law": {
+    "ko": "비상계엄",
+    "pt": "lei marcial",
+    "zh-Hans": "戒严"
+  },
+  "net foreign assets: US${}bn in {}, a creditor since {}": {
+    "ko": "순대외금융자산: {1}년 {0}십억 달러, {2}년부터 순채권국",
+    "pt": "ativos externos líquidos: US${0} bi em {1}, credora desde {2}",
+    "zh-Hans": "净对外金融资产：{}十亿美元（{}年），{}年起为净债权国"
+  },
+  "net of interest received (IMF): {}% in {}; the pension fund earns most of it back": {
+    "ko": "이자 수입을 뺀 순이자(IMF): {1}년 {0}%, 대부분을 국민연금 기금이 벌어들인다",
+    "pt": "líquido dos juros recebidos (FMI): {0}% em {1}; o fundo de pensão recupera quase tudo",
+    "zh-Hans": "扣除利息收入后（国际货币基金组织）：{}%（{}年）；养老基金收回了大部分利息"
+  },
+  "never outside {}–{}% in {}–{}": {
+    "ko": "{2}–{3}년 내내 {0}–{1}% 범위",
+    "pt": "nunca fora de {0}–{1}% em {2}–{3}",
+    "zh-Hans": "始终处于{}–{}%之间（{}–{}年）"
+  },
+  "of which R&D, all sectors: {}% of GDP in {}, second only to Israel": {
+    "ko": "그중 연구개발비(전 부문): {1}년 GDP의 {0}%, 이스라엘 다음으로 높다",
+    "pt": "dos quais P&D, todos os setores: {0}% do PIB em {1}, atrás só de Israel",
+    "zh-Hans": "其中全行业研发：占GDP的{}%（{}年），仅次于以色列"
+  },
+  "peak {}: {} mn; the {} projection has {} mn by {}": {
+    "ko": "정점 {0}년 {1}백만 명, {2}년 장래인구추계는 {4}년 {3}백만 명",
+    "pt": "pico em {0}: {1} mi; a projeção de {2} prevê {3} mi em {4}",
+    "zh-Hans": "峰值{}年：{}百万人；{}年预测：{}百万人（{}年）"
+  },
+  "per 1,000 people": {
+    "ko": "인구 1천 명당",
+    "pt": "por 1.000 pessoas",
+    "zh-Hans": "每一千人"
+  },
+  "per 100,000": {
+    "ko": "인구 10만 명당",
+    "pt": "por 100 mil",
+    "zh-Hans": "每十万人"
+  },
+  "per 100,000 insured workers": {
+    "ko": "산재보험 적용 근로자 10만 명당",
+    "pt": "por 100 mil trabalhadores segurados",
+    "zh-Hans": "每10万名参保职工"
+  },
+  "pneumonia: {} to {}, an ageing country's cause": {
+    "ko": "폐렴: {0} → {1}, 늙어가는 나라의 사인",
+    "pt": "pneumonia: de {0} para {1}, uma causa de país que envelhece",
+    "zh-Hans": "肺炎：从{}升至{}，老龄化国家的死因"
+  },
+  "scale extended": {
+    "ko": "축 범위 확장",
+    "pt": "escala ampliada",
+    "zh-Hans": "刻度已延伸"
+  },
+  "score, 0–100": {
+    "ko": "점수, 0–100",
+    "pt": "pontuação, 0–100",
+    "zh-Hans": "分数,0–100"
+  },
+  "semiconductors, {}: US${}bn": {
+    "ko": "반도체, {0}년: {1}십억 달러",
+    "pt": "semicondutores, {0}: US${1} bi",
+    "zh-Hans": "半导体，{}年：{}十亿美元"
+  },
+  "snapshot years; HS headings, UN Comtrade": {
+    "ko": "기준연도별 비교, HS 품목(UN Comtrade)",
+    "pt": "anos de referência; posições SH, UN Comtrade",
+    "zh-Hans": "选定年份；HS税目，联合国商品贸易数据库"
+  },
+  "social protection {}–{}: {}% to {}% of GDP": {
+    "ko": "사회보호 {0}–{1}년: GDP의 {2}% → {3}%",
+    "pt": "proteção social {0}–{1}: de {2}% para {3}% do PIB",
+    "zh-Hans": "社会保护，{}–{}年：从GDP的{}%升至{}%"
+  },
+  "tax revenue alone: {}% of GDP at its {} peak": {
+    "ko": "조세수입만으로는 {1}년 정점에서 GDP의 {0}%",
+    "pt": "só a receita tributária: {0}% do PIB no pico de {1}",
+    "zh-Hans": "仅税收收入：峰值占GDP的{}%（{}年）"
+  },
+  "the OECD's highest rate": {
+    "ko": "OECD 최고 수준",
+    "pt": "a taxa mais alta da OCDE",
+    "zh-Hans": "经合组织最高水平"
+  },
+  "the count includes occupational disease, the rate accidents only": {
+    "ko": "사망자 수에는 업무상 질병이 포함되고, 비율은 사고만 센다",
+    "pt": "a contagem inclui doença ocupacional; a taxa, só acidentes",
+    "zh-Hans": "人数包括职业病，死亡率仅计事故"
+  },
+  "the dips in 2009 and 2022 are the won, not output": {
+    "ko": "2009년과 2022년의 하락은 생산이 아니라 환율 때문",
+    "pt": "as quedas de 2009 e 2022 são o câmbio, não a produção",
+    "zh-Hans": "2009年和2022年的回落源于韩元汇率，而非产出"
+  },
+  "the gap is what pensions and benefits do": {
+    "ko": "이 격차가 연금과 급여의 효과다",
+    "pt": "a diferença é o efeito das aposentadorias e benefícios",
+    "zh-Hans": "两者之差体现养老金和福利的作用"
+  },
+  "the rate fell by more than half; deaths did not: {} in {}, {} in {}": {
+    "ko": "비율은 절반 넘게 줄었지만 사망자는 아니다: {1}년 {0}명, {3}년 {2}명",
+    "pt": "a taxa caiu mais da metade; as mortes, não: {0} em {1}, {2} em {3}",
+    "zh-Hans": "死亡率下降超过一半，死亡人数却未减少：{}人（{}年），{}人（{}年）"
+  },
+  "year-end close in won, {}: {}": {
+    "ko": "원화 기준 연말 종가, {0}년: {1}",
+    "pt": "fechamento em wons, {0}: {1}",
+    "zh-Hans": "以韩元计价的年末收盘值，{}年：{}"
+  },
+  "{}: -{}%, the only contraction": {
+    "ko": "{0}년: -{1}%, 유일한 역성장",
+    "pt": "{0}: -{1}%, a única contração",
+    "zh-Hans": "{}年：-{}%，唯一的负增长"
+  },
+  "{}: borders closed, -{}": {
+    "ko": "{0}년: 국경 봉쇄, -{1}",
+    "pt": "{0}: fronteiras fechadas, -{1}",
+    "zh-Hans": "{}年：边境关闭，-{}"
+  },
+  "{}: {} ({} deaths)": {
+    "ko": "{0}년: {1}(사망자 {2}명)",
+    "pt": "{0}: {1} ({2} mortes)",
+    "zh-Hans": "{}年：{}（死亡{}人）"
+  },
+  "{}: {} per {}k, {} deaths": {
+    "ko": "{0}년: 10만 명당 {1}명, 사망자 {3}명",
+    "pt": "{0}: {1} por 100 mil, {3} mortes",
+    "zh-Hans": "{}年：{}人／每{}千人，死亡{}人"
+  },
+  "{}: {} to {}: {}": {
+    "ko": "{0}년 {1} → {2}년 {3}",
+    "pt": "{0}: {1} → {2}: {3}",
+    "zh-Hans": "{}年：{}至{}年：{}"
+  },
+  "{}: {}% to {}: {}%": {
+    "ko": "{0}년 {1}% → {2}년 {3}%",
+    "pt": "{0}: {1}% → {2}: {3}%",
+    "zh-Hans": "{}年：{}%至{}年：{}%"
+  },
+  "{}: {}%, slower only in {} and {}": {
+    "ko": "{0}년: {1}%, 이보다 낮았던 해는 {2}년과 {3}년뿐",
+    "pt": "{0}: {1}%, mais lento só em {2} e {3}",
+    "zh-Hans": "{}年：{}%，仅{}年和{}年更低"
+  },
+  "{}: {}%, the energy bill": {
+    "ko": "{0}년: {1}%, 에너지 수입 부담",
+    "pt": "{0}: {1}%, a conta de energia",
+    "zh-Hans": "{}年：{}%，能源进口负担"
+  },
+  "{}: {}%, the floor so far": {
+    "ko": "{0}년: {1}%, 지금까지의 최저",
+    "pt": "{0}: {1}%, o piso até agora",
+    "zh-Hans": "{}年：{}%，迄今最低"
+  },
+  "{}: {}%, the low": {
+    "ko": "{0}년: {1}%, 최저",
+    "pt": "{0}: {1}%, a mínima",
+    "zh-Hans": "{}年：{}%，最低点"
+  },
+  "{}: {}%, the stimulus year": {
+    "ko": "{0}년: {1}%, 경기부양의 해",
+    "pt": "{0}: {1}%, o ano do estímulo",
+    "zh-Hans": "{}年：{}%，经济刺激之年"
+  },
+  "{}: {}, the peak": {
+    "ko": "{0}년: {1}, 정점",
+    "pt": "{0}: {1}, o pico",
+    "zh-Hans": "{}年：{}，峰值"
+  },
+  "{}: {}, the world's lowest": {
+    "ko": "{0}년: {1}, 세계 최저",
+    "pt": "{0}: {1}, a menor do mundo",
+    "zh-Hans": "{}年：{}，全球最低"
+  },
+  "{}: ₩{} an hour": {
+    "ko": "{0}년: 시간당 {1}원",
+    "pt": "{0}: ₩{1} por hora",
+    "zh-Hans": "{}年：每小时₩{}"
+  },
+  "{}: ₩{} an hour = ₩{} a month": {
+    "ko": "{0}년: 시간당 {1}원 = 월 {2}원",
+    "pt": "{0}: ₩{1} por hora = ₩{2} por mês",
+    "zh-Hans": "{}年：每小时₩{}＝每月₩{}"
+  },
+  "{}: ₩{} per US$, against ₩{} in {}": {
+    "ko": "{0}년: 달러당 {1}원, {3}년에는 {2}원",
+    "pt": "{0}: ₩{1} por US$, contra ₩{2} em {3}",
+    "zh-Hans": "{}年：每美元₩{}，{}年为₩{}"
+  },
+  "₩{}tn in won": {
+    "ko": "원화로 {0}조 원",
+    "pt": "₩{0} tri em wons",
+    "zh-Hans": "以韩元计为₩{}万亿"
+  },
+  "₩{}tn owed at the end of {}": {
+    "ko": "{1}년 말 잔액 {0}조 원",
+    "pt": "₩{0} tri devidos no fim de {1}",
+    "zh-Hans": "{}年末债务₩{}万亿"
+  }
 }

@@ -34,5 +34,17 @@
   "unavailable": [
    "Não foi encontrada, nas fontes oficiais examinadas, uma série de população nascida no exterior com definição verificada. A prancha de migração mostra, portanto, a parcela de cidadãos estrangeiros residentes do censo de registros e identifica explicitamente o recorte por cidadania; cidadania e local de nascimento não são intercambiáveis."
   ]
+ },
+ "zh-Hans": {
+  "line": "仅以官方数据编制的韩国信息图谱。",
+  "dek": "十二幅图表涵盖韩国经济、政府、公共支出、贸易、市场、民生、国际地位、人口、安全、住户债务、死亡和迁移。每幅图均采用与本图谱其他国家相同的面板、单位和刻度，以便叠加比较。每个数字均来自计算该数字的机构，每幅图均由本仓库纳入版本管理的CSV生成；所有可能影响读者正确理解的限定条件均予以说明。",
+  "notes": [
+   "data/目录中的CSV是数据依据。采集程序通过各机构自身的机器可读服务更新这些文件；图表是可用一条命令重新生成的构建产物。若官方数据在观察期内变更口径——如调查不同的基尼系数、定义不同的公共债务、收入概念不同的贫困率——各序列将分别保留，并注明断点，而非平滑拼接。发布机构未覆盖的年份保持空缺。",
+   "每个面板展示标题所述的指标，并采用坐标轴标明的单位。韩国公布比率时直接采用公布的比率；需要将人数换算为比率时，采用同年、同范围的人口作为分母。解释曲线的说明紧邻该曲线。不完整年份采用虚线绘制。"
+  ],
+  "colophon": [],
+  "unavailable": [
+   "在已审阅的官方来源中，未找到定义经过核实的境外出生人口序列。因此，迁移图表展示登记普查中的常住外国公民占比，并明确标注国籍口径；国籍与出生地不能互换。"
+  ]
  }
 }

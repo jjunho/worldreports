@@ -226,7 +226,8 @@ _UNITS.update({
         "/10万人", "ポイント"),
     "zh-Hans": _on_ladder(
         "zh-Hans", [(r"US\$", "美元", "美元"), ("CN¥|¥", "元", "元"),
-                    ("€", "欧元", "欧元")],
+                    ("€", "欧元", "欧元"), (r"R\$", "雷亚尔", "雷亚尔"),
+                    ("₩", "韩元", "韩元")],
         "/10万人", "个百分点"),
     "zh-Hant": _on_ladder(
         "zh-Hant", [(r"US\$", "美元", "美元"), (r"NT\$", "元", "元"),
@@ -249,6 +250,8 @@ _CURRENCY_SUFFIX = {
         (re.compile(r"^US\$\s*(.+)$"), r"\1 달러"),
         (re.compile(r"^₩\s*(.+)$"), r"\1 원"),
         (re.compile(r"^€\s*(.+)$"), r"\1 유로"),
+        (re.compile(r"^R\$\s*(.+)$"), r"\1 헤알"),
+        (re.compile(r"^(?:CN¥|¥)\s*(.+)$"), r"\1 위안"),
     ],
 }
 
@@ -515,7 +518,12 @@ class _LocalizedFormatter(mticker.Formatter):
         super().set_locs(locs)
 
     def __call__(self, x, pos=None):
-        return localize_numbers(self.inner(x, pos))
+        # `inner` regenerates the raw label on every draw, so a category
+        # tick (a partner name, a sector) would come back in English and
+        # undo the translation applied to its Text artist. Translate here
+        # as well as localize the number; value labels pass through
+        # `translate` unchanged.
+        return translate(localize_numbers(self.inner(x, pos)))
 
     def format_data(self, value):
         return localize_numbers(self.inner.format_data(value))

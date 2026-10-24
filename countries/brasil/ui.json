@@ -7,7 +7,9 @@
    "Two pairs of series are deliberately never spliced: homicides counted from death certificates (IPEA/SIM, by residence) against police records (FBSP, by occurrence); and the tax burden before and after its 2010 methodology change.",
    "The plates and this page are bilingual."
   ],
-  "unavailable": ["Gross immigration and emigration: the published IBGE components imply impossible negative emigration in 2020; the pair remains pending until the methodology is reconciled."],
+  "unavailable": [
+   "Gross immigration and emigration: the published IBGE components imply impossible negative emigration in 2020; the pair remains pending until the methodology is reconciled."
+  ],
   "colophon": [
    {
     "term": "National accounts, population, jobs",
@@ -43,7 +45,9 @@
    "Dois pares de séries nunca são emendados de propósito: homicídios contados por declaração de óbito (IPEA/SIM, por residência) contra registros policiais (FBSP, por ocorrência); e a carga tributária antes e depois da mudança metodológica de 2010.",
    "As pranchas e esta página são bilíngues."
   ],
-  "unavailable": ["Imigração e emigração brutas: os componentes publicados pelo IBGE implicam emigração negativa impossível em 2020; o par fica pendente até a compatibilidade metodológica ser resolvida."],
+  "unavailable": [
+   "Imigração e emigração brutas: os componentes publicados pelo IBGE implicam emigração negativa impossível em 2020; o par fica pendente até a compatibilidade metodológica ser resolvida."
+  ],
   "colophon": [
    {
     "term": "Contas nacionais, população, trabalho",
@@ -68,6 +72,82 @@
    {
     "term": "Comparações internacionais",
     "detail": "World Economic Forum, Transparency International, PNUD, Banco Mundial"
+   }
+  ]
+ },
+ "ko": {
+  "line": "공식 데이터 도판 12개, 2006–2026",
+  "dek": "모든 수치는 이를 발표하는 출처 — IBGE, Banco Central, Tesouro Nacional, MDIC, IPEA, FBSP — 에서 가져오며, 모든 도판은 버전 관리되는 CSV에서 다시 생성하므로 차트와 이 페이지의 수치가 어긋날 수 없습니다. 시계열 단절은 평활화하지 않고 주석으로 표시합니다.",
+  "notes": [
+   "2026년은 일부 기간만 포함합니다. 이 페이지의 연간 합계와 평균은 2025년까지이며, 부채 잔액·정책금리·종가처럼 실제로 현재 시점을 나타내는 수치는 <em>최신</em>으로 표시합니다.",
+   "두 쌍의 시계열은 의도적으로 연결하지 않습니다. 사망진단서 기반 살인 건수(IPEA/SIM, 거주지 기준)와 경찰기록(FBSP, 발생지 기준), 그리고 2010년 방법론 변경 전후의 조세부담입니다.",
+   "도판과 이 페이지는 네 언어로 제공됩니다."
+  ],
+  "unavailable": [
+   "총입국이주와 총출국이주: IBGE가 발표한 구성요소는 2020년에 불가능한 음의 출국이주를 시사합니다. 방법론이 조정될 때까지 두 지표는 보류합니다."
+  ],
+  "colophon": [
+   {
+    "term": "국민계정, 인구, 고용",
+    "detail": "IBGE — Contas Nacionais, PNAD Contínua, Projeções da População 2024"
+   },
+   {
+    "term": "물가, 금리, 환율, 외환보유액, 부채",
+    "detail": "Banco Central do Brasil — SGS"
+   },
+   {
+    "term": "예산, 지출, 기초재정수지",
+    "detail": "Tesouro Nacional; 조세부담은 Receita Federal"
+   },
+   {
+    "term": "대외무역",
+    "detail": "MDIC/SECEX — Balança Comercial, 통합 시계열"
+   },
+   {
+    "term": "살인과 폭력",
+    "detail": "IPEA — DATASUS/SIM 기반 Atlas da Violência; FBSP — Anuário 2026"
+   },
+   {
+    "term": "국제 비교",
+    "detail": "World Economic Forum, Transparency International, UNDP, World Bank"
+   }
+  ]
+ },
+ "zh-Hans": {
+  "line": "十二幅官方数据图版，2006–2026",
+  "dek": "每个数字均来自发布该数据的机构——IBGE、Banco Central、Tesouro Nacional、MDIC、IPEA、FBSP——每幅图版均由版本管理中的CSV重新生成，因此图表与本页数字不会脱节。序列发生断点时予以标注，而非平滑处理。",
+  "notes": [
+   "2026年尚未结束。本页年度总量与平均值截至2025年；真正反映当前时点的数据——债务存量、政策利率、收盘价——标为<em>最新</em>。",
+   "两组序列刻意不作拼接：死亡证明统计的凶杀（IPEA/SIM，按居住地）与警方记录（FBSP，按发生地）；以及2010年方法变更前后的税负。",
+   "图版与本页提供四种语言版本。"
+  ],
+  "unavailable": [
+   "迁入与迁出总量：IBGE公布的组成部分意味着2020年出现不可能的负迁出；方法协调前，两项指标仍待解决。"
+  ],
+  "colophon": [
+   {
+    "term": "国民账户、人口、就业",
+    "detail": "IBGE — Contas Nacionais、PNAD Contínua、Projeções da População 2024"
+   },
+   {
+    "term": "价格、利率、汇率、储备、债务",
+    "detail": "Banco Central do Brasil — SGS"
+   },
+   {
+    "term": "预算、支出、基本财政收支",
+    "detail": "Tesouro Nacional；税负数据来自Receita Federal"
+   },
+   {
+    "term": "贸易",
+    "detail": "MDIC/SECEX — Balança Comercial，整合序列"
+   },
+   {
+    "term": "凶杀与暴力",
+    "detail": "IPEA — 基于DATASUS/SIM的Atlas da Violência；FBSP — Anuário 2026"
+   },
+   {
+    "term": "国际比较",
+    "detail": "World Economic Forum、Transparency International、UNDP、World Bank"
    }
   ]
  }

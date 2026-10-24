@@ -42,7 +42,7 @@ from core.country import COUNTRIES_DIR, ROOT, Country
 
 SITE = ROOT / "site"
 ORIGIN = "https://worldreports.io"
-REPO = "https://github.com/akitaonrails/worldreports"
+REPO = "https://github.com/jjunho/worldreports"
 GOOGLE_ANALYTICS_ID = "G-7LKE9YHT74"
 
 # The thumbnails are rendered at this size; stating it in the markup lets the
@@ -880,7 +880,7 @@ def negotiator(country: Country, shared: dict, local: dict,
 
 
 def home(countries: list[Country], shared: dict, built: str) -> str:
-    """The front page: five flags and nothing to read before them.
+    """The front page: three flags and nothing to read before them.
 
     It is in English with each country named in its own language too, since
     there is no country yet to pick a language from, and every card links

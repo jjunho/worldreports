@@ -456,7 +456,7 @@ html[dir="rtl"] .colophon { text-align: right; }
 
 /* -------------------------------------------------- the country switch
 
-   Five countries is too many for a row of pills and too few to hide behind
+   Three countries is too many for a row of pills and too few to hide behind
    a search box, so the switcher is a details/summary menu: it is one
    control in the masthead, it works with the script off, and it never
    competes with the language pills beside it.
@@ -615,7 +615,7 @@ table.srctable { table-layout: fixed; width: 100%; }
 table.srctable th, table.srctable td { min-width: 0; vertical-align: top; }
 table.srctable code { overflow-wrap: anywhere; }
 
-/* five columns across the page */
+/* one column per country */
 .srctable--all col:nth-child(1) { width: 20%; }
 .srctable--all col:nth-child(2) { width: 32%; }
 .srctable--all col:nth-child(3) { width: 26%; }
@@ -666,7 +666,7 @@ table.srctable .is-other { color: var(--faint); }
 
 /* ------------------------------------------------------------- atlas
 
-   The front page: five flags and nothing to read before them. */
+   The front page: three flags and nothing to read before them. */
 .home {
   min-height: 100svh;
   display: flex; flex-direction: column;
@@ -684,7 +684,7 @@ table.srctable .is-other { color: var(--faint); }
   line-height: 1.5;
 }
 /* Unlike the plate grid, this one is not a hairline lattice: the atlas has
-   five countries today and will have more tomorrow, and a lattice drawn as
+   three countries today and may have more tomorrow, and a lattice drawn as
    a coloured background behind a one-pixel gap turns every incomplete last
    row into a bright empty rectangle. Bordered cards over a real gap end
    where the countries end, at any number of them. */
