@@ -101,10 +101,12 @@ name goes in the panel note.
 - UN DESA migrant stock exists only at five-year vintages (2010, 2015,
   2020, 2024) — a stepped line, not interpolated.
 - HDI is ONE vintage (HDR25) and ends 2023 (2024 not published for CHN).
-- Comtrade partner shares are a 2023 SNAPSHOT, kept in the country lens rather
-  than the canonical destination time-series slot; Comtrade's China report
-  carries no Taiwan partner code, and that attribution caveat rides in the CSV
-  header.
+- Comtrade partner shares are now a 2006–2025 time series in the canonical
+  destination slot (`trade_comtrade_partners.csv`), with the 2025 top eight in
+  the country lens. It is the harmonised cross-check, not GACC: the customs
+  machine layer is still 412-blocked, and the two are never spliced.
+  Comtrade's China report carries no Taiwan partner code, and that attribution
+  caveat rides in the CSV header.
 - No plate splices a harmonised line to a national one anywhere: there
   are no national lines yet to splice to.
 
@@ -112,11 +114,10 @@ name goes in the panel note.
 
 Slots whose only publisher is blocked or does not publish for China stay
 `ctx.pending` with the reason on the panel: COFOG spending functions,
-public investment, PBoC policy rate (LPR — a definitional break, two columns,
-never one), 10-year yield, comparable household lending rates, China's
+public investment, the 10-year yield, comparable household lending rates, China's
 national minimum wage (set by provinces — there is no single national
-statutory rate to plot), top export destinations as a time series, and
-China's covid-19 deaths (official counts stopped in 2023 and are not
+statutory rate to plot), and China's covid-19 deaths (official counts stopped in 2023 and are not
 comparable). The IMF Fiscal Monitor now fills the harmonised fiscal-flow
-slots, and BIS fills household credit plus the broader private-sector DSR;
-neither is relabelled as a Chinese national series.
+slots, BIS fills household credit plus the broader private-sector DSR, and
+BIS WS_CBPOL supplies the policy/lending rate as two regimes split at the
+2019 LPR reform; none is relabelled as a Chinese national series.

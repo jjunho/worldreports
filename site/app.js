@@ -1,4 +1,4 @@
-/* worldreports.io — the theme filter, the country menu and the plate viewer.
+/* Estatísticas Recentes — the theme filter, the country menu and the plate viewer.
 
    Every page is static HTML, one per country per language, so this script
    renders nothing: the cards, their figures, their numbers and their tables

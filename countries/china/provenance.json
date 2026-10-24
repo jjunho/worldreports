@@ -13,11 +13,13 @@
   "economy/gfcf_pct_gdp.csv"
  ],
  "04-trade": [
-  "trade/trade_comtrade_partner.csv",
+  "trade/trade_comtrade_partners.csv",
   "trade/trade_intl_openness.csv"
  ],
  "05-markets": [
+  "economy/inflation_intl.csv",
   "markets/fx_cny_per_usd.csv",
+  "markets/policy_rate.csv",
   "markets/spx_index.csv",
   "markets/sse_index.csv"
  ],

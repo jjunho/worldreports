@@ -160,15 +160,31 @@ def plate_trade(ctx, ig):
     ig.add_recessions(ax, label=False)
     _foot(p, ax, "Exports minus imports within one World Bank vintage")
 
-    rows = _rows(ctx, "trade/trade_comtrade_partner.csv")
-    exports = [r for r in rows if r["flow"] == "X" and r["partner"] != "World"]
-    exports.sort(key=lambda r: float(r["share_of_flow_pct"]), reverse=True)
+    rows = _rows(ctx, "trade/trade_comtrade_partners.csv")
+    shares = {}
+    for row in rows:
+        shares.setdefault(row["partner"], {})[int(row["year"])] = \
+            float(row["share_pct"])
     ax = ig.slot("trade.destinations", "Top export destinations (% of goods exports)")
-    _pending(ctx, ig, ax, "Only a 2023 partner snapshot is staged; the canonical slot requires a time series")
+    for name, colour in (
+            ("United States", p.RED),
+            ("China (Hong Kong SAR)", p.INK),
+            ("Viet Nam", p.GREEN),
+            ("Japan", p.BLUE),
+            ("Korea, Rep.", p.GOLD),
+            ("India", p.PURPLE)):
+        series = shares.get(name) or {}
+        years = sorted(series)
+        ctx.line(ax, years, [series[y] for y in years], colour, label=name)
+    _foot(p, ax, "UN Comtrade; China reporter, customs goods; GACC blocked")
+    ax.legend(loc="upper right", fontsize=7.1, frameon=False)
 
-    ax = ig.slot("trade.lens", "Lens — top export destinations, 2023 (% of goods exports)")
-    names = [r["partner"] for r in exports[:8]][::-1]
-    vals = [float(r["share_of_flow_pct"]) for r in exports[:8]][::-1]
+    latest = max(int(r["year"]) for r in rows)
+    top = sorted((r for r in rows if int(r["year"]) == latest),
+                 key=lambda r: float(r["share_pct"]), reverse=True)[:8][::-1]
+    ax = ig.slot("trade.lens", f"Lens — top export destinations, {latest} (% of goods exports)")
+    names = [r["partner"] for r in top]
+    vals = [float(r["share_pct"]) for r in top]
     ax.barh(names, vals, color=p.RED, alpha=0.88)
     for i, value in enumerate(vals):
         ax.text(value + max(vals) * 0.015, i, f"{value:.1f}%",
@@ -185,7 +201,19 @@ def plate_trade(ctx, ig):
 def plate_markets(ctx, ig):
     p = ctx.p
     ax = ig.slot("markets.policy_rate", "Policy rate vs inflation (%)")
-    _pending(ctx, ig, ax, "LPR begins in 2019; the prior benchmark rate is a separate regime")
+    rates = _rows(ctx, "markets/policy_rate.csv")
+    for column, colour, label in (
+            ("official_lending_1y", p.BLUE, "Official lending rate (1Y)"),
+            ("lpr_1y", p.RED, "LPR (1Y)")):
+        series = {int(r["year"]): float(r[column]) for r in rates
+                  if isinstance(r.get(column), (int, float))
+                  and r[column] == r[column]}
+        years = sorted(series)
+        ctx.line(ax, years, [series[y] for y in years], colour, label=label)
+    inf_y, inf_v = _yr(ctx, "economy/inflation_intl.csv", "wb_cpi_inflation_pct")
+    ctx.line(ax, inf_y, inf_v, p.GREEN, label="Inflation")
+    ax.legend(loc="upper right", fontsize=7.1, frameon=False)
+    _foot(p, ax, "BIS WS_CBPOL (PBoC); regimes split at 20 Aug 2019; inflation: World Bank CPI")
     ax = ig.slot("markets.bond_10y", "10-year government bond yield (%, annual average)")
     _pending(ctx, ig, ax, "No official yield series is staged")
     ax = ig.slot("markets.currency", "Renminbi against the US$ (index 2006 = 100, up = stronger)")

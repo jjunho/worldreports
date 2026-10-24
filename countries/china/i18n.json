@@ -913,5 +913,40 @@
   "pt": "BIS Q.CN.P; mais amplo que famílias e nunca rotulado como serviço da dívida familiar",
   "zh-Hans": "BIS Q.CN.P；範圍廣於住戶，絕不標作住戶償債率",
   "ko": "BIS Q.CN.P; 가계보다 넓은 범위이며 가계 DSR로 표기하지 않음"
+ },
+ "Lens — top export destinations, 2025 (% of goods exports)": {
+  "pt": "Lente — principais destinos das exportações, 2025 (% dos bens exportados)",
+  "zh-Hans": "视角——2025年主要出口目的地（占货物出口的%）",
+  "ko": "심층 보기 — 주요 수출 상대국, 2025년(상품 수출 대비 %)"
+ },
+ "UN Comtrade; China reporter, customs goods; GACC blocked": {
+  "pt": "UN Comtrade; China como declarante, bens aduaneiros; GACC bloqueado",
+  "zh-Hans": "联合国Comtrade；中国为报告方，海关货物口径；海关总署（GACC）受阻",
+  "ko": "UN Comtrade; 중국 보고, 통관 상품 기준; GACC 차단"
+ },
+ "Malaysia": {
+  "pt": "Malásia",
+  "zh-Hans": "马来西亚",
+  "ko": "말레이시아"
+ },
+ "Official lending rate (1Y)": {
+  "pt": "Taxa oficial de empréstimo (1 ano)",
+  "zh-Hans": "官方一年期贷款利率",
+  "ko": "공식 1년 대출금리"
+ },
+ "LPR (1Y)": {
+  "pt": "LPR (1 ano)",
+  "zh-Hans": "LPR（1年期）",
+  "ko": "LPR (1년)"
+ },
+ "BIS WS_CBPOL (PBoC); regimes split at 20 Aug 2019; inflation: World Bank CPI": {
+  "pt": "BIS WS_CBPOL (PBoC); regimes separados em 20/08/2019; inflação: IPC do Banco Mundial",
+  "zh-Hans": "BIS WS_CBPOL（中国人民银行）；制度于2019年8月20日分界；通胀：世界银行CPI",
+  "ko": "BIS WS_CBPOL (중국인민은행); 2019년 8월 20일 제도 분리; 물가: 세계은행 CPI"
+ },
+ "Inflation": {
+  "pt": "Inflação",
+  "zh-Hans": "通胀",
+  "ko": "물가상승률"
  }
 }

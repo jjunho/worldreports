@@ -1,14 +1,14 @@
-# worldreports.io
+# Estatísticas Recentes
 
 Plates of official statistics, one country at a time.
 
 Three atlases — Brazil, China and South Korea — built only from the numbers
 each country's own institutions publish. 36 plates, 12 country-language
-editions, 168 committed datasets, 2006 to 2026. Each country is published in
+editions, 172 committed datasets, 2006 to 2026. Each country is published in
 Portuguese, Korean, Simplified Chinese and English.
 
-This is a fork of **[worldreports.io](https://worldreports.io)** containing
-only Brazil, China and South Korea.
+This is a fork of **[worldreports.io](https://worldreports.io)**, renamed
+**Estatísticas Recentes**, containing only Brazil, China and South Korea.
 
 Every chart is regenerated from CSVs committed in this repository. Nothing
 reads an API at draw time, so a figure on a page and the file behind it

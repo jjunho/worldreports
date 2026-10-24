@@ -1,4 +1,4 @@
-# worldreports.io — the whole atlas, three countries in one tree.
+# Estatísticas Recentes — the whole atlas, three countries in one tree.
 #
 #   make                  the usual loop: render, thumbnail, build, test
 #   make C=france charts  one country's plates

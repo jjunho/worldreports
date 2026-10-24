@@ -44,6 +44,7 @@ SITE = ROOT / "site"
 ORIGIN = "https://worldreports.io"
 REPO = "https://github.com/jjunho/worldreports"
 GOOGLE_ANALYTICS_ID = "G-7LKE9YHT74"
+SITE_NAME = "Estatísticas Recentes"
 
 # The thumbnails are rendered at this size; stating it in the markup lets the
 # browser reserve the space before the image arrives, so the cards do not
@@ -216,8 +217,8 @@ def _jsonld(country: Country, ch: Chrome, datasets: list[dict]) -> str:
         "temporalCoverage": years,
         "spatialCoverage": country.seo.get("spatial") or ch.tx(country.name),
         "isAccessibleForFree": True,
-        "license": "https://github.com/akitaonrails/worldreports/blob/main/LICENSE",
-        "creator": {"@type": "Organization", "name": "worldreports.io",
+        "license": f"{REPO}/blob/main/LICENSE",
+        "creator": {"@type": "Organization", "name": SITE_NAME,
                     "url": ORIGIN},
         "distribution": [{
             "@type": "DataDownload",
@@ -768,7 +769,7 @@ def country_page(country: Country, locale: str, chapters: list[dict],
   <link rel="canonical" href="{ORIGIN}/{country.slug}/{locale}/">
   {_alternates(country, shared, local, len(chapters))}
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="worldreports.io">
+  <meta property="og:site_name" content="Estatísticas Recentes">
   <meta property="og:locale" content="{e(loc.og_locale)}">
   <meta property="og:title" content="{e(title)}">
   <meta property="og:description" content="{e(desc)}">
@@ -850,7 +851,7 @@ def negotiator(country: Country, shared: dict, local: dict,
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {_analytics()}
   <meta name="robots" content="noindex, follow">
-  <title>{e(ch.tx(country.name))} — worldreports.io</title>
+  <title>{e(ch.tx(country.name))} — Estatísticas Recentes</title>
   <link rel="canonical" href="{ORIGIN}/{country.slug}/{country.default_locale}/">
   {_alternates(country, shared, local, n)}
   <link rel="stylesheet" href="../assets/app.css">
@@ -920,7 +921,7 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
     doc = {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "worldreports.io",
+        "name": SITE_NAME,
         "url": ORIGIN + "/",
         "description": "Pranchas de estatísticas oficiais, um país de cada vez, "
                        "construídas apenas a partir de CSVs versionados.",
@@ -934,11 +935,11 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {_analytics()}
-  <title>worldreports.io — estatísticas oficiais, país por país</title>
+  <title>Estatísticas Recentes — dados oficiais, país por país</title>
   <meta name="description" content="Pranchas de dados sobre {len(countries)} países, {years[0]}–{years[1]}, construídas apenas com as estatísticas que suas próprias instituições publicam e regeneradas a partir de CSVs versionados.">
   <link rel="canonical" href="{ORIGIN}/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="worldreports.io">
+  <meta property="og:title" content="Estatísticas Recentes">
   <meta property="og:description" content="Estatísticas oficiais, país por país.">
   <meta property="og:url" content="{ORIGIN}/">
   <link rel="icon" href="data:image/svg+xml,{e('<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1 1\"><text y=\".85\" font-size=\"1\">🌍</text></svg>')}">
@@ -949,7 +950,7 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
 </head>
 <body class="home">
   <header class="home__head">
-    <h1 class="home__mark">worldreports.io</h1>
+    <h1 class="home__mark">Estatísticas Recentes</h1>
     <p class="home__dek">Pranchas de estatísticas oficiais, um país de cada
       vez. Cada número vem da instituição que o publica, e cada gráfico é
       regenerado a partir de CSVs versionados — assim, um número na página e

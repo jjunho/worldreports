@@ -111,11 +111,34 @@ def test_comtrade_snapshot_uses_world_denominator_and_keeps_caveat():
     expected = float(us["value_usd"]) / float(world["value_usd"]) * 100
     assert float(us["share_of_flow_pct"]) == pytest.approx(expected, abs=0.01)
     assert not any("Taiwan" in r["partner"] for r in table)
+
+
+def test_comtrade_series_fills_the_destination_slot_through_2025():
+    table = rows("trade/trade_comtrade_partners.csv")
+    assert {int(r["year"]) for r in table} == set(range(2006, 2026))
+    us = {int(r["year"]): float(r["share_pct"]) for r in table
+          if r["partner"] == "United States"}
+    assert us[2006] == pytest.approx(21.03)
+    assert us[2025] == pytest.approx(11.15)
     canonical = plate(SLUG, "plate_trade").panel("Top export destinations")
-    assert not canonical.lines()
-    assert "requires a time series" in " ".join(canonical.texts())
-    panel = plate(SLUG, "plate_trade").panel("Lens — top export destinations")
-    assert any("Taiwan absent" in t for t in panel.texts())
+    assert canonical.lines()
+    us_points = canonical.points("United States")
+    assert us_points[2025] == pytest.approx(11.15)
+    assert not any("pending" in t.lower() for t in canonical.texts())
+    lens = plate(SLUG, "plate_trade").panel("Lens — top export destinations")
+    assert any("Taiwan absent" in t for t in lens.texts())
+
+
+def test_policy_rate_keeps_the_2019_lpr_break():
+    table = by_year("markets/policy_rate.csv")
+    assert float(table[2018]["official_lending_1y"]) == pytest.approx(4.35)
+    assert not (table[2018].get("lpr_1y") or "").strip()
+    assert float(table[2025]["lpr_1y"]) == pytest.approx(3.033, abs=0.001)
+    panel = plate(SLUG, "plate_markets").panel("Policy rate vs inflation")
+    labels = set(panel.lines())
+    assert "Official lending rate (1Y)" in labels
+    assert "LPR (1Y)" in labels
+    assert "Inflation" in labels
 
 
 def test_currency_direction_is_stronger_up_and_equity_is_converted_to_usd():

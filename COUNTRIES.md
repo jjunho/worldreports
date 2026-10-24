@@ -12,7 +12,7 @@ Method: [SOURCING_A_COUNTRY.md](SOURCING_A_COUNTRY.md), then
 | Slug | Languages | Plates | Datasets |
 |------|-----------|--------|----------|
 | `brasil` | pt · en · ko · zh-Hans | 12 | 55 |
-| `china` | zh-Hans · en · pt · ko | 12 | 55 |
+| `china` | zh-Hans · en · pt · ko | 12 | 59 |
 | `south-korea` | ko · en · pt · zh-Hans | 12 | 58 |
 
 Every country publishes in four locales: its own official language, English,
