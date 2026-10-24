@@ -132,10 +132,23 @@ def test_every_country_homepage_has_a_summary_strip(site, country):
             f"{country.slug}/{loc.code}: homepage summary is incomplete"
 
 
+def test_every_front_page_offers_the_same_four_languages(site):
+    homes = {"pt": site / "index.html", "en": site / "en" / "index.html",
+             "ko": site / "ko" / "index.html",
+             "zh-Hans": site / "zh-Hans" / "index.html"}
+    html_lang = {"pt": "pt-BR", "en": "en", "ko": "ko", "zh-Hans": "zh-CN"}
+    for code, path in homes.items():
+        doc = parse(path)
+        assert doc.html_lang == html_lang[code], f"{path}: {doc.html_lang}"
+        for target in ("/", "/ko/", "/zh-Hans/", "/en/"):
+            assert target in doc.links, f"{path}: no {target} language link"
+
+
 def test_the_front_page_links_to_every_country(site, countries):
     doc = parse(site / "index.html")
     for c in countries:
-        assert f"/{c.slug}/" in doc.links, f"front page omits {c.slug}"
+        assert any(href.startswith(f"/{c.slug}/") for href in doc.links), \
+            f"front page omits {c.slug}"
 
 
 def test_every_page_is_well_formed(site):

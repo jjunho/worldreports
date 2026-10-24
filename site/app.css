@@ -673,6 +673,10 @@ table.srctable .is-other { color: var(--faint); }
   padding: var(--pad);
 }
 .home__head { margin-bottom: clamp(2rem, 5vw, 3.5rem); }
+.home__top {
+  display: flex; align-items: flex-start; justify-content: space-between;
+  gap: 1rem; flex-wrap: wrap;
+}
 .home__mark {
   font-size: clamp(2.6rem, 9vw, 6rem); font-weight: 700;
   letter-spacing: -.03em; line-height: .95;

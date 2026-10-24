@@ -45,6 +45,101 @@ ORIGIN = "https://estatisticas.jjunho.org"
 REPO = "https://github.com/jjunho/worldreports"
 GOOGLE_ANALYTICS_ID = "G-7LKE9YHT74"
 SITE_NAME = "Estatísticas Recentes"
+SITE_NAMES = {
+    "pt": "Estatísticas Recentes",
+    "en": "Recent Statistics",
+    "ko": "최근 통계",
+    "zh-Hans": "近期统计",
+}
+
+# The atlas front page is published in the same four languages as the
+# countries. Portuguese keeps the root; every other locale gets a directory,
+# so the selector is a set of real links rather than a script that rewrites
+# the page.
+HOME_LOCALES = (
+    ("pt", "pt-BR", "pt_BR", "Português", "/"),
+    ("ko", "ko", "ko_KR", "한국어", "/ko/"),
+    ("zh-Hans", "zh-CN", "zh_CN", "简体中文", "/zh-Hans/"),
+    ("en", "en", "en_US", "English", "/en/"),
+)
+HOME_COPY = {
+    "pt": {
+        "title": "Estatísticas Recentes — dados oficiais, país por país",
+        "description": ("Pranchas de dados sobre {n} países, {y0}–{y1}, "
+                        "construídas apenas com as estatísticas que suas "
+                        "próprias instituições publicam e regeneradas a "
+                        "partir de CSVs versionados."),
+        "dek": ("Pranchas de estatísticas oficiais, um país de cada vez. "
+                "Cada número vem da instituição que o publica, e cada "
+                "gráfico é regenerado a partir de CSVs versionados — assim, "
+                "um número na página e o arquivo por trás dele não podem "
+                "divergir."),
+        "og": "Estatísticas oficiais, país por país.",
+        "footer": "Dados, gráficos e código no GitHub",
+        "built": "gerado em",
+    },
+    "en": {
+        "title": "Recent Statistics — official data, country by country",
+        "description": ("Data plates on {n} countries, {y0}–{y1}, built only "
+                        "from the statistics their own institutions publish "
+                        "and regenerated from committed CSVs."),
+        "dek": ("Plates of official statistics, one country at a time. Every "
+                "number comes from the institution that publishes it, and "
+                "every chart is regenerated from committed CSVs — so a "
+                "number on a page and the file behind it cannot drift apart."),
+        "og": "Official statistics, country by country.",
+        "footer": "Data, charts and source on GitHub",
+        "built": "built",
+    },
+    "ko": {
+        "title": "최근 통계 — 공식 통계, 나라별로",
+        "description": ("{y0}–{y1}년 {n}개국의 데이터 플레이트. 각국 공식 "
+                        "기관이 발표한 통계만 사용하고 저장소에 커밋된 "
+                        "CSV에서 다시 생성합니다."),
+        "dek": ("공식 통계 플레이트, 한 나라씩. 모든 수치는 이를 발표한 "
+                "기관에서 나오며, 모든 차트는 커밋된 CSV에서 다시 "
+                "생성됩니다. 따라서 페이지의 숫자와 그 뒤의 파일이 어긋날 "
+                "수 없습니다."),
+        "og": "공식 통계, 나라별로.",
+        "footer": "데이터, 차트와 코드는 GitHub에",
+        "built": "생성",
+    },
+    "zh-Hans": {
+        "title": "近期统计 — 官方数据，逐国呈现",
+        "description": ("{y0}–{y1}年{n}个国家的数据图版，仅采用各国官方机构"
+                        "发布的统计数据，并由已提交的CSV重新生成，确保页面"
+                        "数字与底层文件一致，可逐项复核。"),
+        "dek": ("官方统计图版，一次一个国家。每个数字都来自发布它的机构，"
+                "每张图表都由已提交的CSV重新生成——因此页面上的数字与背后"
+                "的文件不会脱节。"),
+        "og": "官方统计，逐国呈现。",
+        "footer": "数据、图表与代码见 GitHub",
+        "built": "生成于",
+    },
+}
+
+
+def _home_langs(locale: str, shared: dict) -> str:
+    """The same four language links on every atlas front page."""
+    label = (shared.get(locale) or {}).get("lang.label") or "Language"
+    out = []
+    for code, html_lang, _, endonym, path in HOME_LOCALES:
+        on = code == locale
+        cls = "lang__btn is-on" if on else "lang__btn"
+        current = ' aria-current="true"' if on else ""
+        out.append(f'<a class="{cls}" hreflang="{e(html_lang)}" '
+                   f'lang="{e(html_lang)}" href="{e(path)}"'
+                   f'{current}>{e(endonym)}</a>')
+    return f'<nav class="lang" aria-label="{e(label)}">' + "".join(out) + "</nav>"
+
+
+def _home_alternates() -> str:
+    out = [f'<link rel="alternate" hreflang="x-default" '
+           f'href="{ORIGIN}/">']
+    for _, html_lang, _, _, path in HOME_LOCALES:
+        out.append(f'<link rel="alternate" hreflang="{e(html_lang)}" '
+                   f'href="{ORIGIN}{e(path)}">')
+    return "\n  ".join(out)
 
 # The thumbnails are rendered at this size; stating it in the markup lets the
 # browser reserve the space before the image arrives, so the cards do not
@@ -218,7 +313,8 @@ def _jsonld(country: Country, ch: Chrome, datasets: list[dict]) -> str:
         "spatialCoverage": country.seo.get("spatial") or ch.tx(country.name),
         "isAccessibleForFree": True,
         "license": f"{REPO}/blob/main/LICENSE",
-        "creator": {"@type": "Organization", "name": SITE_NAME,
+        "creator": {"@type": "Organization",
+                    "name": SITE_NAMES.get(ch.locale, SITE_NAME),
                     "url": ORIGIN},
         "distribution": [{
             "@type": "DataDownload",
@@ -769,7 +865,7 @@ def country_page(country: Country, locale: str, chapters: list[dict],
   <link rel="canonical" href="{ORIGIN}/{country.slug}/{locale}/">
   {_alternates(country, shared, local, len(chapters))}
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Estatísticas Recentes">
+  <meta property="og:site_name" content="{e(SITE_NAMES.get(locale, SITE_NAME))}">
   <meta property="og:locale" content="{e(loc.og_locale)}">
   <meta property="og:title" content="{e(title)}">
   <meta property="og:description" content="{e(desc)}">
@@ -851,7 +947,7 @@ def negotiator(country: Country, shared: dict, local: dict,
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {_analytics()}
   <meta name="robots" content="noindex, follow">
-  <title>{e(ch.tx(country.name))} — Estatísticas Recentes</title>
+  <title>{e(ch.tx(country.name))} — {e(SITE_NAMES.get(ch.locale, SITE_NAME))}</title>
   <link rel="canonical" href="{ORIGIN}/{country.slug}/{country.default_locale}/">
   {_alternates(country, shared, local, n)}
   <link rel="stylesheet" href="../assets/app.css">
@@ -887,81 +983,92 @@ def negotiator(country: Country, shared: dict, local: dict,
 """
 
 
-def home(countries: list[Country], shared: dict, built: str) -> str:
-    """The front page: three flags and nothing to read before them.
+def home(countries: list[Country], shared: dict, built: str,
+         locale: str = "pt") -> str:
+    """The atlas front page in one language.
 
-    It is in Portuguese, the language of this fork's first reader, with
-    each country named in its own language too; every card links to that
-    country's negotiator so the browser's own preference is honoured one
-    click later.
+    Portuguese keeps the root and every other locale has its own directory,
+    so the language selector is four real links. Each card goes straight to
+    the country edition in that language; the country negotiator remains the
+    x-default for a reader who lands on /brasil/ without one.
     """
+    copy = HOME_COPY[locale]
+    html_lang = next(h for c, h, _, _, _ in HOME_LOCALES if c == locale)
+    og_locale = next(o for c, _, o, _, _ in HOME_LOCALES if c == locale)
+    path = next(p for c, _, _, _, p in HOME_LOCALES if c == locale)
+    years = (min(c.years[0] for c in countries),
+             max(c.years[-1] for c in countries))
+    desc = copy["description"].format(n=len(countries), y0=years[0],
+                                      y1=years[1])
+
     cards = []
     for c in countries:
         bands = list(getattr(c.palette, "flag_bands", None) or [])[:3]
         strip = "".join(f'<i style="background:{e(b)}"></i>' for b in bands)
         endonyms = ", ".join(l.endonym for l in c.locales)
-        # The country's own name beside the English one, where the two
-        # differ. Its own name is the one in the language it publishes
-        # first — not merely the first non-English name it carries, which
-        # for the United States would be the Portuguese exonym, and not
-        # the default locale either, which is English everywhere because
-        # English is the fallback rather than anyone's first language.
         native = c.name.get(c.locales[0].code)
-        shown = c.name.get("pt") or c.name.get("en") or c.wordmark
+        shown = c.name.get(locale) or c.name.get("en") or c.wordmark
         also = f" · {e(native)}" if native and native != shown else ""
-        cards.append(f"""<li><a class="home__card" href="/{c.slug}/">
+        href = f"/{c.slug}/{locale}/" if locale in c.locale_codes \
+            else f"/{c.slug}/"
+        cards.append(f"""<li><a class="home__card" href="{e(href)}">
       <span class="home__flag" aria-hidden="true">{e(c.flag_emoji)}</span>
       <span class="home__bands" aria-hidden="true">{strip}</span>
       <span class="home__name">{e(shown)}{also}</span>
       <span class="home__meta">{c.years[0]}–{c.years[-1]} · {e(endonyms)}</span>
     </a></li>""")
 
-    years = (min(c.years[0] for c in countries),
-             max(c.years[-1] for c in countries))
     doc = {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": SITE_NAME,
-        "url": ORIGIN + "/",
-        "description": "Pranchas de estatísticas oficiais, um país de cada vez, "
-                       "construídas apenas a partir de CSVs versionados.",
+        "name": SITE_NAMES.get(locale, SITE_NAME),
+        "url": ORIGIN + path,
+        "inLanguage": html_lang,
+        "description": desc,
         "hasPart": [{"@type": "Dataset",
-                     "name": c.name.get("pt") or c.wordmark,
-                     "url": f"{ORIGIN}/{c.slug}/"} for c in countries],
+                     "name": c.name.get(locale) or c.name.get("en")
+                             or c.wordmark,
+                     "url": f"{ORIGIN}/{c.slug}/{locale}/"
+                            if locale in c.locale_codes
+                            else f"{ORIGIN}/{c.slug}/"}
+                    for c in countries],
     }
     return f"""<!doctype html>
-<html lang="pt-BR">
+<html lang="{e(html_lang)}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {_analytics()}
-  <title>Estatísticas Recentes — dados oficiais, país por país</title>
-  <meta name="description" content="Pranchas de dados sobre {len(countries)} países, {years[0]}–{years[1]}, construídas apenas com as estatísticas que suas próprias instituições publicam e regeneradas a partir de CSVs versionados.">
-  <link rel="canonical" href="{ORIGIN}/">
+  <title>{e(copy["title"])}</title>
+  <meta name="description" content="{e(desc)}">
+  <link rel="canonical" href="{ORIGIN}{e(path)}">
+  {_home_alternates()}
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Estatísticas Recentes">
-  <meta property="og:description" content="Estatísticas oficiais, país por país.">
-  <meta property="og:url" content="{ORIGIN}/">
+  <meta property="og:site_name" content="{e(SITE_NAMES.get(locale, SITE_NAME))}">
+  <meta property="og:locale" content="{e(og_locale)}">
+  <meta property="og:title" content="{e(SITE_NAMES.get(locale, SITE_NAME))}">
+  <meta property="og:description" content="{e(copy["og"])}">
+  <meta property="og:url" content="{ORIGIN}{e(path)}">
   <link rel="icon" href="data:image/svg+xml,{e('<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1 1\"><text y=\".85\" font-size=\"1\">🌍</text></svg>')}">
-  <link rel="stylesheet" href="assets/app.css">
+  <link rel="stylesheet" href="/assets/app.css">
   <script type="application/ld+json">
 {json.dumps(doc, ensure_ascii=False, indent=1)}
   </script>
 </head>
 <body class="home">
   <header class="home__head">
-    <h1 class="home__mark">Estatísticas Recentes</h1>
-    <p class="home__dek">Pranchas de estatísticas oficiais, um país de cada
-      vez. Cada número vem da instituição que o publica, e cada gráfico é
-      regenerado a partir de CSVs versionados — assim, um número na página e
-      o arquivo por trás dele não podem divergir.</p>
+    <div class="home__top">
+      <h1 class="home__mark">{e(SITE_NAMES.get(locale, SITE_NAME))}</h1>
+      {_home_langs(locale, shared)}
+    </div>
+    <p class="home__dek">{e(copy["dek"])}</p>
   </header>
   <ul class="home__grid">
     {chr(10).join(cards)}
   </ul>
   <footer class="home__foot">
-    <a href="{REPO}">Dados, gráficos e código no GitHub</a> ·
-    built {built}
+    <a href="{REPO}">{e(copy["footer"])}</a> ·
+    {e(copy["built"])} {e(built)}
   </footer>
 </body>
 </html>
@@ -970,8 +1077,9 @@ def home(countries: list[Country], shared: dict, built: str) -> str:
 
 # ------------------------------------------------------------------ build
 def _sitemap(countries: list[Country], built: str) -> str:
-    urls = [f"  <url><loc>{ORIGIN}/</loc><lastmod>{built}</lastmod>"
-            f"<priority>1.0</priority></url>"]
+    urls = [f"  <url><loc>{ORIGIN}{path}</loc><lastmod>{built}</lastmod>"
+            f"<priority>{1.0 if path == '/' else 0.8}</priority></url>"
+            for _, _, _, _, path in HOME_LOCALES]
     for c in countries:
         for loc in c.locales:
             alts = "".join(
@@ -1047,8 +1155,11 @@ def build(out_dir: Path, only: list[str] | None = None) -> list[str]:
               f"{len(country.locales)} languages, {len(datasets)} datasets")
 
     if not only:
-        (out_dir / "index.html").write_text(home(countries, shared, built),
-                                            encoding="utf-8")
+        for code, _, _, _, path in HOME_LOCALES:
+            target = out_dir / path.strip("/")
+            target.mkdir(parents=True, exist_ok=True)
+            (target / "index.html").write_text(
+                home(countries, shared, built, code), encoding="utf-8")
         (out_dir / "CNAME").write_text("estatisticas.jjunho.org\n", encoding="utf-8")
         (out_dir / "sitemap.xml").write_text(_sitemap(countries, built),
                                              encoding="utf-8")
